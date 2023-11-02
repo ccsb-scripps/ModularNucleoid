@@ -3,6 +3,11 @@ Software for Generating Models of JCVI-Syn3A Nucleoids
 May 2023, David S. Goodsell, provided as is for unrestricted use
 ModularNucleoid is used to generate models of the minimal genome bacterium JCVI-Syn3A, producing a series of models that test hypotheses about transcription, condensation, and overall distribution of the genome. 
 
+<p align="center" float="left">
+  <img src="./OutputFiles/ScreenshotModularLattice.png" width="40%" />
+  <img src="./OutputFiles/screenshot_cellpack.png" width="50%" /> 
+</p>
+
 ## Input Files
 1. `syn3Asmall_ribosomes.pdb`: Centroids of ribosomes from cryoEM in nm, should be centered on the origin.
 2. `4v6k_mask.pdb`: Mask file for ribosome (lattice coordinates=3.4nm).
