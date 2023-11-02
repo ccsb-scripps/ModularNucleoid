@@ -1,0 +1,52 @@
+#! /usr/bin/env bash
+#
+seedinc=123
+seed=1234
+#
+echo "------starting generate_connect------------"
+echo "   "
+./generate_connect << EOF
+syn3A.genome
+syn3A.connect
+503,187,187
+120
+EOF
+
+for (( step=1; step<=1; step++)); do
+  seed=$((seed+seedinc))
+echo "------starting step $step------"
+echo "------starting generate_pol------------"
+echo "   "
+./generate_pol << EOF
+syn3Asmall_ribosomes.pdb
+6c6u_mask.pdb
+4v6k_mask.pdb
+7nyx_mask.pdb
+syn3A.$step.pdb
+187
+201.26
+$seed
+20.
+RANDOM
+EOF
+#
+echo "------starting modularlattice------------"
+echo "   "
+./modularlattice << EOF
+syn3A.$step.pdb
+syn3A.connect
+syn3A_lattice.$step.pdb
+0
+$seed
+60.
+EOF
+#
+echo "------starting relax------------"
+echo "   "
+./relax << EOF
+syn3A_lattice.$step.pdb
+syn3A_relax.$step.pdb
+1499
+EOF
+
+done

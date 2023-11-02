@@ -1,0 +1,41 @@
+model *
+select all
+wireframe off
+cpk off
+backbone off
+select *:A
+backbone 150
+color [255,245,50]
+select *:B and 2-9999
+color [255,100,55]
+backbone 100
+select *:C and 2-9999
+color [255,150,135]
+backbone 100
+select *:D and 2-9999
+color [200,50,255]
+backbone 100
+select *:E and 2-9999
+color [100,200,255]
+backbone 100
+cpk 130
+select */0
+cpk 0.8
+select POL
+color [255,100,100]
+select RIB:S
+color [255,100,255]
+select RIB:L
+color [205,100,255]
+select SMC
+color [255,150,0]
+select *.CI
+cpk off
+slab 100
+depth 40
+set zshade
+set zshadepower 1
+set zslab 90
+set specular off
+display all
+select all

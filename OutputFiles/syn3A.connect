@@ -1,0 +1,5272 @@
+DNA       1
+SEG       1  POL     504   2   SMC     691   1      55  A
+SEG       2  SMC     691   2   SMC     691   3     314  A
+SEG       3  SMC     691   4   POL     505   1      55  A
+SEG       4  POL     505   2   SMC     692   1      55  A
+SEG       5  SMC     692   2   SMC     692   3      97  A
+SEG       6  SMC     692   4   POL     506   1      55  A
+SEG       7  POL     506   2   SMC     693   1      55  A
+SEG       8  SMC     693   2   SMC     693   3     231  A
+SEG       9  SMC     693   4   POL     507   2      55  A
+SEG      10  POL     507   1   SMC     694   1      55  A
+SEG      11  SMC     694   2   SMC     694   3      83  A
+SEG      12  SMC     694   4   POL     508   2      55  A
+SEG      13  POL     508   1   SMC     695   1      55  A
+SEG      14  SMC     695   2   SMC     695   3     216  A
+SEG      15  SMC     695   4   POL     509   2      55  A
+SEG      16  POL     509   1   SMC     696   1      55  A
+SEG      17  SMC     696   2   SMC     696   3     388  A
+SEG      18  SMC     696   4   POL     510   2      55  A
+SEG      19  POL     510   1   SMC     697   1      55  A
+SEG      20  SMC     697   2   SMC     697   3      44  A
+SEG      21  SMC     697   4   POL     511   1      55  A
+SEG      22  POL     511   2   SMC     698   1      55  A
+SEG      23  SMC     698   2   SMC     698   3    1021  A
+SEG      24  SMC     698   4   POL     512   2      55  A
+SEG      25  POL     512   1   SMC     699   1      55  A
+SEG      26  SMC     699   2   SMC     699   3     157  A
+SEG      27  SMC     699   4   POL     513   2      55  A
+SEG      28  POL     513   1   SMC     700   1      55  A
+SEG      29  SMC     700   2   SMC     700   3     459  A
+SEG      30  SMC     700   4   POL     514   2      55  A
+SEG      31  POL     514   1   SMC     701   1      55  A
+SEG      32  SMC     701   2   SMC     701   3     186  A
+SEG      33  SMC     701   4   POL     515   1      55  A
+SEG      34  POL     515   2   SMC     702   1      55  A
+SEG      35  SMC     702   2   SMC     702   3     122  A
+SEG      36  SMC     702   4   POL     516   1      55  A
+SEG      38  POL     516   2   SMC     703   1      44  A
+SEG      39  SMC     703   2   POL     517   2      44  A
+SEG      41  POL     517   1   SMC     704   1      54  A
+SEG      42  SMC     704   2   POL     518   2      54  A
+SEG      44  POL     518   1   SMC     705   1      73  A
+SEG      45  SMC     705   2   POL     519   2      73  A
+SEG      46  POL     519   1   SMC     706   1      55  A
+SEG      47  SMC     706   2   SMC     706   3     119  A
+SEG      48  SMC     706   4   POL     520   2      55  A
+SEG      50  POL     520   1   SMC     707   1      51  A
+SEG      51  SMC     707   2   POL     521   2      51  A
+SEG      53  POL     521   1   SMC     708   1      56  A
+SEG      54  SMC     708   2   POL     522   2      56  A
+SEG      55  POL     522   1   SMC     709   1      55  A
+SEG      56  SMC     709   2   SMC     709   3     246  A
+SEG      57  SMC     709   4   POL     523   1      55  A
+SEG      58  POL     523   2   SMC     710   1      55  A
+SEG      59  SMC     710   2   SMC     710   3     210  A
+SEG      60  SMC     710   4   POL     524   2      55  A
+SEG      61  POL     524   1   SMC     711   1      55  A
+SEG      62  SMC     711   2   SMC     711   3     915  A
+SEG      63  SMC     711   4   POL     525   2      55  A
+SEG      64  POL     525   1   SMC     712   1      55  A
+SEG      65  SMC     712   2   SMC     712   3     156  A
+SEG      66  SMC     712   4   POL     526   1      55  A
+SEG      67  POL     526   2   SMC     713   1      55  A
+SEG      68  SMC     713   2   SMC     713   3     203  A
+SEG      69  SMC     713   4   POL     527   1      55  A
+SEG      71  POL     527   2   SMC     714   1      71  A
+SEG      72  SMC     714   2   POL     528   1      71  A
+SEG      73  POL     528   2   SMC     715   1      55  A
+SEG      74  SMC     715   2   SMC     715   3     483  A
+SEG      75  SMC     715   4   POL     529   1      55  A
+SEG      77  POL     529   2   SMC     716   1      66  A
+SEG      78  SMC     716   2   POL     530   1      66  A
+SEG      79  POL     530   2   SMC     717   1      55  A
+SEG      80  SMC     717   2   SMC     717   3      40  A
+SEG      81  SMC     717   4   POL     531   1      55  A
+SEG      82  POL     531   2   SMC     718   1      55  A
+SEG      83  SMC     718   2   SMC     718   3     270  A
+SEG      84  SMC     718   4   POL     532   1      55  A
+SEG      85  POL     532   2   SMC     719   1      55  A
+SEG      86  SMC     719   2   SMC     719   3     200  A
+SEG      87  SMC     719   4   POL     533   1      55  A
+SEG      88  POL     533   2   SMC     720   1      55  A
+SEG      89  SMC     720   2   SMC     720   3      57  A
+SEG      90  SMC     720   4   POL     534   1      55  A
+SEG      91  POL     534   2   SMC     721   1      55  A
+SEG      92  SMC     721   2   SMC     721   3      51  A
+SEG      93  SMC     721   4   POL     535   1      55  A
+SEG      94  POL     535   2   SMC     722   1      55  A
+SEG      95  SMC     722   2   SMC     722   3     688  A
+SEG      96  SMC     722   4   POL     536   1      55  A
+SEG      97  POL     536   2   SMC     723   1      55  A
+SEG      98  SMC     723   2   SMC     723   3      53  A
+SEG      99  SMC     723   4   POL     537   1      55  A
+SEG     100  POL     537   2   SMC     724   1      55  A
+SEG     101  SMC     724   2   SMC     724   3     125  A
+SEG     102  SMC     724   4   POL     538   1      55  A
+SEG     103  POL     538   2   SMC     725   1      55  A
+SEG     104  SMC     725   2   SMC     725   3     271  A
+SEG     105  SMC     725   4   POL     539   2      55  A
+SEG     106  POL     539   1   SMC     726   1      55  A
+SEG     107  SMC     726   2   SMC     726   3     180  A
+SEG     108  SMC     726   4   POL     540   2      55  A
+SEG     110  POL     540   1   SMC     727   1      49  A
+SEG     111  SMC     727   2   POL     541   2      49  A
+SEG     113  POL     541   1   SMC     728   1      67  A
+SEG     114  SMC     728   2   POL     542   2      67  A
+SEG     116  POL     542   1   SMC     729   1      64  A
+SEG     117  SMC     729   2   POL     543   1      64  A
+SEG     119  POL     543   2   SMC     730   1      61  A
+SEG     120  SMC     730   2   POL     544   1      61  A
+SEG     121  POL     544   2   SMC     731   1      55  A
+SEG     122  SMC     731   2   SMC     731   3     104  A
+SEG     123  SMC     731   4   POL     545   1      55  A
+SEG     125  POL     545   2   SMC     732   1      52  A
+SEG     126  SMC     732   2   POL     546   2      52  A
+SEG     128  POL     546   1   SMC     733   1      75  A
+SEG     129  SMC     733   2   POL     547   1      75  A
+SEG     131  POL     547   2   SMC     734   1      58  A
+SEG     132  SMC     734   2   POL     548   1      58  A
+SEG     133  POL     548   2   SMC     735   1      55  A
+SEG     134  SMC     735   2   SMC     735   3      69  A
+SEG     135  SMC     735   4   POL     549   1      55  A
+SEG     136  POL     549   2   SMC     736   1      55  A
+SEG     137  SMC     736   2   SMC     736   3      88  A
+SEG     138  SMC     736   4   POL     550   1      55  A
+SEG     139  POL     550   2   SMC     737   1      55  A
+SEG     140  SMC     737   2   SMC     737   3      37  A
+SEG     141  SMC     737   4   POL     551   1      55  A
+SEG     143  POL     551   2   SMC     738   1      67  A
+SEG     144  SMC     738   2   POL     552   1      67  A
+SEG     145  POL     552   2   SMC     739   1      55  A
+SEG     146  SMC     739   2   SMC     739   3     145  A
+SEG     147  SMC     739   4   POL     553   1      55  A
+SEG     149  POL     553   2   SMC     740   1      53  A
+SEG     150  SMC     740   2   POL     554   1      53  A
+SEG     152  POL     554   2   SMC     741   1      42  A
+SEG     153  SMC     741   2   POL     555   2      42  A
+SEG     154  POL     555   1   SMC     742   1      55  A
+SEG     155  SMC     742   2   SMC     742   3     454  A
+SEG     156  SMC     742   4   POL     556   2      55  A
+SEG     157  POL     556   1   SMC     743   1      55  A
+SEG     158  SMC     743   2   SMC     743   3     256  A
+SEG     159  SMC     743   4   POL     557   2      55  A
+SEG     160  POL     557   1   SMC     744   1      55  A
+SEG     161  SMC     744   2   SMC     744   3     198  A
+SEG     162  SMC     744   4   POL     558   2      55  A
+SEG     163  POL     558   1   SMC     745   1      55  A
+SEG     164  SMC     745   2   SMC     745   3      56  A
+SEG     165  SMC     745   4   POL     559   2      55  A
+SEG     166  POL     559   1   SMC     746   1      55  A
+SEG     167  SMC     746   2   SMC     746   3     282  A
+SEG     168  SMC     746   4   POL     560   1      55  A
+SEG     170  POL     560   2   SMC     747   1      71  A
+SEG     171  SMC     747   2   POL     561   1      71  A
+SEG     172  POL     561   2   SMC     748   1      55  A
+SEG     173  SMC     748   2   SMC     748   3     101  A
+SEG     174  SMC     748   4   POL     562   1      55  A
+SEG     175  POL     562   2   SMC     749   1      55  A
+SEG     176  SMC     749   2   SMC     749   3     136  A
+SEG     177  SMC     749   4   POL     563   2      55  A
+SEG     179  POL     563   1   SMC     750   1      69  A
+SEG     180  SMC     750   2   POL     564   2      69  A
+SEG     182  POL     564   1   SMC     751   1      44  A
+SEG     183  SMC     751   2   POL     565   1      44  A
+SEG     184  POL     565   2   SMC     752   1      55  A
+SEG     185  SMC     752   2   SMC     752   3      76  A
+SEG     186  SMC     752   4   POL     566   1      55  A
+SEG     187  POL     566   2   SMC     753   1      55  A
+SEG     188  SMC     753   2   SMC     753   3      70  A
+SEG     189  SMC     753   4   POL     567   2      55  A
+SEG     190  POL     567   1   SMC     754   1      55  A
+SEG     191  SMC     754   2   SMC     754   3     112  A
+SEG     192  SMC     754   4   POL     568   2      55  A
+SEG     194  POL     568   1   SMC     755   1      51  A
+SEG     195  SMC     755   2   POL     569   2      51  A
+SEG     196  POL     569   1   SMC     756   1      55  A
+SEG     197  SMC     756   2   SMC     756   3     599  A
+SEG     198  SMC     756   4   POL     570   2      55  A
+SEG     199  POL     570   1   SMC     757   1      55  A
+SEG     200  SMC     757   2   SMC     757   3     124  A
+SEG     201  SMC     757   4   POL     571   1      55  A
+SEG     202  POL     571   2   SMC     758   1      55  A
+SEG     203  SMC     758   2   SMC     758   3      43  A
+SEG     204  SMC     758   4   POL     572   1      55  A
+SEG     205  POL     572   2   SMC     759   1      55  A
+SEG     206  SMC     759   2   SMC     759   3     560  A
+SEG     207  SMC     759   4   POL     573   1      55  A
+SEG     208  POL     573   2   SMC     760   1      55  A
+SEG     209  SMC     760   2   SMC     760   3     172  A
+SEG     210  SMC     760   4   POL     574   1      55  A
+SEG     212  POL     574   2   SMC     761   1      49  A
+SEG     213  SMC     761   2   POL     575   2      49  A
+SEG     214  POL     575   1   SMC     762   1      55  A
+SEG     215  SMC     762   2   SMC     762   3     587  A
+SEG     216  SMC     762   4   POL     576   1      55  A
+SEG     218  POL     576   2   SMC     763   1      68  A
+SEG     219  SMC     763   2   POL     577   1      68  A
+SEG     221  POL     577   2   SMC     764   1      63  A
+SEG     222  SMC     764   2   POL     578   1      63  A
+SEG     224  POL     578   2   SMC     765   1      74  A
+SEG     225  SMC     765   2   POL     579   1      74  A
+SEG     226  POL     579   2   SMC     766   1      55  A
+SEG     227  SMC     766   2   SMC     766   3     130  A
+SEG     228  SMC     766   4   POL     580   1      55  A
+SEG     229  POL     580   2   SMC     767   1      55  A
+SEG     230  SMC     767   2   SMC     767   3     329  A
+SEG     231  SMC     767   4   POL     581   1      55  A
+SEG     232  POL     581   2   SMC     768   1      55  A
+SEG     233  SMC     768   2   SMC     768   3      61  A
+SEG     234  SMC     768   4   POL     582   1      55  A
+SEG     236  POL     582   2   SMC     769   1      46  A
+SEG     237  SMC     769   2   POL     583   1      46  A
+SEG     238  POL     583   2   SMC     770   1      55  A
+SEG     239  SMC     770   2   SMC     770   3     654  A
+SEG     240  SMC     770   4   POL     584   1      55  A
+SEG     241  POL     584   2   SMC     771   1      55  A
+SEG     242  SMC     771   2   SMC     771   3     150  A
+SEG     243  SMC     771   4   POL     585   1      55  A
+SEG     244  POL     585   2   SMC     772   1      55  A
+SEG     245  SMC     772   2   SMC     772   3    1332  A
+SEG     246  SMC     772   4   POL     586   1      55  A
+SEG     247  POL     586   2   SMC     773   1      55  A
+SEG     248  SMC     773   2   SMC     773   3     207  A
+SEG     249  SMC     773   4   POL     587   1      55  A
+SEG     250  POL     587   2   SMC     774   1      55  A
+SEG     251  SMC     774   2   SMC     774   3     163  A
+SEG     252  SMC     774   4   POL     588   1      55  A
+SEG     253  POL     588   2   SMC     775   1      55  A
+SEG     254  SMC     775   2   SMC     775   3     317  A
+SEG     255  SMC     775   4   POL     589   1      55  A
+SEG     256  POL     589   2   SMC     776   1      55  A
+SEG     257  SMC     776   2   SMC     776   3     109  A
+SEG     258  SMC     776   4   POL     590   1      55  A
+SEG     260  POL     590   2   SMC     777   1      68  A
+SEG     261  SMC     777   2   POL     591   1      68  A
+SEG     262  POL     591   2   SMC     778   1      55  A
+SEG     263  SMC     778   2   SMC     778   3     140  A
+SEG     264  SMC     778   4   POL     592   2      55  A
+SEG     265  POL     592   1   SMC     779   1      55  A
+SEG     266  SMC     779   2   SMC     779   3     226  A
+SEG     267  SMC     779   4   POL     593   2      55  A
+SEG     269  POL     593   1   SMC     780   1      62  A
+SEG     270  SMC     780   2   POL     594   2      62  A
+SEG     272  POL     594   1   SMC     781   1      66  A
+SEG     273  SMC     781   2   POL     595   1      66  A
+SEG     274  POL     595   2   SMC     782   1      55  A
+SEG     275  SMC     782   2   SMC     782   3     328  A
+SEG     276  SMC     782   4   POL     596   1      55  A
+SEG     277  POL     596   2   SMC     783   1      55  A
+SEG     278  SMC     783   2   SMC     783   3     709  A
+SEG     279  SMC     783   4   POL     597   1      55  A
+SEG     280  POL     597   2   SMC     784   1      55  A
+SEG     281  SMC     784   2   SMC     784   3      75  A
+SEG     282  SMC     784   4   POL     598   2      55  A
+SEG     283  POL     598   1   SMC     785   1      55  A
+SEG     284  SMC     785   2   SMC     785   3     129  A
+SEG     285  SMC     785   4   POL     599   2      55  A
+SEG     286  POL     599   1   SMC     786   1      55  A
+SEG     287  SMC     786   2   SMC     786   3     362  A
+SEG     288  SMC     786   4   POL     600   1      55  A
+SEG     289  POL     600   2   SMC     787   1      55  A
+SEG     290  SMC     787   2   SMC     787   3      55  A
+SEG     291  SMC     787   4   POL     601   1      55  A
+SEG     293  POL     601   2   SMC     788   1      73  A
+SEG     294  SMC     788   2   POL     602   1      73  A
+SEG     296  POL     602   2   SMC     789   1      58  A
+SEG     297  SMC     789   2   POL     603   1      58  A
+SEG     298  POL     603   2   SMC     790   1      55  A
+SEG     299  SMC     790   2   SMC     790   3      61  A
+SEG     300  SMC     790   4   POL     604   1      55  A
+SEG     301  POL     604   2   SMC     791   1      55  A
+SEG     302  SMC     791   2   SMC     791   3     106  A
+SEG     303  SMC     791   4   POL     605   1      55  A
+SEG     304  POL     605   2   SMC     792   1      55  A
+SEG     305  SMC     792   2   SMC     792   3      81  A
+SEG     306  SMC     792   4   POL     606   2      55  A
+SEG     307  POL     606   1   SMC     793   1      55  A
+SEG     308  SMC     793   2   SMC     793   3     364  A
+SEG     309  SMC     793   4   POL     607   1      55  A
+SEG     310  POL     607   2   SMC     794   1      55  A
+SEG     311  SMC     794   2   SMC     794   3     302  A
+SEG     312  SMC     794   4   POL     608   2      55  A
+SEG     313  POL     608   1   SMC     795   1      55  A
+SEG     314  SMC     795   2   SMC     795   3     188  A
+SEG     315  SMC     795   4   POL     609   1      55  A
+SEG     316  POL     609   2   SMC     796   1      55  A
+SEG     317  SMC     796   2   SMC     796   3     107  A
+SEG     318  SMC     796   4   POL     610   2      55  A
+SEG     319  POL     610   1   SMC     797   1      55  A
+SEG     320  SMC     797   2   SMC     797   3     443  A
+SEG     321  SMC     797   4   POL     611   2      55  A
+SEG     322  POL     611   1   SMC     798   1      55  A
+SEG     323  SMC     798   2   SMC     798   3     282  A
+SEG     324  SMC     798   4   POL     612   2      55  A
+SEG     325  POL     612   1   SMC     799   1      55  A
+SEG     326  SMC     799   2   SMC     799   3     250  A
+SEG     327  SMC     799   4   POL     613   2      55  A
+SEG     329  POL     613   1   SMC     800   1      67  A
+SEG     330  SMC     800   2   POL     614   2      67  A
+SEG     331  POL     614   1   SMC     801   1      55  A
+SEG     332  SMC     801   2   SMC     801   3      47  A
+SEG     333  SMC     801   4   POL     615   2      55  A
+SEG     334  POL     615   1   SMC     802   1      55  A
+SEG     335  SMC     802   2   SMC     802   3     166  A
+SEG     336  SMC     802   4   POL     616   2      55  A
+SEG     337  POL     616   1   SMC     803   1      55  A
+SEG     338  SMC     803   2   SMC     803   3     119  A
+SEG     339  SMC     803   4   POL     617   2      55  A
+SEG     340  POL     617   1   SMC     804   1      55  A
+SEG     341  SMC     804   2   SMC     804   3      55  A
+SEG     342  SMC     804   4   POL     618   2      55  A
+SEG     344  POL     618   1   SMC     805   1      50  A
+SEG     345  SMC     805   2   POL     619   2      50  A
+SEG     347  POL     619   1   SMC     806   1      66  A
+SEG     348  SMC     806   2   POL     620   2      66  A
+SEG     349  POL     620   1   SMC     807   1      55  A
+SEG     350  SMC     807   2   SMC     807   3      39  A
+SEG     351  SMC     807   4   POL     621   2      55  A
+SEG     353  POL     621   1   SMC     808   1      55  A
+SEG     354  SMC     808   2   POL     622   2      55  A
+SEG     356  POL     622   1   SMC     809   1      70  A
+SEG     357  SMC     809   2   POL     623   2      70  A
+SEG     359  POL     623   1   SMC     810   1      57  A
+SEG     360  SMC     810   2   POL     624   2      57  A
+SEG     361  POL     624   1   SMC     811   1      55  A
+SEG     362  SMC     811   2   SMC     811   3     115  A
+SEG     363  SMC     811   4   POL     625   2      55  A
+SEG     364  POL     625   1   SMC     812   1      55  A
+SEG     365  SMC     812   2   SMC     812   3      41  A
+SEG     366  SMC     812   4   POL     626   2      55  A
+SEG     368  POL     626   1   SMC     813   1      59  A
+SEG     369  SMC     813   2   POL     627   2      59  A
+SEG     370  POL     627   1   SMC     814   1      55  A
+SEG     371  SMC     814   2   SMC     814   3     779  A
+SEG     372  SMC     814   4   POL     628   1      55  A
+SEG     373  POL     628   2   SMC     815   1      55  A
+SEG     374  SMC     815   2   SMC     815   3     166  A
+SEG     375  SMC     815   4   POL     629   2      55  A
+SEG     377  POL     629   1   SMC     816   1      56  A
+SEG     378  SMC     816   2   POL     630   2      56  A
+SEG     379  POL     630   1   SMC     817   1      55  A
+SEG     380  SMC     817   2   SMC     817   3     206  A
+SEG     381  SMC     817   4   POL     631   2      55  A
+SEG     382  POL     631   1   SMC     818   1      55  A
+SEG     383  SMC     818   2   SMC     818   3     685  A
+SEG     384  SMC     818   4   POL     632   2      55  A
+SEG     385  POL     632   1   SMC     819   1      55  A
+SEG     386  SMC     819   2   SMC     819   3     121  A
+SEG     387  SMC     819   4   POL     633   1      55  A
+SEG     389  POL     633   2   SMC     820   1      60  A
+SEG     390  SMC     820   2   POL     634   2      60  A
+SEG     391  POL     634   1   SMC     821   1      55  A
+SEG     392  SMC     821   2   SMC     821   3      44  A
+SEG     393  SMC     821   4   POL     635   2      55  A
+SEG     395  POL     635   1   SMC     822   1      66  A
+SEG     396  SMC     822   2   POL     636   2      66  A
+SEG     398  POL     636   1   SMC     823   1      64  A
+SEG     399  SMC     823   2   POL     637   2      64  A
+SEG     400  POL     637   1   SMC     824   1      55  A
+SEG     401  SMC     824   2   SMC     824   3     200  A
+SEG     402  SMC     824   4   POL     638   2      55  A
+SEG     403  POL     638   1   SMC     825   1      55  A
+SEG     404  SMC     825   2   SMC     825   3     706  A
+SEG     405  SMC     825   4   POL     639   2      55  A
+SEG     407  POL     639   1   SMC     826   1      40  A
+SEG     408  SMC     826   2   POL     640   2      40  A
+SEG     409  POL     640   1   SMC     827   1      55  A
+SEG     410  SMC     827   2   SMC     827   3     221  A
+SEG     411  SMC     827   4   POL     641   2      55  A
+SEG     412  POL     641   1   SMC     828   1      55  A
+SEG     413  SMC     828   2   SMC     828   3      86  A
+SEG     414  SMC     828   4   POL     642   2      55  A
+SEG     415  POL     642   1   SMC     829   1      55  A
+SEG     416  SMC     829   2   SMC     829   3     273  A
+SEG     417  SMC     829   4   POL     643   2      55  A
+SEG     418  POL     643   1   SMC     830   1      55  A
+SEG     419  SMC     830   2   SMC     830   3      59  A
+SEG     420  SMC     830   4   POL     644   2      55  A
+SEG     422  POL     644   1   SMC     831   1      40  A
+SEG     423  SMC     831   2   POL     645   2      40  A
+SEG     424  POL     645   1   SMC     832   1      55  A
+SEG     425  SMC     832   2   SMC     832   3      48  A
+SEG     426  SMC     832   4   POL     646   2      55  A
+SEG     427  POL     646   1   SMC     833   1      55  A
+SEG     428  SMC     833   2   SMC     833   3      47  A
+SEG     429  SMC     833   4   POL     647   2      55  A
+SEG     430  POL     647   1   SMC     834   1      55  A
+SEG     431  SMC     834   2   SMC     834   3     193  A
+SEG     432  SMC     834   4   POL     648   1      55  A
+SEG     434  POL     648   2   SMC     835   1      50  A
+SEG     435  SMC     835   2   POL     649   2      50  A
+SEG     437  POL     649   1   SMC     836   1      67  A
+SEG     438  SMC     836   2   POL     650   2      67  A
+SEG     439  POL     650   1   SMC     837   1      55  A
+SEG     440  SMC     837   2   SMC     837   3     588  A
+SEG     441  SMC     837   4   POL     651   2      55  A
+SEG     443  POL     651   1   SMC     838   1      59  A
+SEG     444  SMC     838   2   POL     652   2      59  A
+SEG     445  POL     652   1   SMC     839   1      55  A
+SEG     446  SMC     839   2   SMC     839   3     519  A
+SEG     447  SMC     839   4   POL     653   2      55  A
+SEG     448  POL     653   1   SMC     840   1      55  A
+SEG     449  SMC     840   2   SMC     840   3     133  A
+SEG     450  SMC     840   4   POL     654   1      55  A
+SEG     452  POL     654   2   SMC     841   1      40  A
+SEG     453  SMC     841   2   POL     655   1      40  A
+SEG     454  POL     655   2   SMC     842   1      55  A
+SEG     455  SMC     842   2   SMC     842   3      37  A
+SEG     456  SMC     842   4   POL     656   1      55  A
+SEG     458  POL     656   2   SMC     843   1      55  A
+SEG     459  SMC     843   2   POL     657   1      55  A
+SEG     460  POL     657   2   SMC     844   1      55  A
+SEG     461  SMC     844   2   SMC     844   3      63  A
+SEG     462  SMC     844   4   POL     658   2      55  A
+SEG     464  POL     658   1   SMC     845   1      54  A
+SEG     465  SMC     845   2   POL     659   2      54  A
+SEG     467  POL     659   1   SMC     846   1      71  A
+SEG     468  SMC     846   2   POL     660   1      71  A
+SEG     470  POL     660   2   SMC     847   1      73  A
+SEG     471  SMC     847   2   POL     661   2      73  A
+SEG     472  POL     661   1   SMC     848   1      55  A
+SEG     473  SMC     848   2   SMC     848   3      80  A
+SEG     474  SMC     848   4   POL     662   2      55  A
+SEG     475  POL     662   1   SMC     849   1      55  A
+SEG     476  SMC     849   2   SMC     849   3      93  A
+SEG     477  SMC     849   4   POL     663   1      55  A
+SEG     478  POL     663   2   SMC     850   1      55  A
+SEG     479  SMC     850   2   SMC     850   3     228  A
+SEG     480  SMC     850   4   POL     664   1      55  A
+SEG     481  POL     664   2   SMC     851   1      55  A
+SEG     482  SMC     851   2   SMC     851   3     446  A
+SEG     483  SMC     851   4   POL     665   2      55  A
+SEG     485  POL     665   1   SMC     852   1      52  A
+SEG     486  SMC     852   2   POL     666   2      52  A
+SEG     488  POL     666   1   SMC     853   1      55  A
+SEG     489  SMC     853   2   POL     667   2      55  A
+SEG     490  POL     667   1   SMC     854   1      55  A
+SEG     491  SMC     854   2   SMC     854   3      37  A
+SEG     492  SMC     854   4   POL     668   2      55  A
+SEG     493  POL     668   1   SMC     855   1      55  A
+SEG     494  SMC     855   2   SMC     855   3     109  A
+SEG     495  SMC     855   4   POL     669   2      55  A
+SEG     497  POL     669   1   SMC     856   1      46  A
+SEG     498  SMC     856   2   POL     670   2      46  A
+SEG     499  POL     670   1   SMC     857   1      55  A
+SEG     500  SMC     857   2   SMC     857   3     184  A
+SEG     501  SMC     857   4   POL     671   2      55  A
+SEG     502  POL     671   1   SMC     858   1      55  A
+SEG     503  SMC     858   2   SMC     858   3     258  A
+SEG     504  SMC     858   4   POL     672   2      55  A
+SEG     505  POL     672   1   SMC     859   1      55  A
+SEG     506  SMC     859   2   SMC     859   3     220  A
+SEG     507  SMC     859   4   POL     673   2      55  A
+SEG     509  POL     673   1   SMC     860   1      60  A
+SEG     510  SMC     860   2   POL     674   2      60  A
+SEG     511  POL     674   1   SMC     861   1      55  A
+SEG     512  SMC     861   2   SMC     861   3     821  A
+SEG     513  SMC     861   4   POL     675   2      55  A
+SEG     514  POL     675   1   SMC     862   1      55  A
+SEG     515  SMC     862   2   SMC     862   3     252  A
+SEG     516  SMC     862   4   POL     676   2      55  A
+SEG     517  POL     676   1   SMC     863   1      55  A
+SEG     518  SMC     863   2   SMC     863   3     414  A
+SEG     519  SMC     863   4   POL     677   1      55  A
+SEG     521  POL     677   2   SMC     864   1      41  A
+SEG     522  SMC     864   2   POL     678   1      41  A
+SEG     524  POL     678   2   SMC     865   1      51  A
+SEG     525  SMC     865   2   POL     679   1      51  A
+SEG     527  POL     679   2   SMC     866   1      56  A
+SEG     528  SMC     866   2   POL     680   1      56  A
+SEG     530  POL     680   2   SMC     867   1      70  A
+SEG     531  SMC     867   2   POL     681   1      70  A
+SEG     533  POL     681   2   SMC     868   1      63  A
+SEG     534  SMC     868   2   POL     682   1      63  A
+SEG     535  POL     682   2   SMC     869   1      55  A
+SEG     536  SMC     869   2   SMC     869   3     114  A
+SEG     537  SMC     869   4   POL     683   1      55  A
+SEG     539  POL     683   2   SMC     870   1      46  A
+SEG     540  SMC     870   2   POL     684   1      46  A
+SEG     542  POL     684   2   SMC     871   1      57  A
+SEG     543  SMC     871   2   POL     685   1      57  A
+SEG     544  POL     685   2   SMC     872   1      55  A
+SEG     545  SMC     872   2   SMC     872   3     204  A
+SEG     546  SMC     872   4   POL     686   1      55  A
+SEG     547  POL     686   2   SMC     873   1      55  A
+SEG     548  SMC     873   2   SMC     873   3     236  A
+SEG     549  SMC     873   4   POL     687   2      55  A
+SEG     551  POL     687   1   SMC     874   1      51  A
+SEG     552  SMC     874   2   POL     688   2      51  A
+SEG     553  POL     688   1   SMC     875   1      55  A
+SEG     554  SMC     875   2   SMC     875   3     966  A
+SEG     555  SMC     875   4   POL     689   2      55  A
+SEG     556  POL     689   1   SMC     876   1      55  A
+SEG     557  SMC     876   2   SMC     876   3     211  A
+SEG     558  SMC     876   4   POL     690   2      55  A
+SEG     559  POL     690   1   SMC     877   1      55  A
+SEG     560  SMC     877   2   SMC     877   3     642  A
+SEG     561  SMC     877   4   POL     504   1      55  A
+SEG     561  POL     504   1   TER       0   0       0  A
+END
+RNA       2
+SEG       1  TER       0   0   POL     504   3      56  B
+SEG       2  POL     504   3   TER       0   0       0  B
+END
+RNA       3
+SEG       1  TER       0   0   POL     505   3      95  B
+SEG       2  POL     505   3   TER       0   0       0  B
+END
+RNA       4
+SEG       1  TER       0   0   POL     506   3     125  B
+SEG       2  POL     506   3   TER       0   0       0  B
+END
+RNA       5
+SEG       1  TER       0   0   POL     507   3     128  B
+SEG       2  POL     507   3   TER       0   0       0  B
+END
+RNA       6
+SEG       1  TER       0   0   POL     508   3      80  B
+SEG       2  POL     508   3   TER       0   0       0  B
+END
+RNA       7
+SEG       1  TER       0   0   POL     509   3      76  B
+SEG       2  POL     509   3   TER       0   0       0  B
+END
+RNA       8
+SEG       1  TER       0   0   POL     510   3      11  B
+SEG       2  POL     510   3   TER       0   0       0  B
+END
+RNA       9
+SEG       1  TER       0   0   POL     511   3      29  B
+SEG       2  POL     511   3   TER       0   0       0  B
+END
+RNA      10
+SEG       1  TER       0   0   POL     512   3      97  B
+SEG       2  POL     512   3   TER       0   0       0  B
+END
+RNA      11
+SEG       1  TER       0   0   POL     513   3      41  B
+SEG       2  POL     513   3   TER       0   0       0  B
+END
+RNA      12
+SEG       1  TER       0   0   POL     514   3      30  B
+SEG       2  POL     514   3   TER       0   0       0  B
+END
+RNA      13
+SEG       1  TER       0   0   POL     515   3      63  B
+SEG       2  POL     515   3   TER       0   0       0  B
+END
+RNA      14
+SEG       1  TER       0   0   POL     516   3      75  B
+SEG       2  POL     516   3   TER       0   0       0  B
+END
+RNA      15
+SEG       1  TER       0   0   POL     517   3      15  B
+SEG       2  POL     517   3   TER       0   0       0  B
+END
+RNA      16
+SEG       1  TER       0   0   POL     518   3       5  C
+SEG       2  POL     518   3   TER       0   0       0  C
+END
+RNA      17
+SEG       1  TER       0   0   POL     519   3     145  C
+SEG       2  POL     519   3   TER       0   0       0  C
+END
+RNA      18
+SEG       1  TER       0   0   POL     520   3      76  C
+SEG       2  POL     520   3   TER       0   0       0  C
+END
+RNA      19
+SEG       1  TER       0   0   POL     521   3       8  C
+SEG       2  POL     521   3   TER       0   0       0  C
+END
+RNA      20
+SEG       1  TER       0   0   POL     522   3      68  B
+SEG       2  POL     522   3   TER       0   0       0  B
+END
+RNA      21
+SEG       1  TER       0   0   POL     523   3      67  B
+SEG       2  POL     523   3   TER       0   0       0  B
+END
+RNA      22
+SEG       1  TER       0   0   POL     524   3     141  B
+SEG       2  POL     524   3   TER       0   0       0  B
+END
+RNA      23
+SEG       1  TER       0   0   POL     525   3      43  B
+SEG       2  POL     525   3   TER       0   0       0  B
+END
+RNA      24
+SEG       1  TER       0   0   POL     526   3      72  B
+SEG       2  POL     526   3   TER       0   0       0  B
+END
+RNA      25
+SEG       1  TER       0   0   POL     527   3      79  B
+SEG       2  POL     527   3   TER       0   0       0  B
+END
+RNA      26
+SEG       1  TER       0   0   POL     528   3      44  B
+SEG       2  POL     528   3   TER       0   0       0  B
+END
+RNA      27
+SEG       1  TER       0   0   POL     529   3      94  B
+SEG       2  POL     529   3   TER       0   0       0  B
+END
+RNA      28
+SEG       1  TER       0   0   POL     530   3      47  B
+SEG       2  POL     530   3   TER       0   0       0  B
+END
+RNA      29
+SEG       1  TER       0   0   POL     531   3      54  B
+SEG       2  POL     531   3   TER       0   0       0  B
+END
+RNA      30
+SEG       1  TER       0   0   POL     532   3      45  B
+SEG       2  POL     532   3   TER       0   0       0  B
+END
+RNA      31
+SEG       1  TER       0   0   POL     533   3      20  B
+SEG       2  POL     533   3   TER       0   0       0  B
+END
+RNA      32
+SEG       1  TER       0   0   POL     534   3     103  B
+SEG       2  POL     534   3   TER       0   0       0  B
+END
+RNA      33
+SEG       1  TER       0   0   POL     535   3      59  B
+SEG       2  POL     535   3   TER       0   0       0  B
+END
+RNA      34
+SEG       1  TER       0   0   POL     536   3      85  B
+SEG       2  POL     536   3   TER       0   0       0  B
+END
+RNA      35
+SEG       1  TER       0   0   POL     537   3      93  B
+SEG       2  POL     537   3   TER       0   0       0  B
+END
+RNA      36
+SEG       1  TER       0   0   POL     538   3     155  B
+SEG       2  POL     538   3   TER       0   0       0  B
+END
+RNA      37
+SEG       1  TER       0   0   POL     539   3     155  B
+SEG       2  POL     539   3   TER       0   0       0  B
+END
+RNA      38
+SEG       1  TER       0   0   POL     540   3      52  B
+SEG       2  POL     540   3   TER       0   0       0  B
+END
+RNA      39
+SEG       1  TER       0   0   POL     541   3      17  B
+SEG       2  POL     541   3   TER       0   0       0  B
+END
+RNA      40
+SEG       1  TER       0   0   POL     542   3      30  B
+SEG       2  POL     542   3   TER       0   0       0  B
+END
+RNA      41
+SEG       1  TER       0   0   POL     543   3      44  B
+SEG       2  POL     543   3   TER       0   0       0  B
+END
+RNA      42
+SEG       1  TER       0   0   POL     544   3      67  B
+SEG       2  POL     544   3   TER       0   0       0  B
+END
+RNA      43
+SEG       1  TER       0   0   POL     545   3      28  B
+SEG       2  POL     545   3   TER       0   0       0  B
+END
+RNA      44
+SEG       1  TER       0   0   POL     546   3      75  B
+SEG       2  POL     546   3   TER       0   0       0  B
+END
+RNA      45
+SEG       1  TER       0   0   POL     547   3      49  B
+SEG       2  POL     547   3   TER       0   0       0  B
+END
+RNA      46
+SEG       1  TER       0   0   POL     548   3      71  B
+SEG       2  POL     548   3   TER       0   0       0  B
+END
+RNA      47
+SEG       1  TER       0   0   POL     549   3      95  B
+SEG       2  POL     549   3   TER       0   0       0  B
+END
+RNA      48
+SEG       1  TER       0   0   POL     550   3      66  B
+SEG       2  POL     550   3   TER       0   0       0  B
+END
+RNA      49
+SEG       1  TER       0   0   POL     551   3      94  B
+SEG       2  POL     551   3   TER       0   0       0  B
+END
+RNA      50
+SEG       1  TER       0   0   POL     552   3      48  B
+SEG       2  POL     552   3   TER       0   0       0  B
+END
+RNA      51
+SEG       1  TER       0   0   POL     553   3      86  B
+SEG       2  POL     553   3   TER       0   0       0  B
+END
+RNA      52
+SEG       1  TER       0   0   POL     554   3      23  B
+SEG       2  POL     554   3   TER       0   0       0  B
+END
+RNA      53
+SEG       1  TER       0   0   POL     555   3      31  B
+SEG       2  POL     555   3   TER       0   0       0  B
+END
+RNA      54
+SEG       1  TER       0   0   POL     556   3      34  B
+SEG       2  POL     556   3   TER       0   0       0  B
+END
+RNA      55
+SEG       1  TER       0   0   POL     557   3      87  B
+SEG       2  POL     557   3   TER       0   0       0  B
+END
+RNA      56
+SEG       1  TER       0   0   POL     558   3     130  B
+SEG       2  POL     558   3   TER       0   0       0  B
+END
+RNA      57
+SEG       1  TER       0   0   POL     559   3      33  B
+SEG       2  POL     559   3   TER       0   0       0  B
+END
+RNA      58
+SEG       1  TER       0   0   POL     560   3       4  C
+SEG       2  POL     560   3   TER       0   0       0  C
+END
+RNA      59
+SEG       1  TER       0   0   POL     561   3      71  B
+SEG       2  POL     561   3   TER       0   0       0  B
+END
+RNA      60
+SEG       1  TER       0   0   POL     562   3      90  B
+SEG       2  POL     562   3   TER       0   0       0  B
+END
+RNA      61
+SEG       1  TER       0   0   POL     563   3      86  B
+SEG       2  POL     563   3   TER       0   0       0  B
+END
+RNA      62
+SEG       1  TER       0   0   POL     564   3      62  B
+SEG       2  POL     564   3   TER       0   0       0  B
+END
+RNA      63
+SEG       1  TER       0   0   POL     565   3      17  B
+SEG       2  POL     565   3   TER       0   0       0  B
+END
+RNA      64
+SEG       1  TER       0   0   POL     566   3      13  B
+SEG       2  POL     566   3   TER       0   0       0  B
+END
+RNA      65
+SEG       1  TER       0   0   POL     567   3      93  B
+SEG       2  POL     567   3   TER       0   0       0  B
+END
+RNA      66
+SEG       1  TER       0   0   POL     568   3      87  B
+SEG       2  POL     568   3   TER       0   0       0  B
+END
+RNA      67
+SEG       1  TER       0   0   POL     569   3      24  B
+SEG       2  POL     569   3   TER       0   0       0  B
+END
+RNA      68
+SEG       1  TER       0   0   POL     570   3      53  B
+SEG       2  POL     570   3   TER       0   0       0  B
+END
+RNA      69
+SEG       1  TER       0   0   POL     571   3      36  B
+SEG       2  POL     571   3   TER       0   0       0  B
+END
+RNA      70
+SEG       1  TER       0   0   POL     572   3      98  B
+SEG       2  POL     572   3   TER       0   0       0  B
+END
+RNA      71
+SEG       1  TER       0   0   POL     573   3      37  B
+SEG       2  POL     573   3   TER       0   0       0  B
+END
+RNA      72
+SEG       1  TER       0   0   POL     574   3      35  B
+SEG       2  POL     574   3   TER       0   0       0  B
+END
+RNA      73
+SEG       1  TER       0   0   POL     575   3      28  B
+SEG       2  POL     575   3   TER       0   0       0  B
+END
+RNA      74
+SEG       1  TER       0   0   POL     576   3      76  B
+SEG       2  POL     576   3   TER       0   0       0  B
+END
+RNA      75
+SEG       1  TER       0   0   POL     577   3      67  B
+SEG       2  POL     577   3   TER       0   0       0  B
+END
+RNA      76
+SEG       1  TER       0   0   POL     578   3      13  B
+SEG       2  POL     578   3   TER       0   0       0  B
+END
+RNA      77
+SEG       1  TER       0   0   POL     579   3      19  B
+SEG       2  POL     579   3   TER       0   0       0  B
+END
+RNA      78
+SEG       1  TER       0   0   POL     580   3      93  B
+SEG       2  POL     580   3   TER       0   0       0  B
+END
+RNA      79
+SEG       1  TER       0   0   POL     581   3       3  C
+SEG       2  POL     581   3   TER       0   0       0  C
+END
+RNA      80
+SEG       1  TER       0   0   POL     582   3      65  B
+SEG       2  POL     582   3   TER       0   0       0  B
+END
+RNA      81
+SEG       1  TER       0   0   POL     583   3      36  B
+SEG       2  POL     583   3   TER       0   0       0  B
+END
+RNA      82
+SEG       1  TER       0   0   POL     584   3      47  B
+SEG       2  POL     584   3   TER       0   0       0  B
+END
+RNA      83
+SEG       1  TER       0   0   POL     585   3     118  B
+SEG       2  POL     585   3   TER       0   0       0  B
+END
+RNA      84
+SEG       1  TER       0   0   POL     586   3      68  B
+SEG       2  POL     586   3   TER       0   0       0  B
+END
+RNA      85
+SEG       1  TER       0   0   POL     587   3      76  B
+SEG       2  POL     587   3   TER       0   0       0  B
+END
+RNA      86
+SEG       1  TER       0   0   POL     588   3      68  B
+SEG       2  POL     588   3   TER       0   0       0  B
+END
+RNA      87
+SEG       1  TER       0   0   POL     589   3     207  B
+SEG       2  POL     589   3   TER       0   0       0  B
+END
+RNA      88
+SEG       1  TER       0   0   POL     590   3      25  B
+SEG       2  POL     590   3   TER       0   0       0  B
+END
+RNA      89
+SEG       1  TER       0   0   POL     591   3     113  B
+SEG       2  POL     591   3   TER       0   0       0  B
+END
+RNA      90
+SEG       1  TER       0   0   POL     592   3     148  B
+SEG       2  POL     592   3   TER       0   0       0  B
+END
+RNA      91
+SEG       1  TER       0   0   POL     593   3      50  B
+SEG       2  POL     593   3   TER       0   0       0  B
+END
+RNA      92
+SEG       1  TER       0   0   POL     594   3      82  B
+SEG       2  POL     594   3   TER       0   0       0  B
+END
+RNA      93
+SEG       1  TER       0   0   POL     595   3       9  B
+SEG       2  POL     595   3   TER       0   0       0  B
+END
+RNA      94
+SEG       1  TER       0   0   POL     596   3      40  B
+SEG       2  POL     596   3   TER       0   0       0  B
+END
+RNA      95
+SEG       1  TER       0   0   POL     597   3      49  B
+SEG       2  POL     597   3   TER       0   0       0  B
+END
+RNA      96
+SEG       1  TER       0   0   POL     598   3     107  B
+SEG       2  POL     598   3   TER       0   0       0  B
+END
+RNA      97
+SEG       1  TER       0   0   POL     599   3     146  B
+SEG       2  POL     599   3   TER       0   0       0  B
+END
+RNA      98
+SEG       1  TER       0   0   POL     600   3      94  B
+SEG       2  POL     600   3   TER       0   0       0  B
+END
+RNA      99
+SEG       1  TER       0   0   POL     601   3      64  B
+SEG       2  POL     601   3   TER       0   0       0  B
+END
+RNA     100
+SEG       1  TER       0   0   POL     602   3      38  B
+SEG       2  POL     602   3   TER       0   0       0  B
+END
+RNA     101
+SEG       1  TER       0   0   POL     603   3      70  B
+SEG       2  POL     603   3   TER       0   0       0  B
+END
+RNA     102
+SEG       1  TER       0   0   POL     604   3      96  B
+SEG       2  POL     604   3   TER       0   0       0  B
+END
+RNA     103
+SEG       1  TER       0   0   POL     605   3     134  B
+SEG       2  POL     605   3   TER       0   0       0  B
+END
+RNA     104
+SEG       1  TER       0   0   POL     606   3      47  B
+SEG       2  POL     606   3   TER       0   0       0  B
+END
+RNA     105
+SEG       1  TER       0   0   POL     607   3      67  B
+SEG       2  POL     607   3   TER       0   0       0  B
+END
+RNA     106
+SEG       1  TER       0   0   POL     608   3      14  B
+SEG       2  POL     608   3   TER       0   0       0  B
+END
+RNA     107
+SEG       1  TER       0   0   POL     609   3      53  B
+SEG       2  POL     609   3   TER       0   0       0  B
+END
+RNA     108
+SEG       1  TER       0   0   POL     610   3      47  B
+SEG       2  POL     610   3   TER       0   0       0  B
+END
+RNA     109
+SEG       1  TER       0   0   POL     611   3     137  B
+SEG       2  POL     611   3   TER       0   0       0  B
+END
+RNA     110
+SEG       1  TER       0   0   POL     612   3      57  B
+SEG       2  POL     612   3   TER       0   0       0  B
+END
+RNA     111
+SEG       1  TER       0   0   POL     613   3      25  B
+SEG       2  POL     613   3   TER       0   0       0  B
+END
+RNA     112
+SEG       1  TER       0   0   POL     614   3     119  B
+SEG       2  POL     614   3   TER       0   0       0  B
+END
+RNA     113
+SEG       1  TER       0   0   POL     615   3      52  B
+SEG       2  POL     615   3   TER       0   0       0  B
+END
+RNA     114
+SEG       1  TER       0   0   POL     616   3     145  C
+SEG       2  POL     616   3   TER       0   0       0  C
+END
+RNA     115
+SEG       1  TER       0   0   POL     617   3      76  C
+SEG       2  POL     617   3   TER       0   0       0  C
+END
+RNA     116
+SEG       1  TER       0   0   POL     618   3      83  B
+SEG       2  POL     618   3   TER       0   0       0  B
+END
+RNA     117
+SEG       1  TER       0   0   POL     619   3      27  B
+SEG       2  POL     619   3   TER       0   0       0  B
+END
+RNA     118
+SEG       1  TER       0   0   POL     620   3      30  B
+SEG       2  POL     620   3   TER       0   0       0  B
+END
+RNA     119
+SEG       1  TER       0   0   POL     621   3      43  B
+SEG       2  POL     621   3   TER       0   0       0  B
+END
+RNA     120
+SEG       1  TER       0   0   POL     622   3      55  B
+SEG       2  POL     622   3   TER       0   0       0  B
+END
+RNA     121
+SEG       1  TER       0   0   POL     623   3      88  B
+SEG       2  POL     623   3   TER       0   0       0  B
+END
+RNA     122
+SEG       1  TER       0   0   POL     624   3      30  B
+SEG       2  POL     624   3   TER       0   0       0  B
+END
+RNA     123
+SEG       1  TER       0   0   POL     625   3     107  B
+SEG       2  POL     625   3   TER       0   0       0  B
+END
+RNA     124
+SEG       1  TER       0   0   POL     626   3      43  B
+SEG       2  POL     626   3   TER       0   0       0  B
+END
+RNA     125
+SEG       1  TER       0   0   POL     627   3      30  B
+SEG       2  POL     627   3   TER       0   0       0  B
+END
+RNA     126
+SEG       1  TER       0   0   POL     628   3      88  B
+SEG       2  POL     628   3   TER       0   0       0  B
+END
+RNA     127
+SEG       1  TER       0   0   POL     629   3      60  B
+SEG       2  POL     629   3   TER       0   0       0  B
+END
+RNA     128
+SEG       1  TER       0   0   POL     630   3      50  B
+SEG       2  POL     630   3   TER       0   0       0  B
+END
+RNA     129
+SEG       1  TER       0   0   POL     631   3      41  B
+SEG       2  POL     631   3   TER       0   0       0  B
+END
+RNA     130
+SEG       1  TER       0   0   POL     632   3      53  B
+SEG       2  POL     632   3   TER       0   0       0  B
+END
+RNA     131
+SEG       1  TER       0   0   POL     633   3      42  B
+SEG       2  POL     633   3   TER       0   0       0  B
+END
+RNA     132
+SEG       1  TER       0   0   POL     634   3      11  B
+SEG       2  POL     634   3   TER       0   0       0  B
+END
+RNA     133
+SEG       1  TER       0   0   POL     635   3       3  C
+SEG       2  POL     635   3   TER       0   0       0  C
+END
+RNA     134
+SEG       1  TER       0   0   POL     636   3     120  B
+SEG       2  POL     636   3   TER       0   0       0  B
+END
+RNA     135
+SEG       1  TER       0   0   POL     637   3       3  C
+SEG       2  POL     637   3   TER       0   0       0  C
+END
+RNA     136
+SEG       1  TER       0   0   POL     638   3      19  B
+SEG       2  POL     638   3   TER       0   0       0  B
+END
+RNA     137
+SEG       1  TER       0   0   POL     639   3      61  B
+SEG       2  POL     639   3   TER       0   0       0  B
+END
+RNA     138
+SEG       1  TER       0   0   POL     640   3      17  B
+SEG       2  POL     640   3   TER       0   0       0  B
+END
+RNA     139
+SEG       1  TER       0   0   POL     641   3      32  B
+SEG       2  POL     641   3   TER       0   0       0  B
+END
+RNA     140
+SEG       1  TER       0   0   POL     642   3      21  B
+SEG       2  POL     642   3   TER       0   0       0  B
+END
+RNA     141
+SEG       1  TER       0   0   POL     643   3      13  B
+SEG       2  POL     643   3   TER       0   0       0  B
+END
+RNA     142
+SEG       1  TER       0   0   POL     644   3      16  B
+SEG       2  POL     644   3   TER       0   0       0  B
+END
+RNA     143
+SEG       1  TER       0   0   POL     645   3      42  B
+SEG       2  POL     645   3   TER       0   0       0  B
+END
+RNA     144
+SEG       1  TER       0   0   POL     646   3      33  B
+SEG       2  POL     646   3   TER       0   0       0  B
+END
+RNA     145
+SEG       1  TER       0   0   POL     647   3      16  C
+SEG       2  POL     647   3   TER       0   0       0  C
+END
+RNA     146
+SEG       1  TER       0   0   POL     648   3      36  B
+SEG       2  POL     648   3   TER       0   0       0  B
+END
+RNA     147
+SEG       1  TER       0   0   POL     649   3      71  B
+SEG       2  POL     649   3   TER       0   0       0  B
+END
+RNA     148
+SEG       1  TER       0   0   POL     650   3      72  B
+SEG       2  POL     650   3   TER       0   0       0  B
+END
+RNA     149
+SEG       1  TER       0   0   POL     651   3      13  B
+SEG       2  POL     651   3   TER       0   0       0  B
+END
+RNA     150
+SEG       1  TER       0   0   POL     652   3     108  B
+SEG       2  POL     652   3   TER       0   0       0  B
+END
+RNA     151
+SEG       1  TER       0   0   POL     653   3      73  B
+SEG       2  POL     653   3   TER       0   0       0  B
+END
+RNA     152
+SEG       1  TER       0   0   POL     654   3      42  C
+SEG       2  POL     654   3   TER       0   0       0  C
+END
+RNA     153
+SEG       1  TER       0   0   POL     655   3      36  B
+SEG       2  POL     655   3   TER       0   0       0  B
+END
+RNA     154
+SEG       1  TER       0   0   POL     656   3      41  B
+SEG       2  POL     656   3   TER       0   0       0  B
+END
+RNA     155
+SEG       1  TER       0   0   POL     657   3      79  B
+SEG       2  POL     657   3   TER       0   0       0  B
+END
+RNA     156
+SEG       1  TER       0   0   POL     658   3      33  B
+SEG       2  POL     658   3   TER       0   0       0  B
+END
+RNA     157
+SEG       1  TER       0   0   POL     659   3      83  B
+SEG       2  POL     659   3   TER       0   0       0  B
+END
+RNA     158
+SEG       1  TER       0   0   POL     660   3      32  B
+SEG       2  POL     660   3   TER       0   0       0  B
+END
+RNA     159
+SEG       1  TER       0   0   POL     661   3     108  B
+SEG       2  POL     661   3   TER       0   0       0  B
+END
+RNA     160
+SEG       1  TER       0   0   POL     662   3      50  B
+SEG       2  POL     662   3   TER       0   0       0  B
+END
+RNA     161
+SEG       1  TER       0   0   POL     663   3     105  B
+SEG       2  POL     663   3   TER       0   0       0  B
+END
+RNA     162
+SEG       1  TER       0   0   POL     664   3     111  B
+SEG       2  POL     664   3   TER       0   0       0  B
+END
+RNA     163
+SEG       1  TER       0   0   POL     665   3      71  B
+SEG       2  POL     665   3   TER       0   0       0  B
+END
+RNA     164
+SEG       1  TER       0   0   POL     666   3      42  B
+SEG       2  POL     666   3   TER       0   0       0  B
+END
+RNA     165
+SEG       1  TER       0   0   POL     667   3      78  B
+SEG       2  POL     667   3   TER       0   0       0  B
+END
+RNA     166
+SEG       1  TER       0   0   POL     668   3      27  B
+SEG       2  POL     668   3   TER       0   0       0  B
+END
+RNA     167
+SEG       1  TER       0   0   POL     669   3      31  B
+SEG       2  POL     669   3   TER       0   0       0  B
+END
+RNA     168
+SEG       1  TER       0   0   POL     670   3      62  B
+SEG       2  POL     670   3   TER       0   0       0  B
+END
+RNA     169
+SEG       1  TER       0   0   POL     671   3     188  B
+SEG       2  POL     671   3   TER       0   0       0  B
+END
+RNA     170
+SEG       1  TER       0   0   POL     672   3     193  B
+SEG       2  POL     672   3   TER       0   0       0  B
+END
+RNA     171
+SEG       1  TER       0   0   POL     673   3      18  B
+SEG       2  POL     673   3   TER       0   0       0  B
+END
+RNA     172
+SEG       1  TER       0   0   POL     674   3      34  B
+SEG       2  POL     674   3   TER       0   0       0  B
+END
+RNA     173
+SEG       1  TER       0   0   POL     675   3      47  B
+SEG       2  POL     675   3   TER       0   0       0  B
+END
+RNA     174
+SEG       1  TER       0   0   POL     676   3     142  B
+SEG       2  POL     676   3   TER       0   0       0  B
+END
+RNA     175
+SEG       1  TER       0   0   POL     677   3      73  B
+SEG       2  POL     677   3   TER       0   0       0  B
+END
+RNA     176
+SEG       1  TER       0   0   POL     678   3       3  C
+SEG       2  POL     678   3   TER       0   0       0  C
+END
+RNA     177
+SEG       1  TER       0   0   POL     679   3      51  B
+SEG       2  POL     679   3   TER       0   0       0  B
+END
+RNA     178
+SEG       1  TER       0   0   POL     680   3      28  B
+SEG       2  POL     680   3   TER       0   0       0  B
+END
+RNA     179
+SEG       1  TER       0   0   POL     681   3      65  B
+SEG       2  POL     681   3   TER       0   0       0  B
+END
+RNA     180
+SEG       1  TER       0   0   POL     682   3      65  B
+SEG       2  POL     682   3   TER       0   0       0  B
+END
+RNA     181
+SEG       1  TER       0   0   POL     683   3      66  B
+SEG       2  POL     683   3   TER       0   0       0  B
+END
+RNA     182
+SEG       1  TER       0   0   POL     684   3      36  B
+SEG       2  POL     684   3   TER       0   0       0  B
+END
+RNA     183
+SEG       1  TER       0   0   POL     685   3      32  B
+SEG       2  POL     685   3   TER       0   0       0  B
+END
+RNA     184
+SEG       1  TER       0   0   POL     686   3      98  B
+SEG       2  POL     686   3   TER       0   0       0  B
+END
+RNA     185
+SEG       1  TER       0   0   POL     687   3      54  B
+SEG       2  POL     687   3   TER       0   0       0  B
+END
+RNA     186
+SEG       1  TER       0   0   POL     688   3      34  B
+SEG       2  POL     688   3   TER       0   0       0  B
+END
+RNA     187
+SEG       1  TER       0   0   POL     689   3      94  B
+SEG       2  POL     689   3   TER       0   0       0  B
+END
+RNA     188
+SEG       1  TER       0   0   POL     690   3      67  B
+SEG       2  POL     690   3   TER       0   0       0  B
+END
+RNA     189
+SEG       1  TER       0   0   RIB       1   1      28  D
+SEG       2  RIB       1   2   TER       0   0      28  D
+END
+RNA     190
+SEG       1  TER       0   0   RIB       2   1      52  D
+SEG       2  RIB       2   2   TER       0   0      52  D
+END
+RNA     191
+SEG       1  TER       0   0   RIB       3   1      79  D
+SEG       2  RIB       3   2   TER       0   0      79  D
+END
+RNA     192
+SEG       1  TER       0   0   RIB       4   1      66  D
+SEG       2  RIB       4   2   TER       0   0      66  D
+END
+RNA     193
+SEG       1  TER       0   0   RIB       5   1      31  D
+SEG       2  RIB       5   2   TER       0   0      31  D
+END
+RNA     194
+SEG       1  TER       0   0   RIB       6   1      52  D
+SEG       2  RIB       6   2   TER       0   0      52  D
+END
+RNA     195
+SEG       1  TER       0   0   RIB       7   1     103  D
+SEG       2  RIB       7   2   TER       0   0     103  D
+END
+RNA     196
+SEG       1  TER       0   0   RIB       8   1      32  D
+SEG       2  RIB       8   2   TER       0   0      32  D
+END
+RNA     197
+SEG       1  TER       0   0   RIB       9   1      30  D
+SEG       2  RIB       9   2   TER       0   0      30  D
+END
+RNA     198
+SEG       1  TER       0   0   RIB      10   1      32  D
+SEG       2  RIB      10   2   TER       0   0      32  D
+END
+RNA     199
+SEG       1  TER       0   0   RIB      11   1      60  D
+SEG       2  RIB      11   2   TER       0   0      60  D
+END
+RNA     200
+SEG       1  TER       0   0   RIB      12   1      67  D
+SEG       2  RIB      12   2   TER       0   0      67  D
+END
+RNA     201
+SEG       1  TER       0   0   RIB      13   1      42  D
+SEG       2  RIB      13   2   TER       0   0      42  D
+END
+RNA     202
+SEG       1  TER       0   0   RIB      14   1      88  D
+SEG       2  RIB      14   2   TER       0   0      88  D
+END
+RNA     203
+SEG       1  TER       0   0   RIB      15   1      43  D
+SEG       2  RIB      15   2   TER       0   0      43  D
+END
+RNA     204
+SEG       1  TER       0   0   RIB      16   1      56  D
+SEG       2  RIB      16   2   TER       0   0      56  D
+END
+RNA     205
+SEG       1  TER       0   0   RIB      17   1      50  D
+SEG       2  RIB      17   2   TER       0   0      50  D
+END
+RNA     206
+SEG       1  TER       0   0   RIB      18   1      43  D
+SEG       2  RIB      18   2   TER       0   0      43  D
+END
+RNA     207
+SEG       1  TER       0   0   RIB      19   1     207  D
+SEG       2  RIB      19   2   TER       0   0     207  D
+END
+RNA     208
+SEG       1  TER       0   0   RIB      20   1     137  D
+SEG       2  RIB      20   2   TER       0   0     137  D
+END
+RNA     209
+SEG       1  TER       0   0   RIB      21   1      11  D
+SEG       2  RIB      21   2   TER       0   0      11  D
+END
+RNA     210
+SEG       1  TER       0   0   RIB      22   1      24  D
+SEG       2  RIB      22   2   TER       0   0      24  D
+END
+RNA     211
+SEG       1  TER       0   0   RIB      23   1     105  D
+SEG       2  RIB      23   2   TER       0   0     105  D
+END
+RNA     212
+SEG       1  TER       0   0   RIB      24   1      37  D
+SEG       2  RIB      24   2   TER       0   0      37  D
+END
+RNA     213
+SEG       1  TER       0   0   RIB      25   1      30  D
+SEG       2  RIB      25   2   TER       0   0      30  D
+END
+RNA     214
+SEG       1  TER       0   0   RIB      26   1     137  D
+SEG       2  RIB      26   2   TER       0   0     137  D
+END
+RNA     215
+SEG       1  TER       0   0   RIB      27   1      63  D
+SEG       2  RIB      27   2   TER       0   0      63  D
+END
+RNA     216
+SEG       1  TER       0   0   RIB      28   1      13  D
+SEG       2  RIB      28   2   TER       0   0      13  D
+END
+RNA     217
+SEG       1  TER       0   0   RIB      29   1      34  D
+SEG       2  RIB      29   2   TER       0   0      34  D
+END
+RNA     218
+SEG       1  TER       0   0   RIB      30   1      68  D
+SEG       2  RIB      30   2   TER       0   0      68  D
+END
+RNA     219
+SEG       1  TER       0   0   RIB      31   1      85  D
+SEG       2  RIB      31   2   TER       0   0      85  D
+END
+RNA     220
+SEG       1  TER       0   0   RIB      32   1     188  D
+SEG       2  RIB      32   2   TER       0   0     188  D
+END
+RNA     221
+SEG       1  TER       0   0   RIB      33   1      94  D
+SEG       2  RIB      33   2   TER       0   0      94  D
+END
+RNA     222
+SEG       1  TER       0   0   RIB      34   1      52  D
+SEG       2  RIB      34   2   TER       0   0      52  D
+END
+RNA     223
+SEG       1  TER       0   0   RIB      35   1      11  D
+SEG       2  RIB      35   2   TER       0   0      11  D
+END
+RNA     224
+SEG       1  TER       0   0   RIB      36   1      42  D
+SEG       2  RIB      36   2   TER       0   0      42  D
+END
+RNA     225
+SEG       1  TER       0   0   RIB      37   1       9  D
+SEG       2  RIB      37   2   TER       0   0       9  D
+END
+RNA     226
+SEG       1  TER       0   0   RIB      38   1      47  D
+SEG       2  RIB      38   2   TER       0   0      47  D
+END
+RNA     227
+SEG       1  TER       0   0   RIB      39   1     188  D
+SEG       2  RIB      39   2   TER       0   0     188  D
+END
+RNA     228
+SEG       1  TER       0   0   RIB      40   1     118  D
+SEG       2  RIB      40   2   TER       0   0     118  D
+END
+RNA     229
+SEG       1  TER       0   0   RIB      41   1      53  D
+SEG       2  RIB      41   2   TER       0   0      53  D
+END
+RNA     230
+SEG       1  TER       0   0   RIB      42   1      17  D
+SEG       2  RIB      42   2   TER       0   0      17  D
+END
+RNA     231
+SEG       1  TER       0   0   RIB      43   1      82  D
+SEG       2  RIB      43   2   TER       0   0      82  D
+END
+RNA     232
+SEG       1  TER       0   0   RIB      44   1      23  D
+SEG       2  RIB      44   2   TER       0   0      23  D
+END
+RNA     233
+SEG       1  TER       0   0   RIB      45   1      65  D
+SEG       2  RIB      45   2   TER       0   0      65  D
+END
+RNA     234
+SEG       1  TER       0   0   RIB      46   1      95  D
+SEG       2  RIB      46   2   TER       0   0      95  D
+END
+RNA     235
+SEG       1  TER       0   0   RIB      47   1      65  D
+SEG       2  RIB      47   2   TER       0   0      65  D
+END
+RNA     236
+SEG       1  TER       0   0   RIB      48   1      50  D
+SEG       2  RIB      48   2   TER       0   0      50  D
+END
+RNA     237
+SEG       1  TER       0   0   RIB      49   1      79  D
+SEG       2  RIB      49   2   TER       0   0      79  D
+END
+RNA     238
+SEG       1  TER       0   0   RIB      50   1      66  D
+SEG       2  RIB      50   2   TER       0   0      66  D
+END
+RNA     239
+SEG       1  TER       0   0   RIB      51   1     111  D
+SEG       2  RIB      51   2   TER       0   0     111  D
+END
+RNA     240
+SEG       1  TER       0   0   RIB      52   1      67  D
+SEG       2  RIB      52   2   TER       0   0      67  D
+END
+RNA     241
+SEG       1  TER       0   0   RIB      53   1      95  D
+SEG       2  RIB      53   2   TER       0   0      95  D
+END
+RNA     242
+SEG       1  TER       0   0   RIB      54   1      72  D
+SEG       2  RIB      54   2   TER       0   0      72  D
+END
+RNA     243
+SEG       1  TER       0   0   RIB      55   1      41  D
+SEG       2  RIB      55   2   TER       0   0      41  D
+END
+RNA     244
+SEG       1  TER       0   0   RIB      56   1      66  D
+SEG       2  RIB      56   2   TER       0   0      66  D
+END
+RNA     245
+SEG       1  TER       0   0   RIB      57   1      88  D
+SEG       2  RIB      57   2   TER       0   0      88  D
+END
+RNA     246
+SEG       1  TER       0   0   RIB      58   1     137  D
+SEG       2  RIB      58   2   TER       0   0     137  D
+END
+RNA     247
+SEG       1  TER       0   0   RIB      59   1      94  D
+SEG       2  RIB      59   2   TER       0   0      94  D
+END
+RNA     248
+SEG       1  TER       0   0   RIB      60   1      44  D
+SEG       2  RIB      60   2   TER       0   0      44  D
+END
+RNA     249
+SEG       1  TER       0   0   RIB      61   1      33  D
+SEG       2  RIB      61   2   TER       0   0      33  D
+END
+RNA     250
+SEG       1  TER       0   0   RIB      62   1      49  D
+SEG       2  RIB      62   2   TER       0   0      49  D
+END
+RNA     251
+SEG       1  TER       0   0   RIB      63   1      43  D
+SEG       2  RIB      63   2   TER       0   0      43  D
+END
+RNA     252
+SEG       1  TER       0   0   RIB      64   1     107  D
+SEG       2  RIB      64   2   TER       0   0     107  D
+END
+RNA     253
+SEG       1  TER       0   0   RIB      65   1      38  D
+SEG       2  RIB      65   2   TER       0   0      38  D
+END
+RNA     254
+SEG       1  TER       0   0   RIB      66   1      72  D
+SEG       2  RIB      66   2   TER       0   0      72  D
+END
+RNA     255
+SEG       1  TER       0   0   RIB      67   1     193  D
+SEG       2  RIB      67   2   TER       0   0     193  D
+END
+RNA     256
+SEG       1  TER       0   0   RIB      68   1      60  D
+SEG       2  RIB      68   2   TER       0   0      60  D
+END
+RNA     257
+SEG       1  TER       0   0   RIB      69   1      31  D
+SEG       2  RIB      69   2   TER       0   0      31  D
+END
+RNA     258
+SEG       1  TER       0   0   RIB      70   1      76  D
+SEG       2  RIB      70   2   TER       0   0      76  D
+END
+RNA     259
+SEG       1  TER       0   0   RIB      71   1      67  D
+SEG       2  RIB      71   2   TER       0   0      67  D
+END
+RNA     260
+SEG       1  TER       0   0   RIB      72   1      83  D
+SEG       2  RIB      72   2   TER       0   0      83  D
+END
+RNA     261
+SEG       1  TER       0   0   RIB      73   1      95  D
+SEG       2  RIB      73   2   TER       0   0      95  D
+END
+RNA     262
+SEG       1  TER       0   0   RIB      74   1      79  D
+SEG       2  RIB      74   2   TER       0   0      79  D
+END
+RNA     263
+SEG       1  TER       0   0   RIB      75   1      17  D
+SEG       2  RIB      75   2   TER       0   0      17  D
+END
+RNA     264
+SEG       1  TER       0   0   RIB      76   1     107  D
+SEG       2  RIB      76   2   TER       0   0     107  D
+END
+RNA     265
+SEG       1  TER       0   0   RIB      77   1      17  D
+SEG       2  RIB      77   2   TER       0   0      17  D
+END
+RNA     266
+SEG       1  TER       0   0   RIB      78   1      50  D
+SEG       2  RIB      78   2   TER       0   0      50  D
+END
+RNA     267
+SEG       1  TER       0   0   RIB      79   1      80  D
+SEG       2  RIB      79   2   TER       0   0      80  D
+END
+RNA     268
+SEG       1  TER       0   0   RIB      80   1      67  D
+SEG       2  RIB      80   2   TER       0   0      67  D
+END
+RNA     269
+SEG       1  TER       0   0   RIB      81   1     155  D
+SEG       2  RIB      81   2   TER       0   0     155  D
+END
+RNA     270
+SEG       1  TER       0   0   RIB      82   1      36  D
+SEG       2  RIB      82   2   TER       0   0      36  D
+END
+RNA     271
+SEG       1  TER       0   0   RIB      83   1      71  D
+SEG       2  RIB      83   2   TER       0   0      71  D
+END
+RNA     272
+SEG       1  TER       0   0   RIB      84   1      19  D
+SEG       2  RIB      84   2   TER       0   0      19  D
+END
+RNA     273
+SEG       1  TER       0   0   RIB      85   1      88  D
+SEG       2  RIB      85   2   TER       0   0      88  D
+END
+RNA     274
+SEG       1  TER       0   0   RIB      86   1      57  D
+SEG       2  RIB      86   2   TER       0   0      57  D
+END
+RNA     275
+SEG       1  TER       0   0   RIB      87   1      24  D
+SEG       2  RIB      87   2   TER       0   0      24  D
+END
+RNA     276
+SEG       1  TER       0   0   RIB      88   1      20  D
+SEG       2  RIB      88   2   TER       0   0      20  D
+END
+RNA     277
+SEG       1  TER       0   0   RIB      89   1     130  D
+SEG       2  RIB      89   2   TER       0   0     130  D
+END
+RNA     278
+SEG       1  TER       0   0   RIB      90   1      59  D
+SEG       2  RIB      90   2   TER       0   0      59  D
+END
+RNA     279
+SEG       1  TER       0   0   RIB      91   1      28  D
+SEG       2  RIB      91   2   TER       0   0      28  D
+END
+RNA     280
+SEG       1  TER       0   0   RIB      92   1      60  D
+SEG       2  RIB      92   2   TER       0   0      60  D
+END
+RNA     281
+SEG       1  TER       0   0   RIB      93   1      19  D
+SEG       2  RIB      93   2   TER       0   0      19  D
+END
+RNA     282
+SEG       1  TER       0   0   RIB      94   1      31  D
+SEG       2  RIB      94   2   TER       0   0      31  D
+END
+RNA     283
+SEG       1  TER       0   0   RIB      95   1      57  D
+SEG       2  RIB      95   2   TER       0   0      57  D
+END
+RNA     284
+SEG       1  TER       0   0   RIB      96   1      93  D
+SEG       2  RIB      96   2   TER       0   0      93  D
+END
+RNA     285
+SEG       1  TER       0   0   RIB      97   1     118  D
+SEG       2  RIB      97   2   TER       0   0     118  D
+END
+RNA     286
+SEG       1  TER       0   0   RIB      98   1      11  D
+SEG       2  RIB      98   2   TER       0   0      11  D
+END
+RNA     287
+SEG       1  TER       0   0   RIB      99   1      32  D
+SEG       2  RIB      99   2   TER       0   0      32  D
+END
+RNA     288
+SEG       1  TER       0   0   RIB     100   1     108  D
+SEG       2  RIB     100   2   TER       0   0     108  D
+END
+RNA     289
+SEG       1  TER       0   0   RIB     101   1      50  D
+SEG       2  RIB     101   2   TER       0   0      50  D
+END
+RNA     290
+SEG       1  TER       0   0   RIB     102   1      34  D
+SEG       2  RIB     102   2   TER       0   0      34  D
+END
+RNA     291
+SEG       1  TER       0   0   RIB     103   1      86  D
+SEG       2  RIB     103   2   TER       0   0      86  D
+END
+RNA     292
+SEG       1  TER       0   0   RIB     104   1      59  D
+SEG       2  RIB     104   2   TER       0   0      59  D
+END
+RNA     293
+SEG       1  TER       0   0   RIB     105   1      70  D
+SEG       2  RIB     105   2   TER       0   0      70  D
+END
+RNA     294
+SEG       1  TER       0   0   RIB     106   1      15  D
+SEG       2  RIB     106   2   TER       0   0      15  D
+END
+RNA     295
+SEG       1  TER       0   0   RIB     107   1      67  D
+SEG       2  RIB     107   2   TER       0   0      67  D
+END
+RNA     296
+SEG       1  TER       0   0   RIB     108   1      16  D
+SEG       2  RIB     108   2   TER       0   0      16  D
+END
+RNA     297
+SEG       1  TER       0   0   RIB     109   1      72  D
+SEG       2  RIB     109   2   TER       0   0      72  D
+END
+RNA     298
+SEG       1  TER       0   0   RIB     110   1     103  D
+SEG       2  RIB     110   2   TER       0   0     103  D
+END
+RNA     299
+SEG       1  TER       0   0   RIB     111   1      36  D
+SEG       2  RIB     111   2   TER       0   0      36  D
+END
+RNA     300
+SEG       1  TER       0   0   RIB     112   1      36  D
+SEG       2  RIB     112   2   TER       0   0      36  D
+END
+RNA     301
+SEG       1  TER       0   0   RIB     113   1      44  D
+SEG       2  RIB     113   2   TER       0   0      44  D
+END
+RNA     302
+SEG       1  TER       0   0   RIB     114   1     118  D
+SEG       2  RIB     114   2   TER       0   0     118  D
+END
+RNA     303
+SEG       1  TER       0   0   RIB     115   1      11  D
+SEG       2  RIB     115   2   TER       0   0      11  D
+END
+RNA     304
+SEG       1  TER       0   0   RIB     116   1      73  D
+SEG       2  RIB     116   2   TER       0   0      73  D
+END
+RNA     305
+SEG       1  TER       0   0   RIB     117   1      67  D
+SEG       2  RIB     117   2   TER       0   0      67  D
+END
+RNA     306
+SEG       1  TER       0   0   RIB     118   1      86  D
+SEG       2  RIB     118   2   TER       0   0      86  D
+END
+RNA     307
+SEG       1  TER       0   0   RIB     119   1      82  D
+SEG       2  RIB     119   2   TER       0   0      82  D
+END
+RNA     308
+SEG       1  TER       0   0   RIB     120   1     108  D
+SEG       2  RIB     120   2   TER       0   0     108  D
+END
+RNA     309
+SEG       1  TER       0   0   RIB     121   1      48  D
+SEG       2  RIB     121   2   TER       0   0      48  D
+END
+RNA     310
+SEG       1  TER       0   0   RIB     122   1      67  D
+SEG       2  RIB     122   2   TER       0   0      67  D
+END
+RNA     311
+SEG       1  TER       0   0   RIB     123   1      34  D
+SEG       2  RIB     123   2   TER       0   0      34  D
+END
+RNA     312
+SEG       1  TER       0   0   RIB     124   1      28  D
+SEG       2  RIB     124   2   TER       0   0      28  D
+END
+RNA     313
+SEG       1  TER       0   0   RIB     125   1      30  D
+SEG       2  RIB     125   2   TER       0   0      30  D
+END
+RNA     314
+SEG       1  TER       0   0   RIB     126   1      73  D
+SEG       2  RIB     126   2   TER       0   0      73  D
+END
+RNA     315
+SEG       1  TER       0   0   RIB     127   1      33  D
+SEG       2  RIB     127   2   TER       0   0      33  D
+END
+RNA     316
+SEG       1  TER       0   0   RIB     128   1      27  D
+SEG       2  RIB     128   2   TER       0   0      27  D
+END
+RNA     317
+SEG       1  TER       0   0   RIB     129   1     137  D
+SEG       2  RIB     129   2   TER       0   0     137  D
+END
+RNA     318
+SEG       1  TER       0   0   RIB     130   1      53  D
+SEG       2  RIB     130   2   TER       0   0      53  D
+END
+RNA     319
+SEG       1  TER       0   0   RIB     131   1      18  D
+SEG       2  RIB     131   2   TER       0   0      18  D
+END
+RNA     320
+SEG       1  TER       0   0   RIB     132   1      17  D
+SEG       2  RIB     132   2   TER       0   0      17  D
+END
+RNA     321
+SEG       1  TER       0   0   RIB     133   1      43  D
+SEG       2  RIB     133   2   TER       0   0      43  D
+END
+RNA     322
+SEG       1  TER       0   0   RIB     134   1      13  D
+SEG       2  RIB     134   2   TER       0   0      13  D
+END
+RNA     323
+SEG       1  TER       0   0   RIB     135   1      11  D
+SEG       2  RIB     135   2   TER       0   0      11  D
+END
+RNA     324
+SEG       1  TER       0   0   RIB     136   1     128  D
+SEG       2  RIB     136   2   TER       0   0     128  D
+END
+RNA     325
+SEG       1  TER       0   0   RIB     137   1      13  D
+SEG       2  RIB     137   2   TER       0   0      13  D
+END
+RNA     326
+SEG       1  TER       0   0   RIB     138   1      43  D
+SEG       2  RIB     138   2   TER       0   0      43  D
+END
+RNA     327
+SEG       1  TER       0   0   RIB     139   1     188  D
+SEG       2  RIB     139   2   TER       0   0     188  D
+END
+RNA     328
+SEG       1  TER       0   0   RIB     140   1      43  D
+SEG       2  RIB     140   2   TER       0   0      43  D
+END
+RNA     329
+SEG       1  TER       0   0   RIB     141   1      87  D
+SEG       2  RIB     141   2   TER       0   0      87  D
+END
+RNA     330
+SEG       1  TER       0   0   RIB     142   1      28  D
+SEG       2  RIB     142   2   TER       0   0      28  D
+END
+RNA     331
+SEG       1  TER       0   0   RIB     143   1      67  D
+SEG       2  RIB     143   2   TER       0   0      67  D
+END
+RNA     332
+SEG       1  TER       0   0   RIB     144   1      17  D
+SEG       2  RIB     144   2   TER       0   0      17  D
+END
+RNA     333
+SEG       1  TER       0   0   RIB     145   1     128  D
+SEG       2  RIB     145   2   TER       0   0     128  D
+END
+RNA     334
+SEG       1  TER       0   0   RIB     146   1      34  D
+SEG       2  RIB     146   2   TER       0   0      34  D
+END
+RNA     335
+SEG       1  TER       0   0   RIB     147   1      72  D
+SEG       2  RIB     147   2   TER       0   0      72  D
+END
+RNA     336
+SEG       1  TER       0   0   RIB     148   1      67  D
+SEG       2  RIB     148   2   TER       0   0      67  D
+END
+RNA     337
+SEG       1  TER       0   0   RIB     149   1      17  D
+SEG       2  RIB     149   2   TER       0   0      17  D
+END
+RNA     338
+SEG       1  TER       0   0   RIB     150   1      83  D
+SEG       2  RIB     150   2   TER       0   0      83  D
+END
+RNA     339
+SEG       1  TER       0   0   RIB     151   1      27  D
+SEG       2  RIB     151   2   TER       0   0      27  D
+END
+RNA     340
+SEG       1  TER       0   0   RIB     152   1      44  D
+SEG       2  RIB     152   2   TER       0   0      44  D
+END
+RNA     341
+SEG       1  TER       0   0   RIB     153   1      87  D
+SEG       2  RIB     153   2   TER       0   0      87  D
+END
+RNA     342
+SEG       1  TER       0   0   RIB     154   1      28  D
+SEG       2  RIB     154   2   TER       0   0      28  D
+END
+RNA     343
+SEG       1  TER       0   0   RIB     155   1      36  D
+SEG       2  RIB     155   2   TER       0   0      36  D
+END
+RNA     344
+SEG       1  TER       0   0   RIB     156   1      24  D
+SEG       2  RIB     156   2   TER       0   0      24  D
+END
+RNA     345
+SEG       1  TER       0   0   RIB     157   1      47  D
+SEG       2  RIB     157   2   TER       0   0      47  D
+END
+RNA     346
+SEG       1  TER       0   0   RIB     158   1      71  D
+SEG       2  RIB     158   2   TER       0   0      71  D
+END
+RNA     347
+SEG       1  TER       0   0   RIB     159   1     108  D
+SEG       2  RIB     159   2   TER       0   0     108  D
+END
+RNA     348
+SEG       1  TER       0   0   RIB     160   1      40  D
+SEG       2  RIB     160   2   TER       0   0      40  D
+END
+RNA     349
+SEG       1  TER       0   0   RIB     161   1      41  D
+SEG       2  RIB     161   2   TER       0   0      41  D
+END
+RNA     350
+SEG       1  TER       0   0   RIB     162   1      30  D
+SEG       2  RIB     162   2   TER       0   0      30  D
+END
+RNA     351
+SEG       1  TER       0   0   RIB     163   1     118  D
+SEG       2  RIB     163   2   TER       0   0     118  D
+END
+RNA     352
+SEG       1  TER       0   0   RIB     164   1      24  D
+SEG       2  RIB     164   2   TER       0   0      24  D
+END
+RNA     353
+SEG       1  TER       0   0   RIB     165   1      24  D
+SEG       2  RIB     165   2   TER       0   0      24  D
+END
+RNA     354
+SEG       1  TER       0   0   RIB     166   1      34  D
+SEG       2  RIB     166   2   TER       0   0      34  D
+END
+RNA     355
+SEG       1  TER       0   0   RIB     167   1      47  D
+SEG       2  RIB     167   2   TER       0   0      47  D
+END
+RNA     356
+SEG       1  TER       0   0   RIB     168   1      43  D
+SEG       2  RIB     168   2   TER       0   0      43  D
+END
+RNA     357
+SEG       1  TER       0   0   RIB     169   1      13  D
+SEG       2  RIB     169   2   TER       0   0      13  D
+END
+RNA     358
+SEG       1  TER       0   0   RIB     170   1      20  D
+SEG       2  RIB     170   2   TER       0   0      20  D
+END
+RNA     359
+SEG       1  TER       0   0   RIB     171   1      71  D
+SEG       2  RIB     171   2   TER       0   0      71  D
+END
+RNA     360
+SEG       1  TER       0   0   RIB     172   1      94  D
+SEG       2  RIB     172   2   TER       0   0      94  D
+END
+RNA     361
+SEG       1  TER       0   0   RIB     173   1      83  D
+SEG       2  RIB     173   2   TER       0   0      83  D
+END
+RNA     362
+SEG       1  TER       0   0   RIB     174   1     105  D
+SEG       2  RIB     174   2   TER       0   0     105  D
+END
+RNA     363
+SEG       1  TER       0   0   RIB     175   1      90  D
+SEG       2  RIB     175   2   TER       0   0      90  D
+END
+RNA     364
+SEG       1  TER       0   0   RIB     176   1      79  D
+SEG       2  RIB     176   2   TER       0   0      79  D
+END
+RNA     365
+SEG       1  TER       0   0   RIB     177   1      37  D
+SEG       2  RIB     177   2   TER       0   0      37  D
+END
+RNA     366
+SEG       1  TER       0   0   RIB     178   1      44  D
+SEG       2  RIB     178   2   TER       0   0      44  D
+END
+RNA     367
+SEG       1  TER       0   0   RIB     179   1      48  D
+SEG       2  RIB     179   2   TER       0   0      48  D
+END
+RNA     368
+SEG       1  TER       0   0   RIB     180   1      79  D
+SEG       2  RIB     180   2   TER       0   0      79  D
+END
+RNA     369
+SEG       1  TER       0   0   RIB     181   1      17  D
+SEG       2  RIB     181   2   TER       0   0      17  D
+END
+RNA     370
+SEG       1  TER       0   0   RIB     182   1      16  D
+SEG       2  RIB     182   2   TER       0   0      16  D
+END
+RNA     371
+SEG       1  TER       0   0   RIB     183   1      15  D
+SEG       2  RIB     183   2   TER       0   0      15  D
+END
+RNA     372
+SEG       1  TER       0   0   RIB     184   1     207  D
+SEG       2  RIB     184   2   TER       0   0     207  D
+END
+RNA     373
+SEG       1  TER       0   0   RIB     185   1      36  D
+SEG       2  RIB     185   2   TER       0   0      36  D
+END
+RNA     374
+SEG       1  TER       0   0   RIB     186   1      49  D
+SEG       2  RIB     186   2   TER       0   0      49  D
+END
+RNA     375
+SEG       1  TER       0   0   RIB     187   1      52  D
+SEG       2  RIB     187   2   TER       0   0      52  D
+END
+RNA     376
+SEG       1  TER       0   0   RIB     188   1      41  D
+SEG       2  RIB     188   2   TER       0   0      41  D
+END
+RNA     377
+SEG       1  TER       0   0   RIB     189   1     105  D
+SEG       2  RIB     189   2   TER       0   0     105  D
+END
+RNA     378
+SEG       1  TER       0   0   RIB     190   1      45  D
+SEG       2  RIB     190   2   TER       0   0      45  D
+END
+RNA     379
+SEG       1  TER       0   0   RIB     191   1      72  D
+SEG       2  RIB     191   2   TER       0   0      72  D
+END
+RNA     380
+SEG       1  TER       0   0   RIB     192   1      36  D
+SEG       2  RIB     192   2   TER       0   0      36  D
+END
+RNA     381
+SEG       1  TER       0   0   RIB     193   1      28  D
+SEG       2  RIB     193   2   TER       0   0      28  D
+END
+RNA     382
+SEG       1  TER       0   0   RIB     194   1      97  D
+SEG       2  RIB     194   2   TER       0   0      97  D
+END
+RNA     383
+SEG       1  TER       0   0   RIB     195   1      63  D
+SEG       2  RIB     195   2   TER       0   0      63  D
+END
+RNA     384
+SEG       1  TER       0   0   RIB     196   1      83  D
+SEG       2  RIB     196   2   TER       0   0      83  D
+END
+RNA     385
+SEG       1  TER       0   0   RIB     197   1      47  D
+SEG       2  RIB     197   2   TER       0   0      47  D
+END
+RNA     386
+SEG       1  TER       0   0   RIB     198   1      73  D
+SEG       2  RIB     198   2   TER       0   0      73  D
+END
+RNA     387
+SEG       1  TER       0   0   RIB     199   1      75  D
+SEG       2  RIB     199   2   TER       0   0      75  D
+END
+RNA     388
+SEG       1  TER       0   0   RIB     200   1      13  D
+SEG       2  RIB     200   2   TER       0   0      13  D
+END
+RNA     389
+SEG       1  TER       0   0   RIB     201   1      43  D
+SEG       2  RIB     201   2   TER       0   0      43  D
+END
+RNA     390
+SEG       1  TER       0   0   RIB     202   1      30  D
+SEG       2  RIB     202   2   TER       0   0      30  D
+END
+RNA     391
+SEG       1  TER       0   0   RIB     203   1      34  D
+SEG       2  RIB     203   2   TER       0   0      34  D
+END
+RNA     392
+SEG       1  TER       0   0   RIB     204   1      36  D
+SEG       2  RIB     204   2   TER       0   0      36  D
+END
+RNA     393
+SEG       1  TER       0   0   RIB     205   1      76  D
+SEG       2  RIB     205   2   TER       0   0      76  D
+END
+RNA     394
+SEG       1  TER       0   0   RIB     206   1     141  D
+SEG       2  RIB     206   2   TER       0   0     141  D
+END
+RNA     395
+SEG       1  TER       0   0   RIB     207   1      98  D
+SEG       2  RIB     207   2   TER       0   0      98  D
+END
+RNA     396
+SEG       1  TER       0   0   RIB     208   1      42  D
+SEG       2  RIB     208   2   TER       0   0      42  D
+END
+RNA     397
+SEG       1  TER       0   0   RIB     209   1      60  D
+SEG       2  RIB     209   2   TER       0   0      60  D
+END
+RNA     398
+SEG       1  TER       0   0   RIB     210   1      32  D
+SEG       2  RIB     210   2   TER       0   0      32  D
+END
+RNA     399
+SEG       1  TER       0   0   RIB     211   1      71  D
+SEG       2  RIB     211   2   TER       0   0      71  D
+END
+RNA     400
+SEG       1  TER       0   0   RIB     212   1      19  D
+SEG       2  RIB     212   2   TER       0   0      19  D
+END
+RNA     401
+SEG       1  TER       0   0   RIB     213   1     119  D
+SEG       2  RIB     213   2   TER       0   0     119  D
+END
+RNA     402
+SEG       1  TER       0   0   RIB     214   1      28  D
+SEG       2  RIB     214   2   TER       0   0      28  D
+END
+RNA     403
+SEG       1  TER       0   0   RIB     215   1      75  D
+SEG       2  RIB     215   2   TER       0   0      75  D
+END
+RNA     404
+SEG       1  TER       0   0   RIB     216   1      56  D
+SEG       2  RIB     216   2   TER       0   0      56  D
+END
+RNA     405
+SEG       1  TER       0   0   RIB     217   1      76  D
+SEG       2  RIB     217   2   TER       0   0      76  D
+END
+RNA     406
+SEG       1  TER       0   0   RIB     218   1      93  D
+SEG       2  RIB     218   2   TER       0   0      93  D
+END
+RNA     407
+SEG       1  TER       0   0   RIB     219   1      80  D
+SEG       2  RIB     219   2   TER       0   0      80  D
+END
+RNA     408
+SEG       1  TER       0   0   RIB     220   1      94  D
+SEG       2  RIB     220   2   TER       0   0      94  D
+END
+RNA     409
+SEG       1  TER       0   0   RIB     221   1      35  D
+SEG       2  RIB     221   2   TER       0   0      35  D
+END
+RNA     410
+SEG       1  TER       0   0   RIB     222   1     111  D
+SEG       2  RIB     222   2   TER       0   0     111  D
+END
+RNA     411
+SEG       1  TER       0   0   RIB     223   1     108  D
+SEG       2  RIB     223   2   TER       0   0     108  D
+END
+RNA     412
+SEG       1  TER       0   0   RIB     224   1      13  D
+SEG       2  RIB     224   2   TER       0   0      13  D
+END
+RNA     413
+SEG       1  TER       0   0   RIB     225   1      30  D
+SEG       2  RIB     225   2   TER       0   0      30  D
+END
+RNA     414
+SEG       1  TER       0   0   RIB     226   1      43  D
+SEG       2  RIB     226   2   TER       0   0      43  D
+END
+RNA     415
+SEG       1  TER       0   0   RIB     227   1      30  D
+SEG       2  RIB     227   2   TER       0   0      30  D
+END
+RNA     416
+SEG       1  TER       0   0   RIB     228   1      48  D
+SEG       2  RIB     228   2   TER       0   0      48  D
+END
+RNA     417
+SEG       1  TER       0   0   RIB     229   1      80  D
+SEG       2  RIB     229   2   TER       0   0      80  D
+END
+RNA     418
+SEG       1  TER       0   0   RIB     230   1      34  D
+SEG       2  RIB     230   2   TER       0   0      34  D
+END
+RNA     419
+SEG       1  TER       0   0   RIB     231   1      30  D
+SEG       2  RIB     231   2   TER       0   0      30  D
+END
+RNA     420
+SEG       1  TER       0   0   RIB     232   1      30  D
+SEG       2  RIB     232   2   TER       0   0      30  D
+END
+RNA     421
+SEG       1  TER       0   0   RIB     233   1      14  D
+SEG       2  RIB     233   2   TER       0   0      14  D
+END
+RNA     422
+SEG       1  TER       0   0   RIB     234   1      35  D
+SEG       2  RIB     234   2   TER       0   0      35  D
+END
+RNA     423
+SEG       1  TER       0   0   RIB     235   1      72  D
+SEG       2  RIB     235   2   TER       0   0      72  D
+END
+RNA     424
+SEG       1  TER       0   0   RIB     236   1      76  D
+SEG       2  RIB     236   2   TER       0   0      76  D
+END
+RNA     425
+SEG       1  TER       0   0   RIB     237   1      94  D
+SEG       2  RIB     237   2   TER       0   0      94  D
+END
+RNA     426
+SEG       1  TER       0   0   RIB     238   1      25  D
+SEG       2  RIB     238   2   TER       0   0      25  D
+END
+RNA     427
+SEG       1  TER       0   0   RIB     239   1     134  D
+SEG       2  RIB     239   2   TER       0   0     134  D
+END
+RNA     428
+SEG       1  TER       0   0   RIB     240   1      82  D
+SEG       2  RIB     240   2   TER       0   0      82  D
+END
+RNA     429
+SEG       1  TER       0   0   RIB     241   1      31  D
+SEG       2  RIB     241   2   TER       0   0      31  D
+END
+RNA     430
+SEG       1  TER       0   0   RIB     242   1      36  D
+SEG       2  RIB     242   2   TER       0   0      36  D
+END
+RNA     431
+SEG       1  TER       0   0   RIB     243   1      68  D
+SEG       2  RIB     243   2   TER       0   0      68  D
+END
+RNA     432
+SEG       1  TER       0   0   RIB     244   1      33  D
+SEG       2  RIB     244   2   TER       0   0      33  D
+END
+RNA     433
+SEG       1  TER       0   0   RIB     245   1     108  D
+SEG       2  RIB     245   2   TER       0   0     108  D
+END
+RNA     434
+SEG       1  TER       0   0   RIB     246   1      34  D
+SEG       2  RIB     246   2   TER       0   0      34  D
+END
+RNA     435
+SEG       1  TER       0   0   RIB     247   1      33  D
+SEG       2  RIB     247   2   TER       0   0      33  D
+END
+RNA     436
+SEG       1  TER       0   0   RIB     248   1      32  D
+SEG       2  RIB     248   2   TER       0   0      32  D
+END
+RNA     437
+SEG       1  TER       0   0   RIB     249   1      41  D
+SEG       2  RIB     249   2   TER       0   0      41  D
+END
+RNA     438
+SEG       1  TER       0   0   RIB     250   1      73  D
+SEG       2  RIB     250   2   TER       0   0      73  D
+END
+RNA     439
+SEG       1  TER       0   0   RIB     251   1     108  D
+SEG       2  RIB     251   2   TER       0   0     108  D
+END
+RNA     440
+SEG       1  TER       0   0   RIB     252   1      76  D
+SEG       2  RIB     252   2   TER       0   0      76  D
+END
+RNA     441
+SEG       1  TER       0   0   RIB     253   1      30  D
+SEG       2  RIB     253   2   TER       0   0      30  D
+END
+RNA     442
+SEG       1  TER       0   0   RIB     254   1      42  D
+SEG       2  RIB     254   2   TER       0   0      42  D
+END
+RNA     443
+SEG       1  TER       0   0   RIB     255   1      41  D
+SEG       2  RIB     255   2   TER       0   0      41  D
+END
+RNA     444
+SEG       1  TER       0   0   RIB     256   1     113  D
+SEG       2  RIB     256   2   TER       0   0     113  D
+END
+RNA     445
+SEG       1  TER       0   0   RIB     257   1      52  D
+SEG       2  RIB     257   2   TER       0   0      52  D
+END
+RNA     446
+SEG       1  TER       0   0   RIB     258   1      19  D
+SEG       2  RIB     258   2   TER       0   0      19  D
+END
+RNA     447
+SEG       1  TER       0   0   RIB     259   1     113  D
+SEG       2  RIB     259   2   TER       0   0     113  D
+END
+RNA     448
+SEG       1  TER       0   0   RIB     260   1      35  D
+SEG       2  RIB     260   2   TER       0   0      35  D
+END
+RNA     449
+SEG       1  TER       0   0   RIB     261   1      94  D
+SEG       2  RIB     261   2   TER       0   0      94  D
+END
+RNA     450
+SEG       1  TER       0   0   RIB     262   1      75  D
+SEG       2  RIB     262   2   TER       0   0      75  D
+END
+RNA     451
+SEG       1  TER       0   0   RIB     263   1     193  D
+SEG       2  RIB     263   2   TER       0   0     193  D
+END
+RNA     452
+SEG       1  TER       0   0   RIB     264   1      34  D
+SEG       2  RIB     264   2   TER       0   0      34  D
+END
+RNA     453
+SEG       1  TER       0   0   RIB     265   1      94  D
+SEG       2  RIB     265   2   TER       0   0      94  D
+END
+RNA     454
+SEG       1  TER       0   0   RIB     266   1     207  D
+SEG       2  RIB     266   2   TER       0   0     207  D
+END
+RNA     455
+SEG       1  TER       0   0   RIB     267   1      53  D
+SEG       2  RIB     267   2   TER       0   0      53  D
+END
+RNA     456
+SEG       1  TER       0   0   RIB     268   1      34  D
+SEG       2  RIB     268   2   TER       0   0      34  D
+END
+RNA     457
+SEG       1  TER       0   0   RIB     269   1      93  D
+SEG       2  RIB     269   2   TER       0   0      93  D
+END
+RNA     458
+SEG       1  TER       0   0   RIB     270   1      21  D
+SEG       2  RIB     270   2   TER       0   0      21  D
+END
+RNA     459
+SEG       1  TER       0   0   RIB     271   1      76  D
+SEG       2  RIB     271   2   TER       0   0      76  D
+END
+RNA     460
+SEG       1  TER       0   0   RIB     272   1      52  D
+SEG       2  RIB     272   2   TER       0   0      52  D
+END
+RNA     461
+SEG       1  TER       0   0   RIB     273   1      41  D
+SEG       2  RIB     273   2   TER       0   0      41  D
+END
+RNA     462
+SEG       1  TER       0   0   RIB     274   1      31  D
+SEG       2  RIB     274   2   TER       0   0      31  D
+END
+RNA     463
+SEG       1  TER       0   0   RIB     275   1      19  D
+SEG       2  RIB     275   2   TER       0   0      19  D
+END
+RNA     464
+SEG       1  TER       0   0   RIB     276   1      93  D
+SEG       2  RIB     276   2   TER       0   0      93  D
+END
+RNA     465
+SEG       1  TER       0   0   RIB     277   1      72  D
+SEG       2  RIB     277   2   TER       0   0      72  D
+END
+RNA     466
+SEG       1  TER       0   0   RIB     278   1      61  D
+SEG       2  RIB     278   2   TER       0   0      61  D
+END
+RNA     467
+SEG       1  TER       0   0   RIB     279   1     137  D
+SEG       2  RIB     279   2   TER       0   0     137  D
+END
+RNA     468
+SEG       1  TER       0   0   RIB     280   1      55  D
+SEG       2  RIB     280   2   TER       0   0      55  D
+END
+RNA     469
+SEG       1  TER       0   0   RIB     281   1      73  D
+SEG       2  RIB     281   2   TER       0   0      73  D
+END
+RNA     470
+SEG       1  TER       0   0   RIB     282   1      56  D
+SEG       2  RIB     282   2   TER       0   0      56  D
+END
+RNA     471
+SEG       1  TER       0   0   RIB     283   1      43  D
+SEG       2  RIB     283   2   TER       0   0      43  D
+END
+RNA     472
+SEG       1  TER       0   0   RIB     284   1      87  D
+SEG       2  RIB     284   2   TER       0   0      87  D
+END
+RNA     473
+SEG       1  TER       0   0   RIB     285   1     148  D
+SEG       2  RIB     285   2   TER       0   0     148  D
+END
+RNA     474
+SEG       1  TER       0   0   RIB     286   1      40  D
+SEG       2  RIB     286   2   TER       0   0      40  D
+END
+RNA     475
+SEG       1  TER       0   0   RIB     287   1      70  D
+SEG       2  RIB     287   2   TER       0   0      70  D
+END
+RNA     476
+SEG       1  TER       0   0   RIB     288   1      86  D
+SEG       2  RIB     288   2   TER       0   0      86  D
+END
+RNA     477
+SEG       1  TER       0   0   RIB     289   1     111  D
+SEG       2  RIB     289   2   TER       0   0     111  D
+END
+RNA     478
+SEG       1  TER       0   0   RIB     290   1      94  D
+SEG       2  RIB     290   2   TER       0   0      94  D
+END
+RNA     479
+SEG       1  TER       0   0   RIB     291   1      13  D
+SEG       2  RIB     291   2   TER       0   0      13  D
+END
+RNA     480
+SEG       1  TER       0   0   RIB     292   1      76  D
+SEG       2  RIB     292   2   TER       0   0      76  D
+END
+RNA     481
+SEG       1  TER       0   0   RIB     293   1      50  D
+SEG       2  RIB     293   2   TER       0   0      50  D
+END
+RNA     482
+SEG       1  TER       0   0   RIB     294   1      30  D
+SEG       2  RIB     294   2   TER       0   0      30  D
+END
+RNA     483
+SEG       1  TER       0   0   RIB     295   1     207  D
+SEG       2  RIB     295   2   TER       0   0     207  D
+END
+RNA     484
+SEG       1  TER       0   0   RIB     296   1     130  D
+SEG       2  RIB     296   2   TER       0   0     130  D
+END
+RNA     485
+SEG       1  TER       0   0   RIB     297   1      66  D
+SEG       2  RIB     297   2   TER       0   0      66  D
+END
+RNA     486
+SEG       1  TER       0   0   RIB     298   1      67  D
+SEG       2  RIB     298   2   TER       0   0      67  D
+END
+RNA     487
+SEG       1  TER       0   0   RIB     299   1      67  D
+SEG       2  RIB     299   2   TER       0   0      67  D
+END
+RNA     488
+SEG       1  TER       0   0   RIB     300   1      21  D
+SEG       2  RIB     300   2   TER       0   0      21  D
+END
+RNA     489
+SEG       1  TER       0   0   RIB     301   1      24  D
+SEG       2  RIB     301   2   TER       0   0      24  D
+END
+RNA     490
+SEG       1  TER       0   0   RIB     302   1     108  D
+SEG       2  RIB     302   2   TER       0   0     108  D
+END
+RNA     491
+SEG       1  TER       0   0   RIB     303   1      17  D
+SEG       2  RIB     303   2   TER       0   0      17  D
+END
+RNA     492
+SEG       1  TER       0   0   RIB     304   1     134  D
+SEG       2  RIB     304   2   TER       0   0     134  D
+END
+RNA     493
+SEG       1  TER       0   0   RIB     305   1      94  D
+SEG       2  RIB     305   2   TER       0   0      94  D
+END
+RNA     494
+SEG       1  TER       0   0   RIB     306   1      17  D
+SEG       2  RIB     306   2   TER       0   0      17  D
+END
+RNA     495
+SEG       1  TER       0   0   RIB     307   1     137  D
+SEG       2  RIB     307   2   TER       0   0     137  D
+END
+RNA     496
+SEG       1  TER       0   0   RIB     308   1      94  D
+SEG       2  RIB     308   2   TER       0   0      94  D
+END
+RNA     497
+SEG       1  TER       0   0   RIB     309   1      13  D
+SEG       2  RIB     309   2   TER       0   0      13  D
+END
+RNA     498
+SEG       1  TER       0   0   RIB     310   1      94  D
+SEG       2  RIB     310   2   TER       0   0      94  D
+END
+RNA     499
+SEG       1  TER       0   0   RIB     311   1      73  D
+SEG       2  RIB     311   2   TER       0   0      73  D
+END
+RNA     500
+SEG       1  TER       0   0   RIB     312   1      67  D
+SEG       2  RIB     312   2   TER       0   0      67  D
+END
+RNA     501
+SEG       1  TER       0   0   RIB     313   1      54  D
+SEG       2  RIB     313   2   TER       0   0      54  D
+END
+RNA     502
+SEG       1  TER       0   0   RIB     314   1     141  D
+SEG       2  RIB     314   2   TER       0   0     141  D
+END
+RNA     503
+SEG       1  TER       0   0   RIB     315   1      64  D
+SEG       2  RIB     315   2   TER       0   0      64  D
+END
+RNA     504
+SEG       1  TER       0   0   RIB     316   1      66  D
+SEG       2  RIB     316   2   TER       0   0      66  D
+END
+RNA     505
+SEG       1  TER       0   0   RIB     317   1      47  D
+SEG       2  RIB     317   2   TER       0   0      47  D
+END
+RNA     506
+SEG       1  TER       0   0   RIB     318   1      13  D
+SEG       2  RIB     318   2   TER       0   0      13  D
+END
+RNA     507
+SEG       1  TER       0   0   RIB     319   1      50  D
+SEG       2  RIB     319   2   TER       0   0      50  D
+END
+RNA     508
+SEG       1  TER       0   0   RIB     320   1      75  D
+SEG       2  RIB     320   2   TER       0   0      75  D
+END
+RNA     509
+SEG       1  TER       0   0   RIB     321   1     108  D
+SEG       2  RIB     321   2   TER       0   0     108  D
+END
+RNA     510
+SEG       1  TER       0   0   RIB     322   1      78  D
+SEG       2  RIB     322   2   TER       0   0      78  D
+END
+RNA     511
+SEG       1  TER       0   0   RIB     323   1      13  D
+SEG       2  RIB     323   2   TER       0   0      13  D
+END
+RNA     512
+SEG       1  TER       0   0   RIB     324   1      54  D
+SEG       2  RIB     324   2   TER       0   0      54  D
+END
+RNA     513
+SEG       1  TER       0   0   RIB     325   1      13  D
+SEG       2  RIB     325   2   TER       0   0      13  D
+END
+RNA     514
+SEG       1  TER       0   0   RIB     326   1      30  D
+SEG       2  RIB     326   2   TER       0   0      30  D
+END
+RNA     515
+SEG       1  TER       0   0   RIB     327   1      19  D
+SEG       2  RIB     327   2   TER       0   0      19  D
+END
+RNA     516
+SEG       1  TER       0   0   RIB     328   1      25  D
+SEG       2  RIB     328   2   TER       0   0      25  D
+END
+RNA     517
+SEG       1  TER       0   0   RIB     329   1      67  D
+SEG       2  RIB     329   2   TER       0   0      67  D
+END
+RNA     518
+SEG       1  TER       0   0   RIB     330   1      40  D
+SEG       2  RIB     330   2   TER       0   0      40  D
+END
+RNA     519
+SEG       1  TER       0   0   RIB     331   1      83  D
+SEG       2  RIB     331   2   TER       0   0      83  D
+END
+RNA     520
+SEG       1  TER       0   0   RIB     332   1     142  D
+SEG       2  RIB     332   2   TER       0   0     142  D
+END
+RNA     521
+SEG       1  TER       0   0   RIB     333   1      83  D
+SEG       2  RIB     333   2   TER       0   0      83  D
+END
+RNA     522
+SEG       1  TER       0   0   RIB     334   1      94  D
+SEG       2  RIB     334   2   TER       0   0      94  D
+END
+RNA     523
+SEG       1  TER       0   0   RIB     335   1      29  D
+SEG       2  RIB     335   2   TER       0   0      29  D
+END
+RNA     524
+SEG       1  TER       0   0   RIB     336   1      30  D
+SEG       2  RIB     336   2   TER       0   0      30  D
+END
+RNA     525
+SEG       1  TER       0   0   RIB     337   1      87  D
+SEG       2  RIB     337   2   TER       0   0      87  D
+END
+RNA     526
+SEG       1  TER       0   0   RIB     338   1      80  D
+SEG       2  RIB     338   2   TER       0   0      80  D
+END
+RNA     527
+SEG       1  TER       0   0   RIB     339   1      85  D
+SEG       2  RIB     339   2   TER       0   0      85  D
+END
+RNA     528
+SEG       1  TER       0   0   RIB     340   1      83  D
+SEG       2  RIB     340   2   TER       0   0      83  D
+END
+RNA     529
+SEG       1  TER       0   0   RIB     341   1      36  D
+SEG       2  RIB     341   2   TER       0   0      36  D
+END
+RNA     530
+SEG       1  TER       0   0   RIB     342   1      47  D
+SEG       2  RIB     342   2   TER       0   0      47  D
+END
+RNA     531
+SEG       1  TER       0   0   RIB     343   1      17  D
+SEG       2  RIB     343   2   TER       0   0      17  D
+END
+RNA     532
+SEG       1  TER       0   0   RIB     344   1      37  D
+SEG       2  RIB     344   2   TER       0   0      37  D
+END
+RNA     533
+SEG       1  TER       0   0   RIB     345   1      98  D
+SEG       2  RIB     345   2   TER       0   0      98  D
+END
+RNA     534
+SEG       1  TER       0   0   RIB     346   1      35  D
+SEG       2  RIB     346   2   TER       0   0      35  D
+END
+RNA     535
+SEG       1  TER       0   0   RIB     347   1      25  D
+SEG       2  RIB     347   2   TER       0   0      25  D
+END
+RNA     536
+SEG       1  TER       0   0   RIB     348   1      65  D
+SEG       2  RIB     348   2   TER       0   0      65  D
+END
+RNA     537
+SEG       1  TER       0   0   RIB     349   1     141  D
+SEG       2  RIB     349   2   TER       0   0     141  D
+END
+RNA     538
+SEG       1  TER       0   0   RIB     350   1      62  D
+SEG       2  RIB     350   2   TER       0   0      62  D
+END
+RNA     539
+SEG       1  TER       0   0   RIB     351   1      53  D
+SEG       2  RIB     351   2   TER       0   0      53  D
+END
+RNA     540
+SEG       1  TER       0   0   RIB     352   1      53  D
+SEG       2  RIB     352   2   TER       0   0      53  D
+END
+RNA     541
+SEG       1  TER       0   0   RIB     353   1      78  D
+SEG       2  RIB     353   2   TER       0   0      78  D
+END
+RNA     542
+SEG       1  TER       0   0   RIB     354   1      70  D
+SEG       2  RIB     354   2   TER       0   0      70  D
+END
+RNA     543
+SEG       1  TER       0   0   RIB     355   1      98  D
+SEG       2  RIB     355   2   TER       0   0      98  D
+END
+RNA     544
+SEG       1  TER       0   0   RIB     356   1      63  D
+SEG       2  RIB     356   2   TER       0   0      63  D
+END
+RNA     545
+SEG       1  TER       0   0   RIB     357   1     148  D
+SEG       2  RIB     357   2   TER       0   0     148  D
+END
+RNA     546
+SEG       1  TER       0   0   RIB     358   1     141  D
+SEG       2  RIB     358   2   TER       0   0     141  D
+END
+RNA     547
+SEG       1  TER       0   0   RIB     359   1      94  D
+SEG       2  RIB     359   2   TER       0   0      94  D
+END
+RNA     548
+SEG       1  TER       0   0   RIB     360   1      47  D
+SEG       2  RIB     360   2   TER       0   0      47  D
+END
+RNA     549
+SEG       1  TER       0   0   RIB     361   1      11  D
+SEG       2  RIB     361   2   TER       0   0      11  D
+END
+RNA     550
+SEG       1  TER       0   0   RIB     362   1      79  D
+SEG       2  RIB     362   2   TER       0   0      79  D
+END
+RNA     551
+SEG       1  TER       0   0   RIB     363   1     148  D
+SEG       2  RIB     363   2   TER       0   0     148  D
+END
+RNA     552
+SEG       1  TER       0   0   RIB     364   1      63  D
+SEG       2  RIB     364   2   TER       0   0      63  D
+END
+RNA     553
+SEG       1  TER       0   0   RIB     365   1      76  D
+SEG       2  RIB     365   2   TER       0   0      76  D
+END
+RNA     554
+SEG       1  TER       0   0   RIB     366   1      47  D
+SEG       2  RIB     366   2   TER       0   0      47  D
+END
+RNA     555
+SEG       1  TER       0   0   RIB     367   1      68  D
+SEG       2  RIB     367   2   TER       0   0      68  D
+END
+RNA     556
+SEG       1  TER       0   0   RIB     368   1     111  D
+SEG       2  RIB     368   2   TER       0   0     111  D
+END
+RNA     557
+SEG       1  TER       0   0   RIB     369   1      67  D
+SEG       2  RIB     369   2   TER       0   0      67  D
+END
+RNA     558
+SEG       1  TER       0   0   RIB     370   1      47  D
+SEG       2  RIB     370   2   TER       0   0      47  D
+END
+RNA     559
+SEG       1  TER       0   0   RIB     371   1      79  D
+SEG       2  RIB     371   2   TER       0   0      79  D
+END
+RNA     560
+SEG       1  TER       0   0   RIB     372   1      50  D
+SEG       2  RIB     372   2   TER       0   0      50  D
+END
+RNA     561
+SEG       1  TER       0   0   RIB     373   1     155  D
+SEG       2  RIB     373   2   TER       0   0     155  D
+END
+RNA     562
+SEG       1  TER       0   0   RIB     374   1      88  D
+SEG       2  RIB     374   2   TER       0   0      88  D
+END
+RNA     563
+SEG       1  TER       0   0   RIB     375   1      43  D
+SEG       2  RIB     375   2   TER       0   0      43  D
+END
+RNA     564
+SEG       1  TER       0   0   RIB     376   1      32  D
+SEG       2  RIB     376   2   TER       0   0      32  D
+END
+RNA     565
+SEG       1  TER       0   0   RIB     377   1     207  D
+SEG       2  RIB     377   2   TER       0   0     207  D
+END
+RNA     566
+SEG       1  TER       0   0   RIB     378   1      20  D
+SEG       2  RIB     378   2   TER       0   0      20  D
+END
+RNA     567
+SEG       1  TER       0   0   RIB     379   1      47  D
+SEG       2  RIB     379   2   TER       0   0      47  D
+END
+RNA     568
+SEG       1  TER       0   0   RIB     380   1      34  D
+SEG       2  RIB     380   2   TER       0   0      34  D
+END
+RNA     569
+SEG       1  TER       0   0   RIB     381   1      32  D
+SEG       2  RIB     381   2   TER       0   0      32  D
+END
+RNA     570
+SEG       1  TER       0   0   RIB     382   1      52  D
+SEG       2  RIB     382   2   TER       0   0      52  D
+END
+RNA     571
+SEG       1  TER       0   0   RIB     383   1     105  D
+SEG       2  RIB     383   2   TER       0   0     105  D
+END
+RNA     572
+SEG       1  TER       0   0   RIB     384   1      63  D
+SEG       2  RIB     384   2   TER       0   0      63  D
+END
+RNA     573
+SEG       1  TER       0   0   RIB     385   1      73  D
+SEG       2  RIB     385   2   TER       0   0      73  D
+END
+RNA     574
+SEG       1  TER       0   0   RIB     386   1      65  D
+SEG       2  RIB     386   2   TER       0   0      65  D
+END
+RNA     575
+SEG       1  TER       0   0   RIB     387   1     113  D
+SEG       2  RIB     387   2   TER       0   0     113  D
+END
+RNA     576
+SEG       1  TER       0   0   RIB     388   1      34  D
+SEG       2  RIB     388   2   TER       0   0      34  D
+END
+RNA     577
+SEG       1  TER       0   0   RIB     389   1      25  D
+SEG       2  RIB     389   2   TER       0   0      25  D
+END
+RNA     578
+SEG       1  TER       0   0   RIB     390   1      47  D
+SEG       2  RIB     390   2   TER       0   0      47  D
+END
+RNA     579
+SEG       1  TER       0   0   RIB     391   1      71  D
+SEG       2  RIB     391   2   TER       0   0      71  D
+END
+RNA     580
+SEG       1  TER       0   0   RIB     392   1      17  D
+SEG       2  RIB     392   2   TER       0   0      17  D
+END
+RNA     581
+SEG       1  TER       0   0   RIB     393   1      28  D
+SEG       2  RIB     393   2   TER       0   0      28  D
+END
+RNA     582
+SEG       1  TER       0   0   RIB     394   1      42  D
+SEG       2  RIB     394   2   TER       0   0      42  D
+END
+RNA     583
+SEG       1  TER       0   0   RIB     395   1      41  D
+SEG       2  RIB     395   2   TER       0   0      41  D
+END
+RNA     584
+SEG       1  TER       0   0   RIB     396   1      60  D
+SEG       2  RIB     396   2   TER       0   0      60  D
+END
+RNA     585
+SEG       1  TER       0   0   RIB     397   1      19  D
+SEG       2  RIB     397   2   TER       0   0      19  D
+END
+RNA     586
+SEG       1  TER       0   0   RIB     398   1      41  D
+SEG       2  RIB     398   2   TER       0   0      41  D
+END
+RNA     587
+SEG       1  TER       0   0   RIB     399   1      90  D
+SEG       2  RIB     399   2   TER       0   0      90  D
+END
+RNA     588
+SEG       1  TER       0   0   RIB     400   1      59  D
+SEG       2  RIB     400   2   TER       0   0      59  D
+END
+RNA     589
+SEG       1  TER       0   0   RIB     401   1      53  D
+SEG       2  RIB     401   2   TER       0   0      53  D
+END
+RNA     590
+SEG       1  TER       0   0   RIB     402   1     142  D
+SEG       2  RIB     402   2   TER       0   0     142  D
+END
+RNA     591
+SEG       1  TER       0   0   RIB     403   1     103  D
+SEG       2  RIB     403   2   TER       0   0     103  D
+END
+RNA     592
+SEG       1  TER       0   0   RIB     404   1      56  D
+SEG       2  RIB     404   2   TER       0   0      56  D
+END
+RNA     593
+SEG       1  TER       0   0   RIB     405   1      85  D
+SEG       2  RIB     405   2   TER       0   0      85  D
+END
+RNA     594
+SEG       1  TER       0   0   RIB     406   1      93  D
+SEG       2  RIB     406   2   TER       0   0      93  D
+END
+RNA     595
+SEG       1  TER       0   0   RIB     407   1      17  D
+SEG       2  RIB     407   2   TER       0   0      17  D
+END
+RNA     596
+SEG       1  TER       0   0   RIB     408   1      88  D
+SEG       2  RIB     408   2   TER       0   0      88  D
+END
+RNA     597
+SEG       1  TER       0   0   RIB     409   1      50  D
+SEG       2  RIB     409   2   TER       0   0      50  D
+END
+RNA     598
+SEG       1  TER       0   0   RIB     410   1      94  D
+SEG       2  RIB     410   2   TER       0   0      94  D
+END
+RNA     599
+SEG       1  TER       0   0   RIB     411   1      62  D
+SEG       2  RIB     411   2   TER       0   0      62  D
+END
+RNA     600
+SEG       1  TER       0   0   RIB     412   1     113  D
+SEG       2  RIB     412   2   TER       0   0     113  D
+END
+RNA     601
+SEG       1  TER       0   0   RIB     413   1      86  D
+SEG       2  RIB     413   2   TER       0   0      86  D
+END
+RNA     602
+SEG       1  TER       0   0   RIB     414   1      42  D
+SEG       2  RIB     414   2   TER       0   0      42  D
+END
+RNA     603
+SEG       1  TER       0   0   RIB     415   1      76  D
+SEG       2  RIB     415   2   TER       0   0      76  D
+END
+RNA     604
+SEG       1  TER       0   0   RIB     416   1      54  D
+SEG       2  RIB     416   2   TER       0   0      54  D
+END
+RNA     605
+SEG       1  TER       0   0   RIB     417   1     107  D
+SEG       2  RIB     417   2   TER       0   0     107  D
+END
+RNA     606
+SEG       1  TER       0   0   RIB     418   1      28  D
+SEG       2  RIB     418   2   TER       0   0      28  D
+END
+RNA     607
+SEG       1  TER       0   0   RIB     419   1      27  D
+SEG       2  RIB     419   2   TER       0   0      27  D
+END
+RNA     608
+SEG       1  TER       0   0   RIB     420   1      30  D
+SEG       2  RIB     420   2   TER       0   0      30  D
+END
+RNA     609
+SEG       1  TER       0   0   RIB     421   1      30  D
+SEG       2  RIB     421   2   TER       0   0      30  D
+END
+RNA     610
+SEG       1  TER       0   0   RIB     422   1      59  D
+SEG       2  RIB     422   2   TER       0   0      59  D
+END
+RNA     611
+SEG       1  TER       0   0   RIB     423   1     128  D
+SEG       2  RIB     423   2   TER       0   0     128  D
+END
+RNA     612
+SEG       1  TER       0   0   RIB     424   1     103  D
+SEG       2  RIB     424   2   TER       0   0     103  D
+END
+RNA     613
+SEG       1  TER       0   0   RIB     425   1     141  D
+SEG       2  RIB     425   2   TER       0   0     141  D
+END
+RNA     614
+SEG       1  TER       0   0   RIB     426   1      36  D
+SEG       2  RIB     426   2   TER       0   0      36  D
+END
+RNA     615
+SEG       1  TER       0   0   RIB     427   1      14  D
+SEG       2  RIB     427   2   TER       0   0      14  D
+END
+RNA     616
+SEG       1  TER       0   0   RIB     428   1      36  D
+SEG       2  RIB     428   2   TER       0   0      36  D
+END
+RNA     617
+SEG       1  TER       0   0   RIB     429   1      95  D
+SEG       2  RIB     429   2   TER       0   0      95  D
+END
+RNA     618
+SEG       1  TER       0   0   RIB     430   1      80  D
+SEG       2  RIB     430   2   TER       0   0      80  D
+END
+RNA     619
+SEG       1  TER       0   0   RIB     431   1      76  D
+SEG       2  RIB     431   2   TER       0   0      76  D
+END
+RNA     620
+SEG       1  TER       0   0   RIB     432   1      31  D
+SEG       2  RIB     432   2   TER       0   0      31  D
+END
+RNA     621
+SEG       1  TER       0   0   RIB     433   1      31  D
+SEG       2  RIB     433   2   TER       0   0      31  D
+END
+RNA     622
+SEG       1  TER       0   0   RIB     434   1      34  D
+SEG       2  RIB     434   2   TER       0   0      34  D
+END
+RNA     623
+SEG       1  TER       0   0   RIB     435   1      47  D
+SEG       2  RIB     435   2   TER       0   0      47  D
+END
+RNA     624
+SEG       1  TER       0   0   RIB     436   1      85  D
+SEG       2  RIB     436   2   TER       0   0      85  D
+END
+RNA     625
+SEG       1  TER       0   0   RIB     437   1       9  D
+SEG       2  RIB     437   2   TER       0   0       9  D
+END
+RNA     626
+SEG       1  TER       0   0   RIB     438   1      41  D
+SEG       2  RIB     438   2   TER       0   0      41  D
+END
+RNA     627
+SEG       1  TER       0   0   RIB     439   1      51  D
+SEG       2  RIB     439   2   TER       0   0      51  D
+END
+RNA     628
+SEG       1  TER       0   0   RIB     440   1      25  D
+SEG       2  RIB     440   2   TER       0   0      25  D
+END
+RNA     629
+SEG       1  TER       0   0   RIB     441   1      47  D
+SEG       2  RIB     441   2   TER       0   0      47  D
+END
+RNA     630
+SEG       1  TER       0   0   RIB     442   1     148  D
+SEG       2  RIB     442   2   TER       0   0     148  D
+END
+RNA     631
+SEG       1  TER       0   0   RIB     443   1      16  D
+SEG       2  RIB     443   2   TER       0   0      16  D
+END
+RNA     632
+SEG       1  TER       0   0   RIB     444   1      13  D
+SEG       2  RIB     444   2   TER       0   0      13  D
+END
+RNA     633
+SEG       1  TER       0   0   RIB     445   1      85  D
+SEG       2  RIB     445   2   TER       0   0      85  D
+END
+RNA     634
+SEG       1  TER       0   0   RIB     446   1     146  D
+SEG       2  RIB     446   2   TER       0   0     146  D
+END
+RNA     635
+SEG       1  TER       0   0   RIB     447   1      28  D
+SEG       2  RIB     447   2   TER       0   0      28  D
+END
+RNA     636
+SEG       1  TER       0   0   RIB     448   1      33  D
+SEG       2  RIB     448   2   TER       0   0      33  D
+END
+RNA     637
+SEG       1  TER       0   0   RIB     449   1      36  D
+SEG       2  RIB     449   2   TER       0   0      36  D
+END
+RNA     638
+SEG       1  TER       0   0   RIB     450   1      56  D
+SEG       2  RIB     450   2   TER       0   0      56  D
+END
+RNA     639
+SEG       1  TER       0   0   RIB     451   1     207  D
+SEG       2  RIB     451   2   TER       0   0     207  D
+END
+RNA     640
+SEG       1  TER       0   0   RIB     452   1      62  D
+SEG       2  RIB     452   2   TER       0   0      62  D
+END
+RNA     641
+SEG       1  TER       0   0   RIB     453   1     108  D
+SEG       2  RIB     453   2   TER       0   0     108  D
+END
+RNA     642
+SEG       1  TER       0   0   RIB     454   1      66  D
+SEG       2  RIB     454   2   TER       0   0      66  D
+END
+RNA     643
+SEG       1  TER       0   0   RIB     455   1      32  D
+SEG       2  RIB     455   2   TER       0   0      32  D
+END
+RNA     644
+SEG       1  TER       0   0   RIB     456   1      32  D
+SEG       2  RIB     456   2   TER       0   0      32  D
+END
+RNA     645
+SEG       1  TER       0   0   RIB     457   1      36  D
+SEG       2  RIB     457   2   TER       0   0      36  D
+END
+RNA     646
+SEG       1  TER       0   0   RIB     458   1     120  D
+SEG       2  RIB     458   2   TER       0   0     120  D
+END
+RNA     647
+SEG       1  TER       0   0   RIB     459   1      19  D
+SEG       2  RIB     459   2   TER       0   0      19  D
+END
+RNA     648
+SEG       1  TER       0   0   RIB     460   1      38  D
+SEG       2  RIB     460   2   TER       0   0      38  D
+END
+RNA     649
+SEG       1  TER       0   0   RIB     461   1      38  D
+SEG       2  RIB     461   2   TER       0   0      38  D
+END
+RNA     650
+SEG       1  TER       0   0   RIB     462   1      19  D
+SEG       2  RIB     462   2   TER       0   0      19  D
+END
+RNA     651
+SEG       1  TER       0   0   RIB     463   1      72  D
+SEG       2  RIB     463   2   TER       0   0      72  D
+END
+RNA     652
+SEG       1  TER       0   0   RIB     464   1      86  D
+SEG       2  RIB     464   2   TER       0   0      86  D
+END
+RNA     653
+SEG       1  TER       0   0   RIB     465   1      71  D
+SEG       2  RIB     465   2   TER       0   0      71  D
+END
+RNA     654
+SEG       1  TER       0   0   RIB     466   1     155  D
+SEG       2  RIB     466   2   TER       0   0     155  D
+END
+RNA     655
+SEG       1  TER       0   0   RIB     467   1      42  D
+SEG       2  RIB     467   2   TER       0   0      42  D
+END
+RNA     656
+SEG       1  TER       0   0   RIB     468   1      30  D
+SEG       2  RIB     468   2   TER       0   0      30  D
+END
+RNA     657
+SEG       1  TER       0   0   RIB     469   1      30  D
+SEG       2  RIB     469   2   TER       0   0      30  D
+END
+RNA     658
+SEG       1  TER       0   0   RIB     470   1      17  D
+SEG       2  RIB     470   2   TER       0   0      17  D
+END
+RNA     659
+SEG       1  TER       0   0   RIB     471   1      45  D
+SEG       2  RIB     471   2   TER       0   0      45  D
+END
+RNA     660
+SEG       1  TER       0   0   RIB     472   1     155  D
+SEG       2  RIB     472   2   TER       0   0     155  D
+END
+RNA     661
+SEG       1  TER       0   0   RIB     473   1     207  D
+SEG       2  RIB     473   2   TER       0   0     207  D
+END
+RNA     662
+SEG       1  TER       0   0   RIB     474   1      70  D
+SEG       2  RIB     474   2   TER       0   0      70  D
+END
+RNA     663
+SEG       1  TER       0   0   RIB     475   1     103  D
+SEG       2  RIB     475   2   TER       0   0     103  D
+END
+RNA     664
+SEG       1  TER       0   0   RIB     476   1      73  D
+SEG       2  RIB     476   2   TER       0   0      73  D
+END
+RNA     665
+SEG       1  TER       0   0   RIB     477   1      93  D
+SEG       2  RIB     477   2   TER       0   0      93  D
+END
+RNA     666
+SEG       1  TER       0   0   RIB     478   1      76  D
+SEG       2  RIB     478   2   TER       0   0      76  D
+END
+RNA     667
+SEG       1  TER       0   0   RIB     479   1      59  D
+SEG       2  RIB     479   2   TER       0   0      59  D
+END
+RNA     668
+SEG       1  TER       0   0   RIB     480   1      53  D
+SEG       2  RIB     480   2   TER       0   0      53  D
+END
+RNA     669
+SEG       1  TER       0   0   RIB     481   1      34  D
+SEG       2  RIB     481   2   TER       0   0      34  D
+END
+RNA     670
+SEG       1  TER       0   0   RIB     482   1      47  D
+SEG       2  RIB     482   2   TER       0   0      47  D
+END
+RNA     671
+SEG       1  TER       0   0   RIB     483   1      13  D
+SEG       2  RIB     483   2   TER       0   0      13  D
+END
+RNA     672
+SEG       1  TER       0   0   RIB     484   1      71  D
+SEG       2  RIB     484   2   TER       0   0      71  D
+END
+RNA     673
+SEG       1  TER       0   0   RIB     485   1      53  D
+SEG       2  RIB     485   2   TER       0   0      53  D
+END
+RNA     674
+SEG       1  TER       0   0   RIB     486   1     103  D
+SEG       2  RIB     486   2   TER       0   0     103  D
+END
+RNA     675
+SEG       1  TER       0   0   RIB     487   1      62  D
+SEG       2  RIB     487   2   TER       0   0      62  D
+END
+RNA     676
+SEG       1  TER       0   0   RIB     488   1      35  D
+SEG       2  RIB     488   2   TER       0   0      35  D
+END
+RNA     677
+SEG       1  TER       0   0   RIB     489   1      88  D
+SEG       2  RIB     489   2   TER       0   0      88  D
+END
+RNA     678
+SEG       1  TER       0   0   RIB     490   1      29  D
+SEG       2  RIB     490   2   TER       0   0      29  D
+END
+RNA     679
+SEG       1  TER       0   0   RIB     491   1      13  D
+SEG       2  RIB     491   2   TER       0   0      13  D
+END
+RNA     680
+SEG       1  TER       0   0   RIB     492   1     134  D
+SEG       2  RIB     492   2   TER       0   0     134  D
+END
+RNA     681
+SEG       1  TER       0   0   RIB     493   1       9  D
+SEG       2  RIB     493   2   TER       0   0       9  D
+END
+RNA     682
+SEG       1  TER       0   0   RIB     494   1      87  D
+SEG       2  RIB     494   2   TER       0   0      87  D
+END
+RNA     683
+SEG       1  TER       0   0   RIB     495   1      94  D
+SEG       2  RIB     495   2   TER       0   0      94  D
+END
+RNA     684
+SEG       1  TER       0   0   RIB     496   1      68  D
+SEG       2  RIB     496   2   TER       0   0      68  D
+END
+RNA     685
+SEG       1  TER       0   0   RIB     497   1      30  D
+SEG       2  RIB     497   2   TER       0   0      30  D
+END
+RNA     686
+SEG       1  TER       0   0   RIB     498   1      62  D
+SEG       2  RIB     498   2   TER       0   0      62  D
+END
+RNA     687
+SEG       1  TER       0   0   RIB     499   1      56  D
+SEG       2  RIB     499   2   TER       0   0      56  D
+END
+RNA     688
+SEG       1  TER       0   0   RIB     500   1      32  D
+SEG       2  RIB     500   2   TER       0   0      32  D
+END
+RNA     689
+SEG       1  TER       0   0   RIB     501   1      68  D
+SEG       2  RIB     501   2   TER       0   0      68  D
+END
+RNA     690
+SEG       1  TER       0   0   RIB     502   1      86  D
+SEG       2  RIB     502   2   TER       0   0      86  D
+END
+RNA     691
+SEG       1  TER       0   0   RIB     503   1      65  D
+SEG       2  RIB     503   2   TER       0   0      65  D
+END
+PRO     692
+SEG       1  TER       0   0   RIB       1   3       9  E
+SEG       2  RIB       1   3   TER       0   0       0  E
+END
+PRO     693
+SEG       1  TER       0   0   RIB       2   3      17  E
+SEG       2  RIB       2   3   TER       0   0       0  E
+END
+PRO     694
+SEG       1  TER       0   0   RIB       3   3      26  E
+SEG       2  RIB       3   3   TER       0   0       0  E
+END
+PRO     695
+SEG       1  TER       0   0   RIB       4   3      22  E
+SEG       2  RIB       4   3   TER       0   0       0  E
+END
+PRO     696
+SEG       1  TER       0   0   RIB       5   3      10  E
+SEG       2  RIB       5   3   TER       0   0       0  E
+END
+PRO     697
+SEG       1  TER       0   0   RIB       6   3      17  E
+SEG       2  RIB       6   3   TER       0   0       0  E
+END
+PRO     698
+SEG       1  TER       0   0   RIB       7   3      34  E
+SEG       2  RIB       7   3   TER       0   0       0  E
+END
+PRO     699
+SEG       1  TER       0   0   RIB       8   3      10  E
+SEG       2  RIB       8   3   TER       0   0       0  E
+END
+PRO     700
+SEG       1  TER       0   0   RIB       9   3      10  E
+SEG       2  RIB       9   3   TER       0   0       0  E
+END
+PRO     701
+SEG       1  TER       0   0   RIB      10   3      10  E
+SEG       2  RIB      10   3   TER       0   0       0  E
+END
+PRO     702
+SEG       1  TER       0   0   RIB      11   3      20  E
+SEG       2  RIB      11   3   TER       0   0       0  E
+END
+PRO     703
+SEG       1  TER       0   0   RIB      12   3      22  E
+SEG       2  RIB      12   3   TER       0   0       0  E
+END
+PRO     704
+SEG       1  TER       0   0   RIB      13   3      14  E
+SEG       2  RIB      13   3   TER       0   0       0  E
+END
+PRO     705
+SEG       1  TER       0   0   RIB      14   3      29  E
+SEG       2  RIB      14   3   TER       0   0       0  E
+END
+PRO     706
+SEG       1  TER       0   0   RIB      15   3      14  E
+SEG       2  RIB      15   3   TER       0   0       0  E
+END
+PRO     707
+SEG       1  TER       0   0   RIB      16   3      18  E
+SEG       2  RIB      16   3   TER       0   0       0  E
+END
+PRO     708
+SEG       1  TER       0   0   RIB      17   3      16  E
+SEG       2  RIB      17   3   TER       0   0       0  E
+END
+PRO     709
+SEG       1  TER       0   0   RIB      18   3      14  E
+SEG       2  RIB      18   3   TER       0   0       0  E
+END
+PRO     710
+SEG       1  TER       0   0   RIB      19   3      69  E
+SEG       2  RIB      19   3   TER       0   0       0  E
+END
+PRO     711
+SEG       1  TER       0   0   RIB      20   3      45  E
+SEG       2  RIB      20   3   TER       0   0       0  E
+END
+PRO     712
+SEG       1  TER       0   0   RIB      21   3       3  E
+SEG       2  RIB      21   3   TER       0   0       0  E
+END
+PRO     713
+SEG       1  TER       0   0   RIB      22   3       8  E
+SEG       2  RIB      22   3   TER       0   0       0  E
+END
+PRO     714
+SEG       1  TER       0   0   RIB      23   3      35  E
+SEG       2  RIB      23   3   TER       0   0       0  E
+END
+PRO     715
+SEG       1  TER       0   0   RIB      24   3      12  E
+SEG       2  RIB      24   3   TER       0   0       0  E
+END
+PRO     716
+SEG       1  TER       0   0   RIB      25   3      10  E
+SEG       2  RIB      25   3   TER       0   0       0  E
+END
+PRO     717
+SEG       1  TER       0   0   RIB      26   3      45  E
+SEG       2  RIB      26   3   TER       0   0       0  E
+END
+PRO     718
+SEG       1  TER       0   0   RIB      27   3      21  E
+SEG       2  RIB      27   3   TER       0   0       0  E
+END
+PRO     719
+SEG       1  TER       0   0   RIB      28   3       4  E
+SEG       2  RIB      28   3   TER       0   0       0  E
+END
+PRO     720
+SEG       1  TER       0   0   RIB      29   3      11  E
+SEG       2  RIB      29   3   TER       0   0       0  E
+END
+PRO     721
+SEG       1  TER       0   0   RIB      30   3      22  E
+SEG       2  RIB      30   3   TER       0   0       0  E
+END
+PRO     722
+SEG       1  TER       0   0   RIB      31   3      28  E
+SEG       2  RIB      31   3   TER       0   0       0  E
+END
+PRO     723
+SEG       1  TER       0   0   RIB      32   3      62  E
+SEG       2  RIB      32   3   TER       0   0       0  E
+END
+PRO     724
+SEG       1  TER       0   0   RIB      33   3      31  E
+SEG       2  RIB      33   3   TER       0   0       0  E
+END
+PRO     725
+SEG       1  TER       0   0   RIB      34   3      17  E
+SEG       2  RIB      34   3   TER       0   0       0  E
+END
+PRO     726
+SEG       1  TER       0   0   RIB      35   3       3  E
+SEG       2  RIB      35   3   TER       0   0       0  E
+END
+PRO     727
+SEG       1  TER       0   0   RIB      36   3      14  E
+SEG       2  RIB      36   3   TER       0   0       0  E
+END
+PRO     728
+SEG       1  TER       0   0   RIB      37   3       3  E
+SEG       2  RIB      37   3   TER       0   0       0  E
+END
+PRO     729
+SEG       1  TER       0   0   RIB      38   3      15  E
+SEG       2  RIB      38   3   TER       0   0       0  E
+END
+PRO     730
+SEG       1  TER       0   0   RIB      39   3      62  E
+SEG       2  RIB      39   3   TER       0   0       0  E
+END
+PRO     731
+SEG       1  TER       0   0   RIB      40   3      39  E
+SEG       2  RIB      40   3   TER       0   0       0  E
+END
+PRO     732
+SEG       1  TER       0   0   RIB      41   3      17  E
+SEG       2  RIB      41   3   TER       0   0       0  E
+END
+PRO     733
+SEG       1  TER       0   0   RIB      42   3       5  E
+SEG       2  RIB      42   3   TER       0   0       0  E
+END
+PRO     734
+SEG       1  TER       0   0   RIB      43   3      27  E
+SEG       2  RIB      43   3   TER       0   0       0  E
+END
+PRO     735
+SEG       1  TER       0   0   RIB      44   3       7  E
+SEG       2  RIB      44   3   TER       0   0       0  E
+END
+PRO     736
+SEG       1  TER       0   0   RIB      45   3      21  E
+SEG       2  RIB      45   3   TER       0   0       0  E
+END
+PRO     737
+SEG       1  TER       0   0   RIB      46   3      31  E
+SEG       2  RIB      46   3   TER       0   0       0  E
+END
+PRO     738
+SEG       1  TER       0   0   RIB      47   3      21  E
+SEG       2  RIB      47   3   TER       0   0       0  E
+END
+PRO     739
+SEG       1  TER       0   0   RIB      48   3      16  E
+SEG       2  RIB      48   3   TER       0   0       0  E
+END
+PRO     740
+SEG       1  TER       0   0   RIB      49   3      26  E
+SEG       2  RIB      49   3   TER       0   0       0  E
+END
+PRO     741
+SEG       1  TER       0   0   RIB      50   3      22  E
+SEG       2  RIB      50   3   TER       0   0       0  E
+END
+PRO     742
+SEG       1  TER       0   0   RIB      51   3      37  E
+SEG       2  RIB      51   3   TER       0   0       0  E
+END
+PRO     743
+SEG       1  TER       0   0   RIB      52   3      22  E
+SEG       2  RIB      52   3   TER       0   0       0  E
+END
+PRO     744
+SEG       1  TER       0   0   RIB      53   3      31  E
+SEG       2  RIB      53   3   TER       0   0       0  E
+END
+PRO     745
+SEG       1  TER       0   0   RIB      54   3      24  E
+SEG       2  RIB      54   3   TER       0   0       0  E
+END
+PRO     746
+SEG       1  TER       0   0   RIB      55   3      13  E
+SEG       2  RIB      55   3   TER       0   0       0  E
+END
+PRO     747
+SEG       1  TER       0   0   RIB      56   3      22  E
+SEG       2  RIB      56   3   TER       0   0       0  E
+END
+PRO     748
+SEG       1  TER       0   0   RIB      57   3      29  E
+SEG       2  RIB      57   3   TER       0   0       0  E
+END
+PRO     749
+SEG       1  TER       0   0   RIB      58   3      45  E
+SEG       2  RIB      58   3   TER       0   0       0  E
+END
+PRO     750
+SEG       1  TER       0   0   RIB      59   3      31  E
+SEG       2  RIB      59   3   TER       0   0       0  E
+END
+PRO     751
+SEG       1  TER       0   0   RIB      60   3      14  E
+SEG       2  RIB      60   3   TER       0   0       0  E
+END
+PRO     752
+SEG       1  TER       0   0   RIB      61   3      11  E
+SEG       2  RIB      61   3   TER       0   0       0  E
+END
+PRO     753
+SEG       1  TER       0   0   RIB      62   3      16  E
+SEG       2  RIB      62   3   TER       0   0       0  E
+END
+PRO     754
+SEG       1  TER       0   0   RIB      63   3      14  E
+SEG       2  RIB      63   3   TER       0   0       0  E
+END
+PRO     755
+SEG       1  TER       0   0   RIB      64   3      35  E
+SEG       2  RIB      64   3   TER       0   0       0  E
+END
+PRO     756
+SEG       1  TER       0   0   RIB      65   3      12  E
+SEG       2  RIB      65   3   TER       0   0       0  E
+END
+PRO     757
+SEG       1  TER       0   0   RIB      66   3      24  E
+SEG       2  RIB      66   3   TER       0   0       0  E
+END
+PRO     758
+SEG       1  TER       0   0   RIB      67   3      64  E
+SEG       2  RIB      67   3   TER       0   0       0  E
+END
+PRO     759
+SEG       1  TER       0   0   RIB      68   3      20  E
+SEG       2  RIB      68   3   TER       0   0       0  E
+END
+PRO     760
+SEG       1  TER       0   0   RIB      69   3      10  E
+SEG       2  RIB      69   3   TER       0   0       0  E
+END
+PRO     761
+SEG       1  TER       0   0   RIB      70   3      25  E
+SEG       2  RIB      70   3   TER       0   0       0  E
+END
+PRO     762
+SEG       1  TER       0   0   RIB      71   3      22  E
+SEG       2  RIB      71   3   TER       0   0       0  E
+END
+PRO     763
+SEG       1  TER       0   0   RIB      72   3      27  E
+SEG       2  RIB      72   3   TER       0   0       0  E
+END
+PRO     764
+SEG       1  TER       0   0   RIB      73   3      31  E
+SEG       2  RIB      73   3   TER       0   0       0  E
+END
+PRO     765
+SEG       1  TER       0   0   RIB      74   3      26  E
+SEG       2  RIB      74   3   TER       0   0       0  E
+END
+PRO     766
+SEG       1  TER       0   0   RIB      75   3       5  E
+SEG       2  RIB      75   3   TER       0   0       0  E
+END
+PRO     767
+SEG       1  TER       0   0   RIB      76   3      35  E
+SEG       2  RIB      76   3   TER       0   0       0  E
+END
+PRO     768
+SEG       1  TER       0   0   RIB      77   3       5  E
+SEG       2  RIB      77   3   TER       0   0       0  E
+END
+PRO     769
+SEG       1  TER       0   0   RIB      78   3      16  E
+SEG       2  RIB      78   3   TER       0   0       0  E
+END
+PRO     770
+SEG       1  TER       0   0   RIB      79   3      26  E
+SEG       2  RIB      79   3   TER       0   0       0  E
+END
+PRO     771
+SEG       1  TER       0   0   RIB      80   3      22  E
+SEG       2  RIB      80   3   TER       0   0       0  E
+END
+PRO     772
+SEG       1  TER       0   0   RIB      81   3      51  E
+SEG       2  RIB      81   3   TER       0   0       0  E
+END
+PRO     773
+SEG       1  TER       0   0   RIB      82   3      12  E
+SEG       2  RIB      82   3   TER       0   0       0  E
+END
+PRO     774
+SEG       1  TER       0   0   RIB      83   3      23  E
+SEG       2  RIB      83   3   TER       0   0       0  E
+END
+PRO     775
+SEG       1  TER       0   0   RIB      84   3       6  E
+SEG       2  RIB      84   3   TER       0   0       0  E
+END
+PRO     776
+SEG       1  TER       0   0   RIB      85   3      29  E
+SEG       2  RIB      85   3   TER       0   0       0  E
+END
+PRO     777
+SEG       1  TER       0   0   RIB      86   3      19  E
+SEG       2  RIB      86   3   TER       0   0       0  E
+END
+PRO     778
+SEG       1  TER       0   0   RIB      87   3       8  E
+SEG       2  RIB      87   3   TER       0   0       0  E
+END
+PRO     779
+SEG       1  TER       0   0   RIB      88   3       6  E
+SEG       2  RIB      88   3   TER       0   0       0  E
+END
+PRO     780
+SEG       1  TER       0   0   RIB      89   3      43  E
+SEG       2  RIB      89   3   TER       0   0       0  E
+END
+PRO     781
+SEG       1  TER       0   0   RIB      90   3      19  E
+SEG       2  RIB      90   3   TER       0   0       0  E
+END
+PRO     782
+SEG       1  TER       0   0   RIB      91   3       9  E
+SEG       2  RIB      91   3   TER       0   0       0  E
+END
+PRO     783
+SEG       1  TER       0   0   RIB      92   3      20  E
+SEG       2  RIB      92   3   TER       0   0       0  E
+END
+PRO     784
+SEG       1  TER       0   0   RIB      93   3       6  E
+SEG       2  RIB      93   3   TER       0   0       0  E
+END
+PRO     785
+SEG       1  TER       0   0   RIB      94   3      10  E
+SEG       2  RIB      94   3   TER       0   0       0  E
+END
+PRO     786
+SEG       1  TER       0   0   RIB      95   3      19  E
+SEG       2  RIB      95   3   TER       0   0       0  E
+END
+PRO     787
+SEG       1  TER       0   0   RIB      96   3      31  E
+SEG       2  RIB      96   3   TER       0   0       0  E
+END
+PRO     788
+SEG       1  TER       0   0   RIB      97   3      39  E
+SEG       2  RIB      97   3   TER       0   0       0  E
+END
+PRO     789
+SEG       1  TER       0   0   RIB      98   3       3  E
+SEG       2  RIB      98   3   TER       0   0       0  E
+END
+PRO     790
+SEG       1  TER       0   0   RIB      99   3      10  E
+SEG       2  RIB      99   3   TER       0   0       0  E
+END
+PRO     791
+SEG       1  TER       0   0   RIB     100   3      36  E
+SEG       2  RIB     100   3   TER       0   0       0  E
+END
+PRO     792
+SEG       1  TER       0   0   RIB     101   3      16  E
+SEG       2  RIB     101   3   TER       0   0       0  E
+END
+PRO     793
+SEG       1  TER       0   0   RIB     102   3      11  E
+SEG       2  RIB     102   3   TER       0   0       0  E
+END
+PRO     794
+SEG       1  TER       0   0   RIB     103   3      28  E
+SEG       2  RIB     103   3   TER       0   0       0  E
+END
+PRO     795
+SEG       1  TER       0   0   RIB     104   3      19  E
+SEG       2  RIB     104   3   TER       0   0       0  E
+END
+PRO     796
+SEG       1  TER       0   0   RIB     105   3      23  E
+SEG       2  RIB     105   3   TER       0   0       0  E
+END
+PRO     797
+SEG       1  TER       0   0   RIB     106   3       5  E
+SEG       2  RIB     106   3   TER       0   0       0  E
+END
+PRO     798
+SEG       1  TER       0   0   RIB     107   3      22  E
+SEG       2  RIB     107   3   TER       0   0       0  E
+END
+PRO     799
+SEG       1  TER       0   0   RIB     108   3       5  E
+SEG       2  RIB     108   3   TER       0   0       0  E
+END
+PRO     800
+SEG       1  TER       0   0   RIB     109   3      24  E
+SEG       2  RIB     109   3   TER       0   0       0  E
+END
+PRO     801
+SEG       1  TER       0   0   RIB     110   3      34  E
+SEG       2  RIB     110   3   TER       0   0       0  E
+END
+PRO     802
+SEG       1  TER       0   0   RIB     111   3      12  E
+SEG       2  RIB     111   3   TER       0   0       0  E
+END
+PRO     803
+SEG       1  TER       0   0   RIB     112   3      12  E
+SEG       2  RIB     112   3   TER       0   0       0  E
+END
+PRO     804
+SEG       1  TER       0   0   RIB     113   3      14  E
+SEG       2  RIB     113   3   TER       0   0       0  E
+END
+PRO     805
+SEG       1  TER       0   0   RIB     114   3      39  E
+SEG       2  RIB     114   3   TER       0   0       0  E
+END
+PRO     806
+SEG       1  TER       0   0   RIB     115   3       3  E
+SEG       2  RIB     115   3   TER       0   0       0  E
+END
+PRO     807
+SEG       1  TER       0   0   RIB     116   3      24  E
+SEG       2  RIB     116   3   TER       0   0       0  E
+END
+PRO     808
+SEG       1  TER       0   0   RIB     117   3      22  E
+SEG       2  RIB     117   3   TER       0   0       0  E
+END
+PRO     809
+SEG       1  TER       0   0   RIB     118   3      28  E
+SEG       2  RIB     118   3   TER       0   0       0  E
+END
+PRO     810
+SEG       1  TER       0   0   RIB     119   3      27  E
+SEG       2  RIB     119   3   TER       0   0       0  E
+END
+PRO     811
+SEG       1  TER       0   0   RIB     120   3      36  E
+SEG       2  RIB     120   3   TER       0   0       0  E
+END
+PRO     812
+SEG       1  TER       0   0   RIB     121   3      16  E
+SEG       2  RIB     121   3   TER       0   0       0  E
+END
+PRO     813
+SEG       1  TER       0   0   RIB     122   3      22  E
+SEG       2  RIB     122   3   TER       0   0       0  E
+END
+PRO     814
+SEG       1  TER       0   0   RIB     123   3      11  E
+SEG       2  RIB     123   3   TER       0   0       0  E
+END
+PRO     815
+SEG       1  TER       0   0   RIB     124   3       9  E
+SEG       2  RIB     124   3   TER       0   0       0  E
+END
+PRO     816
+SEG       1  TER       0   0   RIB     125   3      10  E
+SEG       2  RIB     125   3   TER       0   0       0  E
+END
+PRO     817
+SEG       1  TER       0   0   RIB     126   3      24  E
+SEG       2  RIB     126   3   TER       0   0       0  E
+END
+PRO     818
+SEG       1  TER       0   0   RIB     127   3      11  E
+SEG       2  RIB     127   3   TER       0   0       0  E
+END
+PRO     819
+SEG       1  TER       0   0   RIB     128   3       9  E
+SEG       2  RIB     128   3   TER       0   0       0  E
+END
+PRO     820
+SEG       1  TER       0   0   RIB     129   3      45  E
+SEG       2  RIB     129   3   TER       0   0       0  E
+END
+PRO     821
+SEG       1  TER       0   0   RIB     130   3      17  E
+SEG       2  RIB     130   3   TER       0   0       0  E
+END
+PRO     822
+SEG       1  TER       0   0   RIB     131   3       6  E
+SEG       2  RIB     131   3   TER       0   0       0  E
+END
+PRO     823
+SEG       1  TER       0   0   RIB     132   3       5  E
+SEG       2  RIB     132   3   TER       0   0       0  E
+END
+PRO     824
+SEG       1  TER       0   0   RIB     133   3      14  E
+SEG       2  RIB     133   3   TER       0   0       0  E
+END
+PRO     825
+SEG       1  TER       0   0   RIB     134   3       4  E
+SEG       2  RIB     134   3   TER       0   0       0  E
+END
+PRO     826
+SEG       1  TER       0   0   RIB     135   3       3  E
+SEG       2  RIB     135   3   TER       0   0       0  E
+END
+PRO     827
+SEG       1  TER       0   0   RIB     136   3      42  E
+SEG       2  RIB     136   3   TER       0   0       0  E
+END
+PRO     828
+SEG       1  TER       0   0   RIB     137   3       4  E
+SEG       2  RIB     137   3   TER       0   0       0  E
+END
+PRO     829
+SEG       1  TER       0   0   RIB     138   3      14  E
+SEG       2  RIB     138   3   TER       0   0       0  E
+END
+PRO     830
+SEG       1  TER       0   0   RIB     139   3      62  E
+SEG       2  RIB     139   3   TER       0   0       0  E
+END
+PRO     831
+SEG       1  TER       0   0   RIB     140   3      14  E
+SEG       2  RIB     140   3   TER       0   0       0  E
+END
+PRO     832
+SEG       1  TER       0   0   RIB     141   3      29  E
+SEG       2  RIB     141   3   TER       0   0       0  E
+END
+PRO     833
+SEG       1  TER       0   0   RIB     142   3       9  E
+SEG       2  RIB     142   3   TER       0   0       0  E
+END
+PRO     834
+SEG       1  TER       0   0   RIB     143   3      22  E
+SEG       2  RIB     143   3   TER       0   0       0  E
+END
+PRO     835
+SEG       1  TER       0   0   RIB     144   3       5  E
+SEG       2  RIB     144   3   TER       0   0       0  E
+END
+PRO     836
+SEG       1  TER       0   0   RIB     145   3      42  E
+SEG       2  RIB     145   3   TER       0   0       0  E
+END
+PRO     837
+SEG       1  TER       0   0   RIB     146   3      11  E
+SEG       2  RIB     146   3   TER       0   0       0  E
+END
+PRO     838
+SEG       1  TER       0   0   RIB     147   3      24  E
+SEG       2  RIB     147   3   TER       0   0       0  E
+END
+PRO     839
+SEG       1  TER       0   0   RIB     148   3      22  E
+SEG       2  RIB     148   3   TER       0   0       0  E
+END
+PRO     840
+SEG       1  TER       0   0   RIB     149   3       5  E
+SEG       2  RIB     149   3   TER       0   0       0  E
+END
+PRO     841
+SEG       1  TER       0   0   RIB     150   3      27  E
+SEG       2  RIB     150   3   TER       0   0       0  E
+END
+PRO     842
+SEG       1  TER       0   0   RIB     151   3       9  E
+SEG       2  RIB     151   3   TER       0   0       0  E
+END
+PRO     843
+SEG       1  TER       0   0   RIB     152   3      14  E
+SEG       2  RIB     152   3   TER       0   0       0  E
+END
+PRO     844
+SEG       1  TER       0   0   RIB     153   3      29  E
+SEG       2  RIB     153   3   TER       0   0       0  E
+END
+PRO     845
+SEG       1  TER       0   0   RIB     154   3       9  E
+SEG       2  RIB     154   3   TER       0   0       0  E
+END
+PRO     846
+SEG       1  TER       0   0   RIB     155   3      12  E
+SEG       2  RIB     155   3   TER       0   0       0  E
+END
+PRO     847
+SEG       1  TER       0   0   RIB     156   3       8  E
+SEG       2  RIB     156   3   TER       0   0       0  E
+END
+PRO     848
+SEG       1  TER       0   0   RIB     157   3      15  E
+SEG       2  RIB     157   3   TER       0   0       0  E
+END
+PRO     849
+SEG       1  TER       0   0   RIB     158   3      23  E
+SEG       2  RIB     158   3   TER       0   0       0  E
+END
+PRO     850
+SEG       1  TER       0   0   RIB     159   3      36  E
+SEG       2  RIB     159   3   TER       0   0       0  E
+END
+PRO     851
+SEG       1  TER       0   0   RIB     160   3      13  E
+SEG       2  RIB     160   3   TER       0   0       0  E
+END
+PRO     852
+SEG       1  TER       0   0   RIB     161   3      13  E
+SEG       2  RIB     161   3   TER       0   0       0  E
+END
+PRO     853
+SEG       1  TER       0   0   RIB     162   3      10  E
+SEG       2  RIB     162   3   TER       0   0       0  E
+END
+PRO     854
+SEG       1  TER       0   0   RIB     163   3      39  E
+SEG       2  RIB     163   3   TER       0   0       0  E
+END
+PRO     855
+SEG       1  TER       0   0   RIB     164   3       8  E
+SEG       2  RIB     164   3   TER       0   0       0  E
+END
+PRO     856
+SEG       1  TER       0   0   RIB     165   3       8  E
+SEG       2  RIB     165   3   TER       0   0       0  E
+END
+PRO     857
+SEG       1  TER       0   0   RIB     166   3      11  E
+SEG       2  RIB     166   3   TER       0   0       0  E
+END
+PRO     858
+SEG       1  TER       0   0   RIB     167   3      15  E
+SEG       2  RIB     167   3   TER       0   0       0  E
+END
+PRO     859
+SEG       1  TER       0   0   RIB     168   3      14  E
+SEG       2  RIB     168   3   TER       0   0       0  E
+END
+PRO     860
+SEG       1  TER       0   0   RIB     169   3       4  E
+SEG       2  RIB     169   3   TER       0   0       0  E
+END
+PRO     861
+SEG       1  TER       0   0   RIB     170   3       6  E
+SEG       2  RIB     170   3   TER       0   0       0  E
+END
+PRO     862
+SEG       1  TER       0   0   RIB     171   3      23  E
+SEG       2  RIB     171   3   TER       0   0       0  E
+END
+PRO     863
+SEG       1  TER       0   0   RIB     172   3      31  E
+SEG       2  RIB     172   3   TER       0   0       0  E
+END
+PRO     864
+SEG       1  TER       0   0   RIB     173   3      27  E
+SEG       2  RIB     173   3   TER       0   0       0  E
+END
+PRO     865
+SEG       1  TER       0   0   RIB     174   3      35  E
+SEG       2  RIB     174   3   TER       0   0       0  E
+END
+PRO     866
+SEG       1  TER       0   0   RIB     175   3      30  E
+SEG       2  RIB     175   3   TER       0   0       0  E
+END
+PRO     867
+SEG       1  TER       0   0   RIB     176   3      26  E
+SEG       2  RIB     176   3   TER       0   0       0  E
+END
+PRO     868
+SEG       1  TER       0   0   RIB     177   3      12  E
+SEG       2  RIB     177   3   TER       0   0       0  E
+END
+PRO     869
+SEG       1  TER       0   0   RIB     178   3      14  E
+SEG       2  RIB     178   3   TER       0   0       0  E
+END
+PRO     870
+SEG       1  TER       0   0   RIB     179   3      16  E
+SEG       2  RIB     179   3   TER       0   0       0  E
+END
+PRO     871
+SEG       1  TER       0   0   RIB     180   3      26  E
+SEG       2  RIB     180   3   TER       0   0       0  E
+END
+PRO     872
+SEG       1  TER       0   0   RIB     181   3       5  E
+SEG       2  RIB     181   3   TER       0   0       0  E
+END
+PRO     873
+SEG       1  TER       0   0   RIB     182   3       5  E
+SEG       2  RIB     182   3   TER       0   0       0  E
+END
+PRO     874
+SEG       1  TER       0   0   RIB     183   3       5  E
+SEG       2  RIB     183   3   TER       0   0       0  E
+END
+PRO     875
+SEG       1  TER       0   0   RIB     184   3      69  E
+SEG       2  RIB     184   3   TER       0   0       0  E
+END
+PRO     876
+SEG       1  TER       0   0   RIB     185   3      12  E
+SEG       2  RIB     185   3   TER       0   0       0  E
+END
+PRO     877
+SEG       1  TER       0   0   RIB     186   3      16  E
+SEG       2  RIB     186   3   TER       0   0       0  E
+END
+PRO     878
+SEG       1  TER       0   0   RIB     187   3      17  E
+SEG       2  RIB     187   3   TER       0   0       0  E
+END
+PRO     879
+SEG       1  TER       0   0   RIB     188   3      13  E
+SEG       2  RIB     188   3   TER       0   0       0  E
+END
+PRO     880
+SEG       1  TER       0   0   RIB     189   3      35  E
+SEG       2  RIB     189   3   TER       0   0       0  E
+END
+PRO     881
+SEG       1  TER       0   0   RIB     190   3      15  E
+SEG       2  RIB     190   3   TER       0   0       0  E
+END
+PRO     882
+SEG       1  TER       0   0   RIB     191   3      24  E
+SEG       2  RIB     191   3   TER       0   0       0  E
+END
+PRO     883
+SEG       1  TER       0   0   RIB     192   3      12  E
+SEG       2  RIB     192   3   TER       0   0       0  E
+END
+PRO     884
+SEG       1  TER       0   0   RIB     193   3       9  E
+SEG       2  RIB     193   3   TER       0   0       0  E
+END
+PRO     885
+SEG       1  TER       0   0   RIB     194   3      32  E
+SEG       2  RIB     194   3   TER       0   0       0  E
+END
+PRO     886
+SEG       1  TER       0   0   RIB     195   3      21  E
+SEG       2  RIB     195   3   TER       0   0       0  E
+END
+PRO     887
+SEG       1  TER       0   0   RIB     196   3      27  E
+SEG       2  RIB     196   3   TER       0   0       0  E
+END
+PRO     888
+SEG       1  TER       0   0   RIB     197   3      15  E
+SEG       2  RIB     197   3   TER       0   0       0  E
+END
+PRO     889
+SEG       1  TER       0   0   RIB     198   3      24  E
+SEG       2  RIB     198   3   TER       0   0       0  E
+END
+PRO     890
+SEG       1  TER       0   0   RIB     199   3      25  E
+SEG       2  RIB     199   3   TER       0   0       0  E
+END
+PRO     891
+SEG       1  TER       0   0   RIB     200   3       4  E
+SEG       2  RIB     200   3   TER       0   0       0  E
+END
+PRO     892
+SEG       1  TER       0   0   RIB     201   3      14  E
+SEG       2  RIB     201   3   TER       0   0       0  E
+END
+PRO     893
+SEG       1  TER       0   0   RIB     202   3      10  E
+SEG       2  RIB     202   3   TER       0   0       0  E
+END
+PRO     894
+SEG       1  TER       0   0   RIB     203   3      11  E
+SEG       2  RIB     203   3   TER       0   0       0  E
+END
+PRO     895
+SEG       1  TER       0   0   RIB     204   3      12  E
+SEG       2  RIB     204   3   TER       0   0       0  E
+END
+PRO     896
+SEG       1  TER       0   0   RIB     205   3      25  E
+SEG       2  RIB     205   3   TER       0   0       0  E
+END
+PRO     897
+SEG       1  TER       0   0   RIB     206   3      47  E
+SEG       2  RIB     206   3   TER       0   0       0  E
+END
+PRO     898
+SEG       1  TER       0   0   RIB     207   3      32  E
+SEG       2  RIB     207   3   TER       0   0       0  E
+END
+PRO     899
+SEG       1  TER       0   0   RIB     208   3      14  E
+SEG       2  RIB     208   3   TER       0   0       0  E
+END
+PRO     900
+SEG       1  TER       0   0   RIB     209   3      20  E
+SEG       2  RIB     209   3   TER       0   0       0  E
+END
+PRO     901
+SEG       1  TER       0   0   RIB     210   3      10  E
+SEG       2  RIB     210   3   TER       0   0       0  E
+END
+PRO     902
+SEG       1  TER       0   0   RIB     211   3      23  E
+SEG       2  RIB     211   3   TER       0   0       0  E
+END
+PRO     903
+SEG       1  TER       0   0   RIB     212   3       6  E
+SEG       2  RIB     212   3   TER       0   0       0  E
+END
+PRO     904
+SEG       1  TER       0   0   RIB     213   3      39  E
+SEG       2  RIB     213   3   TER       0   0       0  E
+END
+PRO     905
+SEG       1  TER       0   0   RIB     214   3       9  E
+SEG       2  RIB     214   3   TER       0   0       0  E
+END
+PRO     906
+SEG       1  TER       0   0   RIB     215   3      25  E
+SEG       2  RIB     215   3   TER       0   0       0  E
+END
+PRO     907
+SEG       1  TER       0   0   RIB     216   3      18  E
+SEG       2  RIB     216   3   TER       0   0       0  E
+END
+PRO     908
+SEG       1  TER       0   0   RIB     217   3      25  E
+SEG       2  RIB     217   3   TER       0   0       0  E
+END
+PRO     909
+SEG       1  TER       0   0   RIB     218   3      31  E
+SEG       2  RIB     218   3   TER       0   0       0  E
+END
+PRO     910
+SEG       1  TER       0   0   RIB     219   3      26  E
+SEG       2  RIB     219   3   TER       0   0       0  E
+END
+PRO     911
+SEG       1  TER       0   0   RIB     220   3      31  E
+SEG       2  RIB     220   3   TER       0   0       0  E
+END
+PRO     912
+SEG       1  TER       0   0   RIB     221   3      11  E
+SEG       2  RIB     221   3   TER       0   0       0  E
+END
+PRO     913
+SEG       1  TER       0   0   RIB     222   3      37  E
+SEG       2  RIB     222   3   TER       0   0       0  E
+END
+PRO     914
+SEG       1  TER       0   0   RIB     223   3      36  E
+SEG       2  RIB     223   3   TER       0   0       0  E
+END
+PRO     915
+SEG       1  TER       0   0   RIB     224   3       4  E
+SEG       2  RIB     224   3   TER       0   0       0  E
+END
+PRO     916
+SEG       1  TER       0   0   RIB     225   3      10  E
+SEG       2  RIB     225   3   TER       0   0       0  E
+END
+PRO     917
+SEG       1  TER       0   0   RIB     226   3      14  E
+SEG       2  RIB     226   3   TER       0   0       0  E
+END
+PRO     918
+SEG       1  TER       0   0   RIB     227   3      10  E
+SEG       2  RIB     227   3   TER       0   0       0  E
+END
+PRO     919
+SEG       1  TER       0   0   RIB     228   3      16  E
+SEG       2  RIB     228   3   TER       0   0       0  E
+END
+PRO     920
+SEG       1  TER       0   0   RIB     229   3      26  E
+SEG       2  RIB     229   3   TER       0   0       0  E
+END
+PRO     921
+SEG       1  TER       0   0   RIB     230   3      11  E
+SEG       2  RIB     230   3   TER       0   0       0  E
+END
+PRO     922
+SEG       1  TER       0   0   RIB     231   3      10  E
+SEG       2  RIB     231   3   TER       0   0       0  E
+END
+PRO     923
+SEG       1  TER       0   0   RIB     232   3      10  E
+SEG       2  RIB     232   3   TER       0   0       0  E
+END
+PRO     924
+SEG       1  TER       0   0   RIB     233   3       4  E
+SEG       2  RIB     233   3   TER       0   0       0  E
+END
+PRO     925
+SEG       1  TER       0   0   RIB     234   3      11  E
+SEG       2  RIB     234   3   TER       0   0       0  E
+END
+PRO     926
+SEG       1  TER       0   0   RIB     235   3      24  E
+SEG       2  RIB     235   3   TER       0   0       0  E
+END
+PRO     927
+SEG       1  TER       0   0   RIB     236   3      25  E
+SEG       2  RIB     236   3   TER       0   0       0  E
+END
+PRO     928
+SEG       1  TER       0   0   RIB     237   3      31  E
+SEG       2  RIB     237   3   TER       0   0       0  E
+END
+PRO     929
+SEG       1  TER       0   0   RIB     238   3       8  E
+SEG       2  RIB     238   3   TER       0   0       0  E
+END
+PRO     930
+SEG       1  TER       0   0   RIB     239   3      44  E
+SEG       2  RIB     239   3   TER       0   0       0  E
+END
+PRO     931
+SEG       1  TER       0   0   RIB     240   3      27  E
+SEG       2  RIB     240   3   TER       0   0       0  E
+END
+PRO     932
+SEG       1  TER       0   0   RIB     241   3      10  E
+SEG       2  RIB     241   3   TER       0   0       0  E
+END
+PRO     933
+SEG       1  TER       0   0   RIB     242   3      12  E
+SEG       2  RIB     242   3   TER       0   0       0  E
+END
+PRO     934
+SEG       1  TER       0   0   RIB     243   3      22  E
+SEG       2  RIB     243   3   TER       0   0       0  E
+END
+PRO     935
+SEG       1  TER       0   0   RIB     244   3      11  E
+SEG       2  RIB     244   3   TER       0   0       0  E
+END
+PRO     936
+SEG       1  TER       0   0   RIB     245   3      36  E
+SEG       2  RIB     245   3   TER       0   0       0  E
+END
+PRO     937
+SEG       1  TER       0   0   RIB     246   3      11  E
+SEG       2  RIB     246   3   TER       0   0       0  E
+END
+PRO     938
+SEG       1  TER       0   0   RIB     247   3      11  E
+SEG       2  RIB     247   3   TER       0   0       0  E
+END
+PRO     939
+SEG       1  TER       0   0   RIB     248   3      10  E
+SEG       2  RIB     248   3   TER       0   0       0  E
+END
+PRO     940
+SEG       1  TER       0   0   RIB     249   3      13  E
+SEG       2  RIB     249   3   TER       0   0       0  E
+END
+PRO     941
+SEG       1  TER       0   0   RIB     250   3      24  E
+SEG       2  RIB     250   3   TER       0   0       0  E
+END
+PRO     942
+SEG       1  TER       0   0   RIB     251   3      36  E
+SEG       2  RIB     251   3   TER       0   0       0  E
+END
+PRO     943
+SEG       1  TER       0   0   RIB     252   3      25  E
+SEG       2  RIB     252   3   TER       0   0       0  E
+END
+PRO     944
+SEG       1  TER       0   0   RIB     253   3      10  E
+SEG       2  RIB     253   3   TER       0   0       0  E
+END
+PRO     945
+SEG       1  TER       0   0   RIB     254   3      14  E
+SEG       2  RIB     254   3   TER       0   0       0  E
+END
+PRO     946
+SEG       1  TER       0   0   RIB     255   3      13  E
+SEG       2  RIB     255   3   TER       0   0       0  E
+END
+PRO     947
+SEG       1  TER       0   0   RIB     256   3      37  E
+SEG       2  RIB     256   3   TER       0   0       0  E
+END
+PRO     948
+SEG       1  TER       0   0   RIB     257   3      17  E
+SEG       2  RIB     257   3   TER       0   0       0  E
+END
+PRO     949
+SEG       1  TER       0   0   RIB     258   3       6  E
+SEG       2  RIB     258   3   TER       0   0       0  E
+END
+PRO     950
+SEG       1  TER       0   0   RIB     259   3      37  E
+SEG       2  RIB     259   3   TER       0   0       0  E
+END
+PRO     951
+SEG       1  TER       0   0   RIB     260   3      11  E
+SEG       2  RIB     260   3   TER       0   0       0  E
+END
+PRO     952
+SEG       1  TER       0   0   RIB     261   3      31  E
+SEG       2  RIB     261   3   TER       0   0       0  E
+END
+PRO     953
+SEG       1  TER       0   0   RIB     262   3      25  E
+SEG       2  RIB     262   3   TER       0   0       0  E
+END
+PRO     954
+SEG       1  TER       0   0   RIB     263   3      64  E
+SEG       2  RIB     263   3   TER       0   0       0  E
+END
+PRO     955
+SEG       1  TER       0   0   RIB     264   3      11  E
+SEG       2  RIB     264   3   TER       0   0       0  E
+END
+PRO     956
+SEG       1  TER       0   0   RIB     265   3      31  E
+SEG       2  RIB     265   3   TER       0   0       0  E
+END
+PRO     957
+SEG       1  TER       0   0   RIB     266   3      69  E
+SEG       2  RIB     266   3   TER       0   0       0  E
+END
+PRO     958
+SEG       1  TER       0   0   RIB     267   3      17  E
+SEG       2  RIB     267   3   TER       0   0       0  E
+END
+PRO     959
+SEG       1  TER       0   0   RIB     268   3      11  E
+SEG       2  RIB     268   3   TER       0   0       0  E
+END
+PRO     960
+SEG       1  TER       0   0   RIB     269   3      31  E
+SEG       2  RIB     269   3   TER       0   0       0  E
+END
+PRO     961
+SEG       1  TER       0   0   RIB     270   3       7  E
+SEG       2  RIB     270   3   TER       0   0       0  E
+END
+PRO     962
+SEG       1  TER       0   0   RIB     271   3      25  E
+SEG       2  RIB     271   3   TER       0   0       0  E
+END
+PRO     963
+SEG       1  TER       0   0   RIB     272   3      17  E
+SEG       2  RIB     272   3   TER       0   0       0  E
+END
+PRO     964
+SEG       1  TER       0   0   RIB     273   3      13  E
+SEG       2  RIB     273   3   TER       0   0       0  E
+END
+PRO     965
+SEG       1  TER       0   0   RIB     274   3      10  E
+SEG       2  RIB     274   3   TER       0   0       0  E
+END
+PRO     966
+SEG       1  TER       0   0   RIB     275   3       6  E
+SEG       2  RIB     275   3   TER       0   0       0  E
+END
+PRO     967
+SEG       1  TER       0   0   RIB     276   3      31  E
+SEG       2  RIB     276   3   TER       0   0       0  E
+END
+PRO     968
+SEG       1  TER       0   0   RIB     277   3      24  E
+SEG       2  RIB     277   3   TER       0   0       0  E
+END
+PRO     969
+SEG       1  TER       0   0   RIB     278   3      20  E
+SEG       2  RIB     278   3   TER       0   0       0  E
+END
+PRO     970
+SEG       1  TER       0   0   RIB     279   3      45  E
+SEG       2  RIB     279   3   TER       0   0       0  E
+END
+PRO     971
+SEG       1  TER       0   0   RIB     280   3      18  E
+SEG       2  RIB     280   3   TER       0   0       0  E
+END
+PRO     972
+SEG       1  TER       0   0   RIB     281   3      24  E
+SEG       2  RIB     281   3   TER       0   0       0  E
+END
+PRO     973
+SEG       1  TER       0   0   RIB     282   3      18  E
+SEG       2  RIB     282   3   TER       0   0       0  E
+END
+PRO     974
+SEG       1  TER       0   0   RIB     283   3      14  E
+SEG       2  RIB     283   3   TER       0   0       0  E
+END
+PRO     975
+SEG       1  TER       0   0   RIB     284   3      29  E
+SEG       2  RIB     284   3   TER       0   0       0  E
+END
+PRO     976
+SEG       1  TER       0   0   RIB     285   3      49  E
+SEG       2  RIB     285   3   TER       0   0       0  E
+END
+PRO     977
+SEG       1  TER       0   0   RIB     286   3      13  E
+SEG       2  RIB     286   3   TER       0   0       0  E
+END
+PRO     978
+SEG       1  TER       0   0   RIB     287   3      23  E
+SEG       2  RIB     287   3   TER       0   0       0  E
+END
+PRO     979
+SEG       1  TER       0   0   RIB     288   3      28  E
+SEG       2  RIB     288   3   TER       0   0       0  E
+END
+PRO     980
+SEG       1  TER       0   0   RIB     289   3      37  E
+SEG       2  RIB     289   3   TER       0   0       0  E
+END
+PRO     981
+SEG       1  TER       0   0   RIB     290   3      31  E
+SEG       2  RIB     290   3   TER       0   0       0  E
+END
+PRO     982
+SEG       1  TER       0   0   RIB     291   3       4  E
+SEG       2  RIB     291   3   TER       0   0       0  E
+END
+PRO     983
+SEG       1  TER       0   0   RIB     292   3      25  E
+SEG       2  RIB     292   3   TER       0   0       0  E
+END
+PRO     984
+SEG       1  TER       0   0   RIB     293   3      16  E
+SEG       2  RIB     293   3   TER       0   0       0  E
+END
+PRO     985
+SEG       1  TER       0   0   RIB     294   3      10  E
+SEG       2  RIB     294   3   TER       0   0       0  E
+END
+PRO     986
+SEG       1  TER       0   0   RIB     295   3      69  E
+SEG       2  RIB     295   3   TER       0   0       0  E
+END
+PRO     987
+SEG       1  TER       0   0   RIB     296   3      43  E
+SEG       2  RIB     296   3   TER       0   0       0  E
+END
+PRO     988
+SEG       1  TER       0   0   RIB     297   3      22  E
+SEG       2  RIB     297   3   TER       0   0       0  E
+END
+PRO     989
+SEG       1  TER       0   0   RIB     298   3      22  E
+SEG       2  RIB     298   3   TER       0   0       0  E
+END
+PRO     990
+SEG       1  TER       0   0   RIB     299   3      22  E
+SEG       2  RIB     299   3   TER       0   0       0  E
+END
+PRO     991
+SEG       1  TER       0   0   RIB     300   3       7  E
+SEG       2  RIB     300   3   TER       0   0       0  E
+END
+PRO     992
+SEG       1  TER       0   0   RIB     301   3       8  E
+SEG       2  RIB     301   3   TER       0   0       0  E
+END
+PRO     993
+SEG       1  TER       0   0   RIB     302   3      36  E
+SEG       2  RIB     302   3   TER       0   0       0  E
+END
+PRO     994
+SEG       1  TER       0   0   RIB     303   3       5  E
+SEG       2  RIB     303   3   TER       0   0       0  E
+END
+PRO     995
+SEG       1  TER       0   0   RIB     304   3      44  E
+SEG       2  RIB     304   3   TER       0   0       0  E
+END
+PRO     996
+SEG       1  TER       0   0   RIB     305   3      31  E
+SEG       2  RIB     305   3   TER       0   0       0  E
+END
+PRO     997
+SEG       1  TER       0   0   RIB     306   3       5  E
+SEG       2  RIB     306   3   TER       0   0       0  E
+END
+PRO     998
+SEG       1  TER       0   0   RIB     307   3      45  E
+SEG       2  RIB     307   3   TER       0   0       0  E
+END
+PRO     999
+SEG       1  TER       0   0   RIB     308   3      31  E
+SEG       2  RIB     308   3   TER       0   0       0  E
+END
+PRO    1000
+SEG       1  TER       0   0   RIB     309   3       4  E
+SEG       2  RIB     309   3   TER       0   0       0  E
+END
+PRO    1001
+SEG       1  TER       0   0   RIB     310   3      31  E
+SEG       2  RIB     310   3   TER       0   0       0  E
+END
+PRO    1002
+SEG       1  TER       0   0   RIB     311   3      24  E
+SEG       2  RIB     311   3   TER       0   0       0  E
+END
+PRO    1003
+SEG       1  TER       0   0   RIB     312   3      22  E
+SEG       2  RIB     312   3   TER       0   0       0  E
+END
+PRO    1004
+SEG       1  TER       0   0   RIB     313   3      18  E
+SEG       2  RIB     313   3   TER       0   0       0  E
+END
+PRO    1005
+SEG       1  TER       0   0   RIB     314   3      47  E
+SEG       2  RIB     314   3   TER       0   0       0  E
+END
+PRO    1006
+SEG       1  TER       0   0   RIB     315   3      21  E
+SEG       2  RIB     315   3   TER       0   0       0  E
+END
+PRO    1007
+SEG       1  TER       0   0   RIB     316   3      22  E
+SEG       2  RIB     316   3   TER       0   0       0  E
+END
+PRO    1008
+SEG       1  TER       0   0   RIB     317   3      15  E
+SEG       2  RIB     317   3   TER       0   0       0  E
+END
+PRO    1009
+SEG       1  TER       0   0   RIB     318   3       4  E
+SEG       2  RIB     318   3   TER       0   0       0  E
+END
+PRO    1010
+SEG       1  TER       0   0   RIB     319   3      16  E
+SEG       2  RIB     319   3   TER       0   0       0  E
+END
+PRO    1011
+SEG       1  TER       0   0   RIB     320   3      25  E
+SEG       2  RIB     320   3   TER       0   0       0  E
+END
+PRO    1012
+SEG       1  TER       0   0   RIB     321   3      36  E
+SEG       2  RIB     321   3   TER       0   0       0  E
+END
+PRO    1013
+SEG       1  TER       0   0   RIB     322   3      26  E
+SEG       2  RIB     322   3   TER       0   0       0  E
+END
+PRO    1014
+SEG       1  TER       0   0   RIB     323   3       4  E
+SEG       2  RIB     323   3   TER       0   0       0  E
+END
+PRO    1015
+SEG       1  TER       0   0   RIB     324   3      18  E
+SEG       2  RIB     324   3   TER       0   0       0  E
+END
+PRO    1016
+SEG       1  TER       0   0   RIB     325   3       4  E
+SEG       2  RIB     325   3   TER       0   0       0  E
+END
+PRO    1017
+SEG       1  TER       0   0   RIB     326   3      10  E
+SEG       2  RIB     326   3   TER       0   0       0  E
+END
+PRO    1018
+SEG       1  TER       0   0   RIB     327   3       6  E
+SEG       2  RIB     327   3   TER       0   0       0  E
+END
+PRO    1019
+SEG       1  TER       0   0   RIB     328   3       8  E
+SEG       2  RIB     328   3   TER       0   0       0  E
+END
+PRO    1020
+SEG       1  TER       0   0   RIB     329   3      22  E
+SEG       2  RIB     329   3   TER       0   0       0  E
+END
+PRO    1021
+SEG       1  TER       0   0   RIB     330   3      13  E
+SEG       2  RIB     330   3   TER       0   0       0  E
+END
+PRO    1022
+SEG       1  TER       0   0   RIB     331   3      27  E
+SEG       2  RIB     331   3   TER       0   0       0  E
+END
+PRO    1023
+SEG       1  TER       0   0   RIB     332   3      47  E
+SEG       2  RIB     332   3   TER       0   0       0  E
+END
+PRO    1024
+SEG       1  TER       0   0   RIB     333   3      27  E
+SEG       2  RIB     333   3   TER       0   0       0  E
+END
+PRO    1025
+SEG       1  TER       0   0   RIB     334   3      31  E
+SEG       2  RIB     334   3   TER       0   0       0  E
+END
+PRO    1026
+SEG       1  TER       0   0   RIB     335   3       9  E
+SEG       2  RIB     335   3   TER       0   0       0  E
+END
+PRO    1027
+SEG       1  TER       0   0   RIB     336   3      10  E
+SEG       2  RIB     336   3   TER       0   0       0  E
+END
+PRO    1028
+SEG       1  TER       0   0   RIB     337   3      29  E
+SEG       2  RIB     337   3   TER       0   0       0  E
+END
+PRO    1029
+SEG       1  TER       0   0   RIB     338   3      26  E
+SEG       2  RIB     338   3   TER       0   0       0  E
+END
+PRO    1030
+SEG       1  TER       0   0   RIB     339   3      28  E
+SEG       2  RIB     339   3   TER       0   0       0  E
+END
+PRO    1031
+SEG       1  TER       0   0   RIB     340   3      27  E
+SEG       2  RIB     340   3   TER       0   0       0  E
+END
+PRO    1032
+SEG       1  TER       0   0   RIB     341   3      12  E
+SEG       2  RIB     341   3   TER       0   0       0  E
+END
+PRO    1033
+SEG       1  TER       0   0   RIB     342   3      15  E
+SEG       2  RIB     342   3   TER       0   0       0  E
+END
+PRO    1034
+SEG       1  TER       0   0   RIB     343   3       5  E
+SEG       2  RIB     343   3   TER       0   0       0  E
+END
+PRO    1035
+SEG       1  TER       0   0   RIB     344   3      12  E
+SEG       2  RIB     344   3   TER       0   0       0  E
+END
+PRO    1036
+SEG       1  TER       0   0   RIB     345   3      32  E
+SEG       2  RIB     345   3   TER       0   0       0  E
+END
+PRO    1037
+SEG       1  TER       0   0   RIB     346   3      11  E
+SEG       2  RIB     346   3   TER       0   0       0  E
+END
+PRO    1038
+SEG       1  TER       0   0   RIB     347   3       8  E
+SEG       2  RIB     347   3   TER       0   0       0  E
+END
+PRO    1039
+SEG       1  TER       0   0   RIB     348   3      21  E
+SEG       2  RIB     348   3   TER       0   0       0  E
+END
+PRO    1040
+SEG       1  TER       0   0   RIB     349   3      47  E
+SEG       2  RIB     349   3   TER       0   0       0  E
+END
+PRO    1041
+SEG       1  TER       0   0   RIB     350   3      20  E
+SEG       2  RIB     350   3   TER       0   0       0  E
+END
+PRO    1042
+SEG       1  TER       0   0   RIB     351   3      17  E
+SEG       2  RIB     351   3   TER       0   0       0  E
+END
+PRO    1043
+SEG       1  TER       0   0   RIB     352   3      17  E
+SEG       2  RIB     352   3   TER       0   0       0  E
+END
+PRO    1044
+SEG       1  TER       0   0   RIB     353   3      26  E
+SEG       2  RIB     353   3   TER       0   0       0  E
+END
+PRO    1045
+SEG       1  TER       0   0   RIB     354   3      23  E
+SEG       2  RIB     354   3   TER       0   0       0  E
+END
+PRO    1046
+SEG       1  TER       0   0   RIB     355   3      32  E
+SEG       2  RIB     355   3   TER       0   0       0  E
+END
+PRO    1047
+SEG       1  TER       0   0   RIB     356   3      21  E
+SEG       2  RIB     356   3   TER       0   0       0  E
+END
+PRO    1048
+SEG       1  TER       0   0   RIB     357   3      49  E
+SEG       2  RIB     357   3   TER       0   0       0  E
+END
+PRO    1049
+SEG       1  TER       0   0   RIB     358   3      47  E
+SEG       2  RIB     358   3   TER       0   0       0  E
+END
+PRO    1050
+SEG       1  TER       0   0   RIB     359   3      31  E
+SEG       2  RIB     359   3   TER       0   0       0  E
+END
+PRO    1051
+SEG       1  TER       0   0   RIB     360   3      15  E
+SEG       2  RIB     360   3   TER       0   0       0  E
+END
+PRO    1052
+SEG       1  TER       0   0   RIB     361   3       3  E
+SEG       2  RIB     361   3   TER       0   0       0  E
+END
+PRO    1053
+SEG       1  TER       0   0   RIB     362   3      26  E
+SEG       2  RIB     362   3   TER       0   0       0  E
+END
+PRO    1054
+SEG       1  TER       0   0   RIB     363   3      49  E
+SEG       2  RIB     363   3   TER       0   0       0  E
+END
+PRO    1055
+SEG       1  TER       0   0   RIB     364   3      21  E
+SEG       2  RIB     364   3   TER       0   0       0  E
+END
+PRO    1056
+SEG       1  TER       0   0   RIB     365   3      25  E
+SEG       2  RIB     365   3   TER       0   0       0  E
+END
+PRO    1057
+SEG       1  TER       0   0   RIB     366   3      15  E
+SEG       2  RIB     366   3   TER       0   0       0  E
+END
+PRO    1058
+SEG       1  TER       0   0   RIB     367   3      22  E
+SEG       2  RIB     367   3   TER       0   0       0  E
+END
+PRO    1059
+SEG       1  TER       0   0   RIB     368   3      37  E
+SEG       2  RIB     368   3   TER       0   0       0  E
+END
+PRO    1060
+SEG       1  TER       0   0   RIB     369   3      22  E
+SEG       2  RIB     369   3   TER       0   0       0  E
+END
+PRO    1061
+SEG       1  TER       0   0   RIB     370   3      15  E
+SEG       2  RIB     370   3   TER       0   0       0  E
+END
+PRO    1062
+SEG       1  TER       0   0   RIB     371   3      26  E
+SEG       2  RIB     371   3   TER       0   0       0  E
+END
+PRO    1063
+SEG       1  TER       0   0   RIB     372   3      16  E
+SEG       2  RIB     372   3   TER       0   0       0  E
+END
+PRO    1064
+SEG       1  TER       0   0   RIB     373   3      51  E
+SEG       2  RIB     373   3   TER       0   0       0  E
+END
+PRO    1065
+SEG       1  TER       0   0   RIB     374   3      29  E
+SEG       2  RIB     374   3   TER       0   0       0  E
+END
+PRO    1066
+SEG       1  TER       0   0   RIB     375   3      14  E
+SEG       2  RIB     375   3   TER       0   0       0  E
+END
+PRO    1067
+SEG       1  TER       0   0   RIB     376   3      10  E
+SEG       2  RIB     376   3   TER       0   0       0  E
+END
+PRO    1068
+SEG       1  TER       0   0   RIB     377   3      69  E
+SEG       2  RIB     377   3   TER       0   0       0  E
+END
+PRO    1069
+SEG       1  TER       0   0   RIB     378   3       6  E
+SEG       2  RIB     378   3   TER       0   0       0  E
+END
+PRO    1070
+SEG       1  TER       0   0   RIB     379   3      15  E
+SEG       2  RIB     379   3   TER       0   0       0  E
+END
+PRO    1071
+SEG       1  TER       0   0   RIB     380   3      11  E
+SEG       2  RIB     380   3   TER       0   0       0  E
+END
+PRO    1072
+SEG       1  TER       0   0   RIB     381   3      10  E
+SEG       2  RIB     381   3   TER       0   0       0  E
+END
+PRO    1073
+SEG       1  TER       0   0   RIB     382   3      17  E
+SEG       2  RIB     382   3   TER       0   0       0  E
+END
+PRO    1074
+SEG       1  TER       0   0   RIB     383   3      35  E
+SEG       2  RIB     383   3   TER       0   0       0  E
+END
+PRO    1075
+SEG       1  TER       0   0   RIB     384   3      21  E
+SEG       2  RIB     384   3   TER       0   0       0  E
+END
+PRO    1076
+SEG       1  TER       0   0   RIB     385   3      24  E
+SEG       2  RIB     385   3   TER       0   0       0  E
+END
+PRO    1077
+SEG       1  TER       0   0   RIB     386   3      21  E
+SEG       2  RIB     386   3   TER       0   0       0  E
+END
+PRO    1078
+SEG       1  TER       0   0   RIB     387   3      37  E
+SEG       2  RIB     387   3   TER       0   0       0  E
+END
+PRO    1079
+SEG       1  TER       0   0   RIB     388   3      11  E
+SEG       2  RIB     388   3   TER       0   0       0  E
+END
+PRO    1080
+SEG       1  TER       0   0   RIB     389   3       8  E
+SEG       2  RIB     389   3   TER       0   0       0  E
+END
+PRO    1081
+SEG       1  TER       0   0   RIB     390   3      15  E
+SEG       2  RIB     390   3   TER       0   0       0  E
+END
+PRO    1082
+SEG       1  TER       0   0   RIB     391   3      23  E
+SEG       2  RIB     391   3   TER       0   0       0  E
+END
+PRO    1083
+SEG       1  TER       0   0   RIB     392   3       5  E
+SEG       2  RIB     392   3   TER       0   0       0  E
+END
+PRO    1084
+SEG       1  TER       0   0   RIB     393   3       9  E
+SEG       2  RIB     393   3   TER       0   0       0  E
+END
+PRO    1085
+SEG       1  TER       0   0   RIB     394   3      14  E
+SEG       2  RIB     394   3   TER       0   0       0  E
+END
+PRO    1086
+SEG       1  TER       0   0   RIB     395   3      13  E
+SEG       2  RIB     395   3   TER       0   0       0  E
+END
+PRO    1087
+SEG       1  TER       0   0   RIB     396   3      20  E
+SEG       2  RIB     396   3   TER       0   0       0  E
+END
+PRO    1088
+SEG       1  TER       0   0   RIB     397   3       6  E
+SEG       2  RIB     397   3   TER       0   0       0  E
+END
+PRO    1089
+SEG       1  TER       0   0   RIB     398   3      13  E
+SEG       2  RIB     398   3   TER       0   0       0  E
+END
+PRO    1090
+SEG       1  TER       0   0   RIB     399   3      30  E
+SEG       2  RIB     399   3   TER       0   0       0  E
+END
+PRO    1091
+SEG       1  TER       0   0   RIB     400   3      19  E
+SEG       2  RIB     400   3   TER       0   0       0  E
+END
+PRO    1092
+SEG       1  TER       0   0   RIB     401   3      17  E
+SEG       2  RIB     401   3   TER       0   0       0  E
+END
+PRO    1093
+SEG       1  TER       0   0   RIB     402   3      47  E
+SEG       2  RIB     402   3   TER       0   0       0  E
+END
+PRO    1094
+SEG       1  TER       0   0   RIB     403   3      34  E
+SEG       2  RIB     403   3   TER       0   0       0  E
+END
+PRO    1095
+SEG       1  TER       0   0   RIB     404   3      18  E
+SEG       2  RIB     404   3   TER       0   0       0  E
+END
+PRO    1096
+SEG       1  TER       0   0   RIB     405   3      28  E
+SEG       2  RIB     405   3   TER       0   0       0  E
+END
+PRO    1097
+SEG       1  TER       0   0   RIB     406   3      31  E
+SEG       2  RIB     406   3   TER       0   0       0  E
+END
+PRO    1098
+SEG       1  TER       0   0   RIB     407   3       5  E
+SEG       2  RIB     407   3   TER       0   0       0  E
+END
+PRO    1099
+SEG       1  TER       0   0   RIB     408   3      29  E
+SEG       2  RIB     408   3   TER       0   0       0  E
+END
+PRO    1100
+SEG       1  TER       0   0   RIB     409   3      16  E
+SEG       2  RIB     409   3   TER       0   0       0  E
+END
+PRO    1101
+SEG       1  TER       0   0   RIB     410   3      31  E
+SEG       2  RIB     410   3   TER       0   0       0  E
+END
+PRO    1102
+SEG       1  TER       0   0   RIB     411   3      20  E
+SEG       2  RIB     411   3   TER       0   0       0  E
+END
+PRO    1103
+SEG       1  TER       0   0   RIB     412   3      37  E
+SEG       2  RIB     412   3   TER       0   0       0  E
+END
+PRO    1104
+SEG       1  TER       0   0   RIB     413   3      28  E
+SEG       2  RIB     413   3   TER       0   0       0  E
+END
+PRO    1105
+SEG       1  TER       0   0   RIB     414   3      14  E
+SEG       2  RIB     414   3   TER       0   0       0  E
+END
+PRO    1106
+SEG       1  TER       0   0   RIB     415   3      25  E
+SEG       2  RIB     415   3   TER       0   0       0  E
+END
+PRO    1107
+SEG       1  TER       0   0   RIB     416   3      18  E
+SEG       2  RIB     416   3   TER       0   0       0  E
+END
+PRO    1108
+SEG       1  TER       0   0   RIB     417   3      35  E
+SEG       2  RIB     417   3   TER       0   0       0  E
+END
+PRO    1109
+SEG       1  TER       0   0   RIB     418   3       9  E
+SEG       2  RIB     418   3   TER       0   0       0  E
+END
+PRO    1110
+SEG       1  TER       0   0   RIB     419   3       9  E
+SEG       2  RIB     419   3   TER       0   0       0  E
+END
+PRO    1111
+SEG       1  TER       0   0   RIB     420   3      10  E
+SEG       2  RIB     420   3   TER       0   0       0  E
+END
+PRO    1112
+SEG       1  TER       0   0   RIB     421   3      10  E
+SEG       2  RIB     421   3   TER       0   0       0  E
+END
+PRO    1113
+SEG       1  TER       0   0   RIB     422   3      19  E
+SEG       2  RIB     422   3   TER       0   0       0  E
+END
+PRO    1114
+SEG       1  TER       0   0   RIB     423   3      42  E
+SEG       2  RIB     423   3   TER       0   0       0  E
+END
+PRO    1115
+SEG       1  TER       0   0   RIB     424   3      34  E
+SEG       2  RIB     424   3   TER       0   0       0  E
+END
+PRO    1116
+SEG       1  TER       0   0   RIB     425   3      47  E
+SEG       2  RIB     425   3   TER       0   0       0  E
+END
+PRO    1117
+SEG       1  TER       0   0   RIB     426   3      12  E
+SEG       2  RIB     426   3   TER       0   0       0  E
+END
+PRO    1118
+SEG       1  TER       0   0   RIB     427   3       4  E
+SEG       2  RIB     427   3   TER       0   0       0  E
+END
+PRO    1119
+SEG       1  TER       0   0   RIB     428   3      12  E
+SEG       2  RIB     428   3   TER       0   0       0  E
+END
+PRO    1120
+SEG       1  TER       0   0   RIB     429   3      31  E
+SEG       2  RIB     429   3   TER       0   0       0  E
+END
+PRO    1121
+SEG       1  TER       0   0   RIB     430   3      26  E
+SEG       2  RIB     430   3   TER       0   0       0  E
+END
+PRO    1122
+SEG       1  TER       0   0   RIB     431   3      25  E
+SEG       2  RIB     431   3   TER       0   0       0  E
+END
+PRO    1123
+SEG       1  TER       0   0   RIB     432   3      10  E
+SEG       2  RIB     432   3   TER       0   0       0  E
+END
+PRO    1124
+SEG       1  TER       0   0   RIB     433   3      10  E
+SEG       2  RIB     433   3   TER       0   0       0  E
+END
+PRO    1125
+SEG       1  TER       0   0   RIB     434   3      11  E
+SEG       2  RIB     434   3   TER       0   0       0  E
+END
+PRO    1126
+SEG       1  TER       0   0   RIB     435   3      15  E
+SEG       2  RIB     435   3   TER       0   0       0  E
+END
+PRO    1127
+SEG       1  TER       0   0   RIB     436   3      28  E
+SEG       2  RIB     436   3   TER       0   0       0  E
+END
+PRO    1128
+SEG       1  TER       0   0   RIB     437   3       3  E
+SEG       2  RIB     437   3   TER       0   0       0  E
+END
+PRO    1129
+SEG       1  TER       0   0   RIB     438   3      13  E
+SEG       2  RIB     438   3   TER       0   0       0  E
+END
+PRO    1130
+SEG       1  TER       0   0   RIB     439   3      17  E
+SEG       2  RIB     439   3   TER       0   0       0  E
+END
+PRO    1131
+SEG       1  TER       0   0   RIB     440   3       8  E
+SEG       2  RIB     440   3   TER       0   0       0  E
+END
+PRO    1132
+SEG       1  TER       0   0   RIB     441   3      15  E
+SEG       2  RIB     441   3   TER       0   0       0  E
+END
+PRO    1133
+SEG       1  TER       0   0   RIB     442   3      49  E
+SEG       2  RIB     442   3   TER       0   0       0  E
+END
+PRO    1134
+SEG       1  TER       0   0   RIB     443   3       5  E
+SEG       2  RIB     443   3   TER       0   0       0  E
+END
+PRO    1135
+SEG       1  TER       0   0   RIB     444   3       4  E
+SEG       2  RIB     444   3   TER       0   0       0  E
+END
+PRO    1136
+SEG       1  TER       0   0   RIB     445   3      28  E
+SEG       2  RIB     445   3   TER       0   0       0  E
+END
+PRO    1137
+SEG       1  TER       0   0   RIB     446   3      48  E
+SEG       2  RIB     446   3   TER       0   0       0  E
+END
+PRO    1138
+SEG       1  TER       0   0   RIB     447   3       9  E
+SEG       2  RIB     447   3   TER       0   0       0  E
+END
+PRO    1139
+SEG       1  TER       0   0   RIB     448   3      11  E
+SEG       2  RIB     448   3   TER       0   0       0  E
+END
+PRO    1140
+SEG       1  TER       0   0   RIB     449   3      12  E
+SEG       2  RIB     449   3   TER       0   0       0  E
+END
+PRO    1141
+SEG       1  TER       0   0   RIB     450   3      18  E
+SEG       2  RIB     450   3   TER       0   0       0  E
+END
+PRO    1142
+SEG       1  TER       0   0   RIB     451   3      69  E
+SEG       2  RIB     451   3   TER       0   0       0  E
+END
+PRO    1143
+SEG       1  TER       0   0   RIB     452   3      20  E
+SEG       2  RIB     452   3   TER       0   0       0  E
+END
+PRO    1144
+SEG       1  TER       0   0   RIB     453   3      36  E
+SEG       2  RIB     453   3   TER       0   0       0  E
+END
+PRO    1145
+SEG       1  TER       0   0   RIB     454   3      22  E
+SEG       2  RIB     454   3   TER       0   0       0  E
+END
+PRO    1146
+SEG       1  TER       0   0   RIB     455   3      10  E
+SEG       2  RIB     455   3   TER       0   0       0  E
+END
+PRO    1147
+SEG       1  TER       0   0   RIB     456   3      10  E
+SEG       2  RIB     456   3   TER       0   0       0  E
+END
+PRO    1148
+SEG       1  TER       0   0   RIB     457   3      12  E
+SEG       2  RIB     457   3   TER       0   0       0  E
+END
+PRO    1149
+SEG       1  TER       0   0   RIB     458   3      40  E
+SEG       2  RIB     458   3   TER       0   0       0  E
+END
+PRO    1150
+SEG       1  TER       0   0   RIB     459   3       6  E
+SEG       2  RIB     459   3   TER       0   0       0  E
+END
+PRO    1151
+SEG       1  TER       0   0   RIB     460   3      12  E
+SEG       2  RIB     460   3   TER       0   0       0  E
+END
+PRO    1152
+SEG       1  TER       0   0   RIB     461   3      12  E
+SEG       2  RIB     461   3   TER       0   0       0  E
+END
+PRO    1153
+SEG       1  TER       0   0   RIB     462   3       6  E
+SEG       2  RIB     462   3   TER       0   0       0  E
+END
+PRO    1154
+SEG       1  TER       0   0   RIB     463   3      24  E
+SEG       2  RIB     463   3   TER       0   0       0  E
+END
+PRO    1155
+SEG       1  TER       0   0   RIB     464   3      28  E
+SEG       2  RIB     464   3   TER       0   0       0  E
+END
+PRO    1156
+SEG       1  TER       0   0   RIB     465   3      23  E
+SEG       2  RIB     465   3   TER       0   0       0  E
+END
+PRO    1157
+SEG       1  TER       0   0   RIB     466   3      51  E
+SEG       2  RIB     466   3   TER       0   0       0  E
+END
+PRO    1158
+SEG       1  TER       0   0   RIB     467   3      14  E
+SEG       2  RIB     467   3   TER       0   0       0  E
+END
+PRO    1159
+SEG       1  TER       0   0   RIB     468   3      10  E
+SEG       2  RIB     468   3   TER       0   0       0  E
+END
+PRO    1160
+SEG       1  TER       0   0   RIB     469   3      10  E
+SEG       2  RIB     469   3   TER       0   0       0  E
+END
+PRO    1161
+SEG       1  TER       0   0   RIB     470   3       5  E
+SEG       2  RIB     470   3   TER       0   0       0  E
+END
+PRO    1162
+SEG       1  TER       0   0   RIB     471   3      15  E
+SEG       2  RIB     471   3   TER       0   0       0  E
+END
+PRO    1163
+SEG       1  TER       0   0   RIB     472   3      51  E
+SEG       2  RIB     472   3   TER       0   0       0  E
+END
+PRO    1164
+SEG       1  TER       0   0   RIB     473   3      69  E
+SEG       2  RIB     473   3   TER       0   0       0  E
+END
+PRO    1165
+SEG       1  TER       0   0   RIB     474   3      23  E
+SEG       2  RIB     474   3   TER       0   0       0  E
+END
+PRO    1166
+SEG       1  TER       0   0   RIB     475   3      34  E
+SEG       2  RIB     475   3   TER       0   0       0  E
+END
+PRO    1167
+SEG       1  TER       0   0   RIB     476   3      24  E
+SEG       2  RIB     476   3   TER       0   0       0  E
+END
+PRO    1168
+SEG       1  TER       0   0   RIB     477   3      31  E
+SEG       2  RIB     477   3   TER       0   0       0  E
+END
+PRO    1169
+SEG       1  TER       0   0   RIB     478   3      25  E
+SEG       2  RIB     478   3   TER       0   0       0  E
+END
+PRO    1170
+SEG       1  TER       0   0   RIB     479   3      19  E
+SEG       2  RIB     479   3   TER       0   0       0  E
+END
+PRO    1171
+SEG       1  TER       0   0   RIB     480   3      17  E
+SEG       2  RIB     480   3   TER       0   0       0  E
+END
+PRO    1172
+SEG       1  TER       0   0   RIB     481   3      11  E
+SEG       2  RIB     481   3   TER       0   0       0  E
+END
+PRO    1173
+SEG       1  TER       0   0   RIB     482   3      15  E
+SEG       2  RIB     482   3   TER       0   0       0  E
+END
+PRO    1174
+SEG       1  TER       0   0   RIB     483   3       4  E
+SEG       2  RIB     483   3   TER       0   0       0  E
+END
+PRO    1175
+SEG       1  TER       0   0   RIB     484   3      23  E
+SEG       2  RIB     484   3   TER       0   0       0  E
+END
+PRO    1176
+SEG       1  TER       0   0   RIB     485   3      17  E
+SEG       2  RIB     485   3   TER       0   0       0  E
+END
+PRO    1177
+SEG       1  TER       0   0   RIB     486   3      34  E
+SEG       2  RIB     486   3   TER       0   0       0  E
+END
+PRO    1178
+SEG       1  TER       0   0   RIB     487   3      20  E
+SEG       2  RIB     487   3   TER       0   0       0  E
+END
+PRO    1179
+SEG       1  TER       0   0   RIB     488   3      11  E
+SEG       2  RIB     488   3   TER       0   0       0  E
+END
+PRO    1180
+SEG       1  TER       0   0   RIB     489   3      29  E
+SEG       2  RIB     489   3   TER       0   0       0  E
+END
+PRO    1181
+SEG       1  TER       0   0   RIB     490   3       9  E
+SEG       2  RIB     490   3   TER       0   0       0  E
+END
+PRO    1182
+SEG       1  TER       0   0   RIB     491   3       4  E
+SEG       2  RIB     491   3   TER       0   0       0  E
+END
+PRO    1183
+SEG       1  TER       0   0   RIB     492   3      44  E
+SEG       2  RIB     492   3   TER       0   0       0  E
+END
+PRO    1184
+SEG       1  TER       0   0   RIB     493   3       3  E
+SEG       2  RIB     493   3   TER       0   0       0  E
+END
+PRO    1185
+SEG       1  TER       0   0   RIB     494   3      29  E
+SEG       2  RIB     494   3   TER       0   0       0  E
+END
+PRO    1186
+SEG       1  TER       0   0   RIB     495   3      31  E
+SEG       2  RIB     495   3   TER       0   0       0  E
+END
+PRO    1187
+SEG       1  TER       0   0   RIB     496   3      22  E
+SEG       2  RIB     496   3   TER       0   0       0  E
+END
+PRO    1188
+SEG       1  TER       0   0   RIB     497   3      10  E
+SEG       2  RIB     497   3   TER       0   0       0  E
+END
+PRO    1189
+SEG       1  TER       0   0   RIB     498   3      20  E
+SEG       2  RIB     498   3   TER       0   0       0  E
+END
+PRO    1190
+SEG       1  TER       0   0   RIB     499   3      18  E
+SEG       2  RIB     499   3   TER       0   0       0  E
+END
+PRO    1191
+SEG       1  TER       0   0   RIB     500   3      10  E
+SEG       2  RIB     500   3   TER       0   0       0  E
+END
+PRO    1192
+SEG       1  TER       0   0   RIB     501   3      22  E
+SEG       2  RIB     501   3   TER       0   0       0  E
+END
+PRO    1193
+SEG       1  TER       0   0   RIB     502   3      28  E
+SEG       2  RIB     502   3   TER       0   0       0  E
+END
+PRO    1194
+SEG       1  TER       0   0   RIB     503   3      21  E
+SEG       2  RIB     503   3   TER       0   0       0  E
+END

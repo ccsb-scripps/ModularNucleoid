@@ -1,0 +1,6 @@
+#! /usr/bin/env bash
+#
+gfortran generate_connect.f -o generate_connect
+gfortran generate_pol.f subroutines.f -o generate_pol
+gfortran modularlattice.f subroutines.f -o modularlattice
+gfortran relax.f -o relax
