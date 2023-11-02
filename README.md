@@ -1,6 +1,7 @@
 # ModularNucleoid
 Software for Generating Models of JCVI-Syn3A Nucleoids
-May 2023, David S. Goodsell, provided as is for unrestricted use
+May 2023, David S. Goodsell, provided as is for unrestricted use.
+
 ModularNucleoid is used to generate models of the minimal genome bacterium JCVI-Syn3A, producing a series of models that test hypotheses about transcription, condensation, and overall distribution of the genome. 
 
 <p align="center" float="left">
